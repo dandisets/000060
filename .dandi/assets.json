@@ -3,16 +3,16 @@
 "attrs":
 {
 "ctime":
-"2021-03-11T23:52:37.291000+00:00",
+"2021-04-11T22:55:53.477000+00:00",
 "mtime":
-"2021-01-27T11:46:38-05:00",
+"2021-04-09T20:49:02-04:00",
 "size":
 14170028
 },
 "girder":
 {
 "id":
-"604aad4502cb75004f0af99e"
+"60737e7902cb75004f0b296c"
 },
 "metadata":
 {
@@ -25,7 +25,7 @@
 "institution":
 "janelia research campus",
 "md5":
-"3094811bdbeac1e798400af8d5b8fc67",
+"6cc593d01421fbf8fd4e469a124853d9",
 "nwb_version":
 "2.2.5",
 "session_description":
@@ -35,11 +35,11 @@
 "sex":
 "unknown",
 "sha1":
-"fd1140b517e5b67481a5e5922238deb536d73d47",
+"360e2c605ff4287ed40d51c542f057f9e64cd324",
 "sha256":
-"1297637855bddce29d610cc0ca158d93bb9e0136d4dd90d556b307d0c274442a",
+"fe48b1796a696241a187c5385b962dd52771ad31f9ec61ce5e16b22d7f14f61f",
 "sha512":
-"d32248d172bfbbc0ca54096295612915b8e2f48be8d204ad71534cc0a7711f33e230464eaecb0cbed4cff680e0e3e81f225196a3da0ced0ff1bca8f139cb0fa5",
+"cd74c025c20394f557e8b2a5abc73d4a39cbb5fa739fc71f822b08b7cd2681db3d491ee32cfffc83e1474fb1dbade9b959082cb8132652b64ee05086a0c6f6d0",
 "species":
 "mus musculus",
 "subject_id":
@@ -47,22 +47,22 @@
 "uploaded_by":
 "dandi 0.11.0",
 "uploaded_datetime":
-"2021-03-11T18:50:37.783031-05:00",
+"2021-04-11T18:53:33.342367-04:00",
 "uploaded_mtime":
-"2021-01-27T11:46:38-05:00",
+"2021-04-09T20:49:02-04:00",
 "uploaded_nwb_object_id":
-"9fdc4b55-9aba-4e51-96b3-457079a14140",
+"e104e536-fb89-4368-9b60-c98b4a241f0d",
 "uploaded_size":
 14170028
 },
 "modified":
-"2021-01-27 11:46:38-05:00",
+"2021-04-09 20:49:02-04:00",
 "name":
 "sub-353936_ses-20170519_behavior+ecephys+ogen.nwb",
 "path":
 "/sub-353936/sub-353936_ses-20170519_behavior+ecephys+ogen.nwb",
 "sha256":
-"1297637855bddce29d610cc0ca158d93bb9e0136d4dd90d556b307d0c274442a",
+"fe48b1796a696241a187c5385b962dd52771ad31f9ec61ce5e16b22d7f14f61f",
 "size":
 14170028,
 "type":
@@ -72,16 +72,16 @@
 "attrs":
 {
 "ctime":
-"2021-03-11T23:52:36.087000+00:00",
+"2021-04-11T22:55:54.294000+00:00",
 "mtime":
-"2021-01-27T11:53:22-05:00",
+"2021-04-09T21:09:46-04:00",
 "size":
 21673120
 },
 "girder":
 {
 "id":
-"604aad4402cb75004f0af99a"
+"60737e7a02cb75004f0b2972"
 },
 "metadata":
 {
@@ -94,7 +94,7 @@
 "institution":
 "janelia research campus",
 "md5":
-"cab5bb3f45aed7d380eb153a47247267",
+"ad4b2160b5dbab07555d244b97d508d5",
 "nwb_version":
 "2.2.5",
 "session_description":
@@ -104,11 +104,11 @@
 "sex":
 "unknown",
 "sha1":
-"99f31e62ff2dcfc0ce0a418f2113e8041b382a4e",
+"6799998b9bdb9f38778e1daff0dc3d1edd9d4345",
 "sha256":
-"2c873da0b049c63caac91bba0bc4d70c7b9cd3e2f0149fe93f30ca9e5995373a",
+"88cb7bdbc2b6d0bf6f74dad1b68b3c2387c819da094e864543d5f4d54493fdcc",
 "sha512":
-"0dbef8c2a4389f716cbde3f082b5dce4566ef43388010f9ed3c02befcee3f1ddd24f576918b32234e492979e56958463c785455998d0189e651ec7569a1f4c3e",
+"190879a6fc7bae777850e30eb5a24dfe1b91f369294bcd3ff3779663dded71200ea52eaa261c0e9830f3e290ed86c2e35109cff76e79563e8fefcdcb83ae0585",
 "species":
 "mus musculus",
 "subject_id":
@@ -116,22 +116,22 @@
 "uploaded_by":
 "dandi 0.11.0",
 "uploaded_datetime":
-"2021-03-11T18:50:33.740446-05:00",
+"2021-04-11T18:53:34.201869-04:00",
 "uploaded_mtime":
-"2021-01-27T11:53:22-05:00",
+"2021-04-09T21:09:46-04:00",
 "uploaded_nwb_object_id":
-"b4182491-bba6-47a2-8ec6-e0ef77b1bb6c",
+"8df97097-f6c5-4697-83f6-81eee21e29ec",
 "uploaded_size":
 21673120
 },
 "modified":
-"2021-01-27 11:53:22-05:00",
+"2021-04-09 21:09:46-04:00",
 "name":
 "sub-353936_ses-20170608_behavior+ecephys+ogen.nwb",
 "path":
 "/sub-353936/sub-353936_ses-20170608_behavior+ecephys+ogen.nwb",
 "sha256":
-"2c873da0b049c63caac91bba0bc4d70c7b9cd3e2f0149fe93f30ca9e5995373a",
+"88cb7bdbc2b6d0bf6f74dad1b68b3c2387c819da094e864543d5f4d54493fdcc",
 "size":
 21673120,
 "type":
@@ -141,16 +141,16 @@
 "attrs":
 {
 "ctime":
-"2021-03-11T23:52:37.315000+00:00",
+"2021-04-11T22:55:55.025000+00:00",
 "mtime":
-"2021-01-27T11:58:10-05:00",
+"2021-04-09T20:52:38-04:00",
 "size":
 13006744
 },
 "girder":
 {
 "id":
-"604aad4502cb75004f0af99f"
+"60737e7b02cb75004f0b2975"
 },
 "metadata":
 {
@@ -163,7 +163,7 @@
 "institution":
 "janelia research campus",
 "md5":
-"5f19a576e4e785094c6993d4948841c2",
+"0f36f797ba783e8663b87a132be2de46",
 "nwb_version":
 "2.2.5",
 "session_description":
@@ -173,11 +173,11 @@
 "sex":
 "unknown",
 "sha1":
-"4a902effa092028097ab72b4061253ccd0883a1b",
+"de2118235cd4e3122693a0ccdf7a56a23c59db91",
 "sha256":
-"4e444dcebd6ec0b86980d709b44091e3184c87bfbd4bbb36735b05894853544e",
+"35380e45cccebe604a7cc27f77569b6fde49ed7d921dbc3e5e6284687ee1a395",
 "sha512":
-"de576b80769d336a059c0b6fe17423139d10e4d64c4fe032fa04ab009ea8f007268f35e7961f09a70ff1095dd451f4e8409607cbc83b1eb2fde32e1517c0cd7e",
+"c9059cca09dba126a543521012a29870300c4406e9ffabc87578d61364ed8cbdff15a7eca4ddaf4747f4fb82eb27ae68fa81f90e7d15a27eb66df09ee910a995",
 "species":
 "mus musculus",
 "subject_id":
@@ -185,22 +185,22 @@
 "uploaded_by":
 "dandi 0.11.0",
 "uploaded_datetime":
-"2021-03-11T18:50:37.677033-05:00",
+"2021-04-11T18:53:38.366755-04:00",
 "uploaded_mtime":
-"2021-01-27T11:58:10-05:00",
+"2021-04-09T20:52:38-04:00",
 "uploaded_nwb_object_id":
-"943b608c-1831-4492-aa28-c97b5244a8f7",
+"35e31dd1-eb73-4156-a398-b2db2526afa8",
 "uploaded_size":
 13006744
 },
 "modified":
-"2021-01-27 11:58:10-05:00",
+"2021-04-09 20:52:38-04:00",
 "name":
 "sub-353936_ses-20170609_behavior+ecephys+ogen.nwb",
 "path":
 "/sub-353936/sub-353936_ses-20170609_behavior+ecephys+ogen.nwb",
 "sha256":
-"4e444dcebd6ec0b86980d709b44091e3184c87bfbd4bbb36735b05894853544e",
+"35380e45cccebe604a7cc27f77569b6fde49ed7d921dbc3e5e6284687ee1a395",
 "size":
 13006744,
 "type":
@@ -210,16 +210,16 @@
 "attrs":
 {
 "ctime":
-"2021-03-11T23:52:36.279000+00:00",
+"2021-04-11T22:55:54.084000+00:00",
 "mtime":
-"2021-01-27T12:05:02-05:00",
+"2021-04-09T20:54:52-04:00",
 "size":
 21236404
 },
 "girder":
 {
 "id":
-"604aad4402cb75004f0af99c"
+"60737e7a02cb75004f0b2971"
 },
 "metadata":
 {
@@ -232,7 +232,7 @@
 "institution":
 "janelia research campus",
 "md5":
-"3cd1086b027298fa4a4bb5577be1a6ae",
+"ef478dff22ee46f5339a135ee11b1c57",
 "nwb_version":
 "2.2.5",
 "session_description":
@@ -242,11 +242,11 @@
 "sex":
 "unknown",
 "sha1":
-"ef61846ef94c4ec11c19d1ad269520d356117146",
+"6a7be8fb9684437223e90215abed01ecb83061fc",
 "sha256":
-"27f6a6492e0704d35182544728206b41434e8604e3bb1eb9b0d520a4d8975633",
+"ee21a93fd88e74cc31bd00d04fc4374f80dffc3fe037963c913fad6d7d03c39c",
 "sha512":
-"33cb61a33fbd778c38818ba133fd848a77f8b9186ed08bec97983553d9b7fff35b78ba34146f176246b89689aed8a0044f01a96055798e57506cd8e723b19284",
+"36da1edd4e42cb06d58b72b71b4e173384f2057aa85684181c2d73bb89cb9d8d574b0ddccde1ab9562af75bd664fccdce2d2de34deb99ae36577c1c9183b19ff",
 "species":
 "mus musculus",
 "subject_id":
@@ -254,22 +254,22 @@
 "uploaded_by":
 "dandi 0.11.0",
 "uploaded_datetime":
-"2021-03-11T18:50:33.774446-05:00",
+"2021-04-11T18:53:33.730781-04:00",
 "uploaded_mtime":
-"2021-01-27T12:05:02-05:00",
+"2021-04-09T20:54:52-04:00",
 "uploaded_nwb_object_id":
-"ab114aaf-dbd7-44e5-9d73-a0b151279692",
+"6eab9c9c-772c-4dba-ae78-e46f2fd6123f",
 "uploaded_size":
 21236404
 },
 "modified":
-"2021-01-27 12:05:02-05:00",
+"2021-04-09 20:54:52-04:00",
 "name":
 "sub-353936_ses-20170610_behavior+ecephys+ogen.nwb",
 "path":
 "/sub-353936/sub-353936_ses-20170610_behavior+ecephys+ogen.nwb",
 "sha256":
-"27f6a6492e0704d35182544728206b41434e8604e3bb1eb9b0d520a4d8975633",
+"ee21a93fd88e74cc31bd00d04fc4374f80dffc3fe037963c913fad6d7d03c39c",
 "size":
 21236404,
 "type":
@@ -279,16 +279,16 @@
 "attrs":
 {
 "ctime":
-"2021-03-11T23:52:36.187000+00:00",
+"2021-04-11T22:55:54.672000+00:00",
 "mtime":
-"2021-01-27T12:11:22-05:00",
+"2021-04-09T21:11:54-04:00",
 "size":
 7574336
 },
 "girder":
 {
 "id":
-"604aad4402cb75004f0af99b"
+"60737e7a02cb75004f0b2973"
 },
 "metadata":
 {
@@ -301,7 +301,7 @@
 "institution":
 "janelia research campus",
 "md5":
-"ad62d21c35837f2b048099c2270b87e7",
+"4477a455714a48bd58383b372b8f10e8",
 "nwb_version":
 "2.2.5",
 "session_description":
@@ -311,11 +311,11 @@
 "sex":
 "unknown",
 "sha1":
-"7c3999868901de36d6b7457e206536c82f68db6c",
+"fc272c8d2a71065897d9f34f502826fae92556fa",
 "sha256":
-"5ea1f63d85466d519b70eaa893c843a6b86e6fa599720444b33a2bf195eab541",
+"22dd0e9e37d9ae9d89e00cf2032a8ea6716d8cb0289ca325400fae882221cc4b",
 "sha512":
-"612e73f76b88a7f579d3d8d5f97d012631f058add3485a2850426604b086e86ce0d646cd2af3e73cbcb85ccece3a4b8ced1ff838668baf6f921c9fd4c8b1d7af",
+"dad83f168f9bdc0a2f179bffef523a6dd44a04f2e024eaafa0da37eea9d5d66a3442f0ee72ba19d9993587e9a358989403d43f1a12011749f2297f1b62d81e90",
 "species":
 "mus musculus",
 "subject_id":
@@ -323,22 +323,22 @@
 "uploaded_by":
 "dandi 0.11.0",
 "uploaded_datetime":
-"2021-03-11T18:50:33.758448-05:00",
+"2021-04-11T18:53:37.426355-04:00",
 "uploaded_mtime":
-"2021-01-27T12:11:22-05:00",
+"2021-04-09T21:11:54-04:00",
 "uploaded_nwb_object_id":
-"2c382f53-af95-4477-bdc0-7478979f6efc",
+"1c576c47-146d-44ae-ad7c-931d3ababc6b",
 "uploaded_size":
 7574336
 },
 "modified":
-"2021-01-27 12:11:22-05:00",
+"2021-04-09 21:11:54-04:00",
 "name":
 "sub-353936_ses-20170611_behavior+ecephys+ogen.nwb",
 "path":
 "/sub-353936/sub-353936_ses-20170611_behavior+ecephys+ogen.nwb",
 "sha256":
-"5ea1f63d85466d519b70eaa893c843a6b86e6fa599720444b33a2bf195eab541",
+"22dd0e9e37d9ae9d89e00cf2032a8ea6716d8cb0289ca325400fae882221cc4b",
 "size":
 7574336,
 "type":
@@ -348,16 +348,16 @@
 "attrs":
 {
 "ctime":
-"2021-03-11T23:52:37.332000+00:00",
+"2021-04-11T22:55:55.291000+00:00",
 "mtime":
-"2021-01-27T12:17:18-05:00",
+"2021-04-09T21:13:50-04:00",
 "size":
 14018144
 },
 "girder":
 {
 "id":
-"604aad4502cb75004f0af9a0"
+"60737e7b02cb75004f0b2976"
 },
 "metadata":
 {
@@ -370,7 +370,7 @@
 "institution":
 "janelia research campus",
 "md5":
-"3d447e4e6bccfc2f2af065bfcc025f01",
+"c2ddd06d3e0af0c31a4c345f91190f9c",
 "nwb_version":
 "2.2.5",
 "session_description":
@@ -380,11 +380,11 @@
 "sex":
 "unknown",
 "sha1":
-"37208f24a46fad12810197383561d2b247d65162",
+"4f082b81475da5fa82ec95a8b3199a5311235e14",
 "sha256":
-"6d94958913616ad37c7f007119ea0a136596319bd19a04b0222f418da7e1d394",
+"35cc750fbca2ae116f0775c28007c988634c327b471e3efb1b138349a24bae69",
 "sha512":
-"7ec0baebdfe12eb98ad62ffa7d2155254c4345ed75ad8f7f43c3f046a5f35f71122af289f41e02196c27bf1f6be00a6793f93430e9bd3c67e88d7c74a75aa12a",
+"0199739b09b165b7c5af62f510825d6ca9a24f36a00fdd6d9df3a1d70f6e2df84eef4612bc25a50220f11c9b02782ead7411051352aa606a47b7326cf7aaccc9",
 "species":
 "mus musculus",
 "subject_id":
@@ -392,22 +392,22 @@
 "uploaded_by":
 "dandi 0.11.0",
 "uploaded_datetime":
-"2021-03-11T18:50:37.934811-05:00",
+"2021-04-11T18:53:38.314755-04:00",
 "uploaded_mtime":
-"2021-01-27T12:17:18-05:00",
+"2021-04-09T21:13:50-04:00",
 "uploaded_nwb_object_id":
-"ca6b1c55-cc4a-4325-88eb-b08213eb7633",
+"4b674986-d505-42b3-aaa4-7e86c9fbc4e7",
 "uploaded_size":
 14018144
 },
 "modified":
-"2021-01-27 12:17:18-05:00",
+"2021-04-09 21:13:50-04:00",
 "name":
 "sub-353936_ses-20170612_behavior+ecephys+ogen.nwb",
 "path":
 "/sub-353936/sub-353936_ses-20170612_behavior+ecephys+ogen.nwb",
 "sha256":
-"6d94958913616ad37c7f007119ea0a136596319bd19a04b0222f418da7e1d394",
+"35cc750fbca2ae116f0775c28007c988634c327b471e3efb1b138349a24bae69",
 "size":
 14018144,
 "type":
@@ -417,16 +417,16 @@
 "attrs":
 {
 "ctime":
-"2021-03-11T23:52:37.716000+00:00",
+"2021-04-11T22:56:07.245000+00:00",
 "mtime":
-"2021-01-27T12:24:50-05:00",
+"2021-04-09T21:16:34-04:00",
 "size":
 35969044
 },
 "girder":
 {
 "id":
-"604aad4502cb75004f0af9a3"
+"60737e8702cb75004f0b297c"
 },
 "metadata":
 {
@@ -439,7 +439,7 @@
 "institution":
 "janelia research campus",
 "md5":
-"f366bf395376cb5a284fcc1dc83511d4",
+"8802865bf8f0d110bedbfc1429a5279b",
 "nwb_version":
 "2.2.5",
 "session_description":
@@ -449,11 +449,11 @@
 "sex":
 "unknown",
 "sha1":
-"e667a973f27d6fb71da7a1d84d34ae5fd9174991",
+"e3dae11b087711346477e06252e2300f1a6e4969",
 "sha256":
-"0b6273727adbe8eb01566f307d5b6d9ac5741c638e7b30984c60898e2258bc88",
+"bd4e2ef4533863b90ce85f6c5834a1c7efcca7164e95adeb12fbd9afe8f88df7",
 "sha512":
-"41d204eb6d7e93eb98986e58e231f1c447c2a506d30d2c97de2b94678f74f2b7d6c8b21c0fd964b9647c74ea01f091d04d0816c4dfe4e760c12931b14c456c4c",
+"4b29869c2967820683af8c14c0c4cdb74f93e268ea4e4bea82f3df9894a688033a05f4dec56a98d5624f542be2cef7d0b8d7772a15cca65aa40128cdae4cd3b8",
 "species":
 "mus musculus",
 "subject_id":
@@ -461,22 +461,22 @@
 "uploaded_by":
 "dandi 0.11.0",
 "uploaded_datetime":
-"2021-03-11T18:50:38.054607-05:00",
+"2021-04-11T18:53:46.848409-04:00",
 "uploaded_mtime":
-"2021-01-27T12:24:50-05:00",
+"2021-04-09T21:16:34-04:00",
 "uploaded_nwb_object_id":
-"c7591195-139a-45b1-8050-4ea7e9c0f8e6",
+"1ea3e436-1a96-4241-8834-36a4d6442e98",
 "uploaded_size":
 35969044
 },
 "modified":
-"2021-01-27 12:24:50-05:00",
+"2021-04-09 21:16:34-04:00",
 "name":
 "sub-353936_ses-20170617_behavior+ecephys+ogen.nwb",
 "path":
 "/sub-353936/sub-353936_ses-20170617_behavior+ecephys+ogen.nwb",
 "sha256":
-"0b6273727adbe8eb01566f307d5b6d9ac5741c638e7b30984c60898e2258bc88",
+"bd4e2ef4533863b90ce85f6c5834a1c7efcca7164e95adeb12fbd9afe8f88df7",
 "size":
 35969044,
 "type":
@@ -486,16 +486,16 @@
 "attrs":
 {
 "ctime":
-"2021-03-11T23:52:37.523000+00:00",
+"2021-04-11T22:55:54.809000+00:00",
 "mtime":
-"2021-01-27T12:30:26-05:00",
+"2021-04-09T21:18:34-04:00",
 "size":
 8591932
 },
 "girder":
 {
 "id":
-"604aad4502cb75004f0af9a1"
+"60737e7a02cb75004f0b2974"
 },
 "metadata":
 {
@@ -508,7 +508,7 @@
 "institution":
 "janelia research campus",
 "md5":
-"a6873184f3b6b13db48bd35dac033d51",
+"e3edd95cd5dccf70eda65f513d885949",
 "nwb_version":
 "2.2.5",
 "session_description":
@@ -518,11 +518,11 @@
 "sex":
 "unknown",
 "sha1":
-"b434a9d6808939628344020bd9e1646399b6d17a",
+"0f2e1fa6e263f55b56f4fe60dcbdf4ea9052c902",
 "sha256":
-"4c14d25449daeeb2bd4bb07b8fe6b3bc376cde3e6fcf2c5a1cfaeb4eeb8fa820",
+"9e288422d52429b3afc867f7cbdcbdf735231f0346d53e73003846f82f911392",
 "sha512":
-"c04bde4edbd457f474d521020fc4b447147829f26b27362e82d55c56827b9df105bc7082cdc14e9956cf7e3f9454700d0c1abcc8f63f9c53a01aa4dafebf7da6",
+"1b2b86c971dfe20e8d1e35b87d2a10639de81ea3fd74b8e9bf90a847a01843856c3bd9989db7586ebcc2b4250b2c0f24e2b4c4b544792ffdd766f6ca840cf41b",
 "species":
 "mus musculus",
 "subject_id":
@@ -530,22 +530,22 @@
 "uploaded_by":
 "dandi 0.11.0",
 "uploaded_datetime":
-"2021-03-11T18:50:37.882042-05:00",
+"2021-04-11T18:53:38.211756-04:00",
 "uploaded_mtime":
-"2021-01-27T12:30:26-05:00",
+"2021-04-09T21:18:34-04:00",
 "uploaded_nwb_object_id":
-"d648183a-cbb6-4a18-9f39-5ef395e84310",
+"302bd30c-3cd5-4c48-b76a-ced39e17e246",
 "uploaded_size":
 8591932
 },
 "modified":
-"2021-01-27 12:30:26-05:00",
+"2021-04-09 21:18:34-04:00",
 "name":
 "sub-353936_ses-20170618_behavior+ecephys+ogen.nwb",
 "path":
 "/sub-353936/sub-353936_ses-20170618_behavior+ecephys+ogen.nwb",
 "sha256":
-"4c14d25449daeeb2bd4bb07b8fe6b3bc376cde3e6fcf2c5a1cfaeb4eeb8fa820",
+"9e288422d52429b3afc867f7cbdcbdf735231f0346d53e73003846f82f911392",
 "size":
 8591932,
 "type":
@@ -555,16 +555,16 @@
 "attrs":
 {
 "ctime":
-"2021-03-11T23:52:37.757000+00:00",
+"2021-04-11T22:55:55.400000+00:00",
 "mtime":
-"2021-01-27T12:37:24-05:00",
+"2021-04-09T21:21:02-04:00",
 "size":
 22142966
 },
 "girder":
 {
 "id":
-"604aad4502cb75004f0af9a2"
+"60737e7b02cb75004f0b2978"
 },
 "metadata":
 {
@@ -577,7 +577,7 @@
 "institution":
 "janelia research campus",
 "md5":
-"a5dae490ad49e56773821f66c12d4f45",
+"8239593e8af12304bafd89ac75c50a5f",
 "nwb_version":
 "2.2.5",
 "session_description":
@@ -587,11 +587,11 @@
 "sex":
 "unknown",
 "sha1":
-"defd5b5ff3e861554549abf2d320560292cf1d35",
+"ae344aa3e9133591170f55291d0a1524454bc9c2",
 "sha256":
-"726e4b9b52f648196f91c57e231557040fc15b10cc36abab69a4cf30c6b9a9cb",
+"3280d2d0e3aa0646bc36778e0d99493691ea177072df89d03eb628c04b7e5d9f",
 "sha512":
-"d96eec71ba08782af7c0078718aca85ca1814cf2e9b95458d49a26d97b85d4f661f4aab389ce395bb3399ca3c18183f9f3d11c4267b9a298dd1676793c2391ca",
+"d21bf01df47f5b16dee5e617d99fdca4dcd0354f5d76d80d384a7756c8bb85ea643dd51cc054987a22e0e69cb44d9d2f0f82301595db33ddaa7099a65155745b",
 "species":
 "mus musculus",
 "subject_id":
@@ -599,22 +599,22 @@
 "uploaded_by":
 "dandi 0.11.0",
 "uploaded_datetime":
-"2021-03-11T18:50:37.907042-05:00",
+"2021-04-11T18:53:39.014379-04:00",
 "uploaded_mtime":
-"2021-01-27T12:37:24-05:00",
+"2021-04-09T21:21:02-04:00",
 "uploaded_nwb_object_id":
-"08cdf271-f655-44ff-96fb-b274bb49d762",
+"f6614106-29fc-433a-878b-19c76f96e295",
 "uploaded_size":
 22142966
 },
 "modified":
-"2021-01-27 12:37:24-05:00",
+"2021-04-09 21:21:02-04:00",
 "name":
 "sub-353936_ses-20170619_behavior+ecephys+ogen.nwb",
 "path":
 "/sub-353936/sub-353936_ses-20170619_behavior+ecephys+ogen.nwb",
 "sha256":
-"726e4b9b52f648196f91c57e231557040fc15b10cc36abab69a4cf30c6b9a9cb",
+"3280d2d0e3aa0646bc36778e0d99493691ea177072df89d03eb628c04b7e5d9f",
 "size":
 22142966,
 "type":
@@ -624,16 +624,16 @@
 "attrs":
 {
 "ctime":
-"2021-03-11T23:52:37.226000+00:00",
+"2021-04-11T22:55:55.301000+00:00",
 "mtime":
-"2021-01-27T12:41:20-05:00",
+"2021-04-09T21:22:26-04:00",
 "size":
 15179828
 },
 "girder":
 {
 "id":
-"604aad4502cb75004f0af99d"
+"60737e7b02cb75004f0b2977"
 },
 "metadata":
 {
@@ -646,7 +646,7 @@
 "institution":
 "janelia research campus",
 "md5":
-"d184cdb0597b15964879a3b094369432",
+"98a6dafdc160b83f511c977067f24284",
 "nwb_version":
 "2.2.5",
 "session_description":
@@ -656,11 +656,11 @@
 "sex":
 "unknown",
 "sha1":
-"61862ba11410cfe2c20b33924d0b6c9e00349978",
+"d40dc920dd7e25ebe999fc6ef30ec0c5cc52455f",
 "sha256":
-"795970429ca26aeed9d837caf42a0a5b4dd1355fe6d2c75d44a115ed3bfe4549",
+"c4fb9dbe0c4198badf767244ac074bf96311d65ae5bead913bc89ed3199c199d",
 "sha512":
-"d9fd106773e8da58c2705eaafbb56a380ba6ff692e24463848a80bbbdb0cddb897c71ecc149ad54067f67abc84511440668721290d3460c18e148eeb61ea9c25",
+"17fb1d3a48d6dbdee1b62a898589c75f6a4d0c8a3b1396fcbb72bc50cdb640111f801e5a8a4be4a1d287880ea7f4436aeaaf43d3d62e0c3d8fafe20264253f6d",
 "species":
 "mus musculus",
 "subject_id":
@@ -668,22 +668,22 @@
 "uploaded_by":
 "dandi 0.11.0",
 "uploaded_datetime":
-"2021-03-11T18:50:37.856030-05:00",
+"2021-04-11T18:53:39.047381-04:00",
 "uploaded_mtime":
-"2021-01-27T12:41:20-05:00",
+"2021-04-09T21:22:26-04:00",
 "uploaded_nwb_object_id":
-"2120fe9d-7c1d-437b-8115-be6cb7fdeb94",
+"f4a8158b-8cf3-4922-bbc7-e7c43372a116",
 "uploaded_size":
 15179828
 },
 "modified":
-"2021-01-27 12:41:20-05:00",
+"2021-04-09 21:22:26-04:00",
 "name":
 "sub-353936_ses-20170621_behavior+ecephys+ogen.nwb",
 "path":
 "/sub-353936/sub-353936_ses-20170621_behavior+ecephys+ogen.nwb",
 "sha256":
-"795970429ca26aeed9d837caf42a0a5b4dd1355fe6d2c75d44a115ed3bfe4549",
+"c4fb9dbe0c4198badf767244ac074bf96311d65ae5bead913bc89ed3199c199d",
 "size":
 15179828,
 "type":
@@ -693,16 +693,16 @@
 "attrs":
 {
 "ctime":
-"2021-03-11T23:52:58.218000+00:00",
+"2021-04-11T22:56:14.959000+00:00",
 "mtime":
-"2021-01-27T12:45:44-05:00",
+"2021-04-09T21:24:08-04:00",
 "size":
-13020552
+13020544
 },
 "girder":
 {
 "id":
-"604aad5a02cb75004f0af9af"
+"60737e8e02cb75004f0b2982"
 },
 "metadata":
 {
@@ -715,7 +715,7 @@
 "institution":
 "janelia research campus",
 "md5":
-"5615373808eaefa7316c4b33b8c20e61",
+"7f1907335d6fe1f5b1a76af10e940fb6",
 "nwb_version":
 "2.2.5",
 "session_description":
@@ -725,11 +725,11 @@
 "sex":
 "unknown",
 "sha1":
-"69f0e295b0d7d0bc11b2b06f9eaa12219e52daad",
+"3ca37274ec8b4ad6125ba9194df25c3ca5859027",
 "sha256":
-"47bc90f63f29e4e91c29b8c2d908ceddd21f0dee89e3b57d0f2c126e430d0ade",
+"6b309508915a85915fad75d489650c0fed80494c56c229845f53e571aea0ea5d",
 "sha512":
-"3a52292fb0a857268421e34f5dd87f18852996e819177a299812194c57a8a3f96d910b4c5f84f4e096e37f7e941699a7b8ef01b354c71cdfa5c1532a7b02eb6e",
+"2079c47354b2c148870142936b896408f15ca09c3cbe6c32966f9929ed99a8887c64b18fa20a2d57336813a10755991e67d3d27f6068298e0a7c6c2d9070f314",
 "species":
 "mus musculus",
 "subject_id":
@@ -737,24 +737,24 @@
 "uploaded_by":
 "dandi 0.11.0",
 "uploaded_datetime":
-"2021-03-11T18:50:55.953235-05:00",
+"2021-04-11T18:53:55.053119-04:00",
 "uploaded_mtime":
-"2021-01-27T12:45:44-05:00",
+"2021-04-09T21:24:08-04:00",
 "uploaded_nwb_object_id":
-"99e3eb24-2af3-4c2a-b04f-055b0c1f8b7f",
+"151aeb53-1c5d-42bb-a2ac-48f88a551c84",
 "uploaded_size":
-13020552
+13020544
 },
 "modified":
-"2021-01-27 12:45:44-05:00",
+"2021-04-09 21:24:08-04:00",
 "name":
 "sub-353936_ses-20170622_behavior+ecephys+ogen.nwb",
 "path":
 "/sub-353936/sub-353936_ses-20170622_behavior+ecephys+ogen.nwb",
 "sha256":
-"47bc90f63f29e4e91c29b8c2d908ceddd21f0dee89e3b57d0f2c126e430d0ade",
+"6b309508915a85915fad75d489650c0fed80494c56c229845f53e571aea0ea5d",
 "size":
-13020552,
+13020544,
 "type":
 "file"
 },
@@ -762,16 +762,16 @@
 "attrs":
 {
 "ctime":
-"2021-03-11T23:52:58.641000+00:00",
+"2021-04-11T22:56:16.384000+00:00",
 "mtime":
-"2021-01-27T12:50:12-05:00",
+"2021-04-09T21:25:52-04:00",
 "size":
 18372604
 },
 "girder":
 {
 "id":
-"604aad5a02cb75004f0af9b3"
+"60737e9002cb75004f0b2985"
 },
 "metadata":
 {
@@ -784,7 +784,7 @@
 "institution":
 "janelia research campus",
 "md5":
-"fcfe51d676d8d0c81a402edc1ab9cc49",
+"9137e6a569b0e614574c340333e61228",
 "nwb_version":
 "2.2.5",
 "session_description":
@@ -794,11 +794,11 @@
 "sex":
 "unknown",
 "sha1":
-"f04ede733b5ea33008252a1eaa7aa97e411f8c66",
+"6714dbc26844503d835275f9a4cc62db0afcb682",
 "sha256":
-"c17f54e53c5ec38b6a520779145c51ad83c0a6a95d7c1ef7f2846c781962388d",
+"71f9809b1b13471ba6a7ec4a5f6eeb3c49b68395eb1e19e8900ac705af065a1d",
 "sha512":
-"3af8325cf006340b80145e90205bc874b544d9098046ae64e980bc249ad6e38c5484f3594abc0587eb854d0664535188fa1ab5e47fa7c8f0c6bd12bc387b2ab1",
+"ba6fa3011cacbdccc07e9a7510f04eb56cf56d948b289a8b8f503c988c3690d7971ad28072e8d6d23c48a824d3d513c2e6f70e0e91fdbcfc8a099be892242b3b",
 "species":
 "mus musculus",
 "subject_id":
@@ -806,22 +806,22 @@
 "uploaded_by":
 "dandi 0.11.0",
 "uploaded_datetime":
-"2021-03-11T18:50:56.293534-05:00",
+"2021-04-11T18:53:56.175508-04:00",
 "uploaded_mtime":
-"2021-01-27T12:50:12-05:00",
+"2021-04-09T21:25:52-04:00",
 "uploaded_nwb_object_id":
-"4080d561-9f3b-4494-8f83-57aa0cd57aeb",
+"fdc8e77c-5b23-4ff6-bd6c-9d2661d78f8d",
 "uploaded_size":
 18372604
 },
 "modified":
-"2021-01-27 12:50:12-05:00",
+"2021-04-09 21:25:52-04:00",
 "name":
 "sub-353936_ses-20170623_behavior+ecephys+ogen.nwb",
 "path":
 "/sub-353936/sub-353936_ses-20170623_behavior+ecephys+ogen.nwb",
 "sha256":
-"c17f54e53c5ec38b6a520779145c51ad83c0a6a95d7c1ef7f2846c781962388d",
+"71f9809b1b13471ba6a7ec4a5f6eeb3c49b68395eb1e19e8900ac705af065a1d",
 "size":
 18372604,
 "type":
@@ -831,16 +831,16 @@
 "attrs":
 {
 "ctime":
-"2021-03-11T23:52:58.990000+00:00",
+"2021-04-11T22:56:10.823000+00:00",
 "mtime":
-"2021-01-27T12:53:28-05:00",
+"2021-04-09T21:26:58-04:00",
 "size":
-7640672
+7640664
 },
 "girder":
 {
 "id":
-"604aad5a02cb75004f0af9b9"
+"60737e8a02cb75004f0b2980"
 },
 "metadata":
 {
@@ -853,7 +853,7 @@
 "institution":
 "janelia research campus",
 "md5":
-"bf9caafa5fb7cc02e9c8740e5c738f0b",
+"c39d8c70c9e4a820de7c88906ade4bf9",
 "nwb_version":
 "2.2.5",
 "session_description":
@@ -863,11 +863,11 @@
 "sex":
 "unknown",
 "sha1":
-"2976562a2212e856cfa15c7bf0f2e7404109269a",
+"9df02e2a5c2caa08270b602ae1d4670668d14a30",
 "sha256":
-"33355033f9f83b2724da07959ae83211c0f1b558171c2f0fe93b4594d2110a13",
+"e40dde180c1b9ab56026b575bbe4fbfceed29affb55527bfe40e2867995742c7",
 "sha512":
-"d74452a95b33e9a291713da506c047704f390d842d79a8a3099831c2fac7bdf869994ad6196159bb5892013b22dc2d05c1261c7ac9b12f30f368768597b1afcc",
+"31809493c14e72884c9b38003ef4bc613b75e9223c2d12e1b5d22a5891705942542a3b26ad3d9c4eb2314d3e59b3724f9373116102d8306356762523a20950f8",
 "species":
 "mus musculus",
 "subject_id":
@@ -875,24 +875,24 @@
 "uploaded_by":
 "dandi 0.11.0",
 "uploaded_datetime":
-"2021-03-11T18:50:56.738974-05:00",
+"2021-04-11T18:53:51.629510-04:00",
 "uploaded_mtime":
-"2021-01-27T12:53:28-05:00",
+"2021-04-09T21:26:58-04:00",
 "uploaded_nwb_object_id":
-"8c5c783c-4c02-4e66-99f9-214fc2a9e406",
+"b09f1b70-83ef-4476-a5be-74aee5af0754",
 "uploaded_size":
-7640672
+7640664
 },
 "modified":
-"2021-01-27 12:53:28-05:00",
+"2021-04-09 21:26:58-04:00",
 "name":
 "sub-353936_ses-20170624_behavior+ecephys+ogen.nwb",
 "path":
 "/sub-353936/sub-353936_ses-20170624_behavior+ecephys+ogen.nwb",
 "sha256":
-"33355033f9f83b2724da07959ae83211c0f1b558171c2f0fe93b4594d2110a13",
+"e40dde180c1b9ab56026b575bbe4fbfceed29affb55527bfe40e2867995742c7",
 "size":
-7640672,
+7640664,
 "type":
 "file"
 },
@@ -900,16 +900,16 @@
 "attrs":
 {
 "ctime":
-"2021-03-11T23:52:58.879000+00:00",
+"2021-04-11T22:56:16.369000+00:00",
 "mtime":
-"2021-01-27T12:56:32-05:00",
+"2021-04-09T21:27:56-04:00",
 "size":
 4532460
 },
 "girder":
 {
 "id":
-"604aad5a02cb75004f0af9b6"
+"60737e9002cb75004f0b2984"
 },
 "metadata":
 {
@@ -922,7 +922,7 @@
 "institution":
 "janelia research campus",
 "md5":
-"ba10300afa2d2c1cacab82c5ca5075d7",
+"2fea41da990852158efed8ab0930feb2",
 "nwb_version":
 "2.2.5",
 "session_description":
@@ -932,11 +932,11 @@
 "sex":
 "unknown",
 "sha1":
-"946b979c66b453e7e344005198239ee4dbd41ea9",
+"4fd93d827d7d078403e64c6225848e68236cefe3",
 "sha256":
-"1fd883be199e56595cc0f4743c8e970b7325fbc0b7e16ccdbe78fd195be847f8",
+"e786646db60ec0b722bc84cd6b03c0c159e32af5a51e11aab9ee4784187d28b4",
 "sha512":
-"f06835fd74f181051fe67da1fadcf6c8eec6255073b3114d5c4f3a7bf17e7e6fbc7687aefda4f9a4731a1e11be0a195e524f6094a2a5fe18f3c5a0033a1deee8",
+"340cc663f303ae51e07502b2dac50b27cebcb59eca79ef27e20164e947da0c5ee500f36eb477f701c0da7442ff7d88074fa972fcdaae9f14e77818bb9fdf4d69",
 "species":
 "mus musculus",
 "subject_id":
@@ -944,22 +944,22 @@
 "uploaded_by":
 "dandi 0.11.0",
 "uploaded_datetime":
-"2021-03-11T18:50:56.718973-05:00",
+"2021-04-11T18:53:56.231079-04:00",
 "uploaded_mtime":
-"2021-01-27T12:56:32-05:00",
+"2021-04-09T21:27:56-04:00",
 "uploaded_nwb_object_id":
-"caa8a25d-69f9-4ba6-812b-ed5e48d5e74e",
+"8e21ac28-8300-47e6-be3f-d4c817c43f37",
 "uploaded_size":
 4532460
 },
 "modified":
-"2021-01-27 12:56:32-05:00",
+"2021-04-09 21:27:56-04:00",
 "name":
 "sub-353936_ses-20170625_behavior+ecephys+ogen.nwb",
 "path":
 "/sub-353936/sub-353936_ses-20170625_behavior+ecephys+ogen.nwb",
 "sha256":
-"1fd883be199e56595cc0f4743c8e970b7325fbc0b7e16ccdbe78fd195be847f8",
+"e786646db60ec0b722bc84cd6b03c0c159e32af5a51e11aab9ee4784187d28b4",
 "size":
 4532460,
 "type":
@@ -969,16 +969,16 @@
 "attrs":
 {
 "ctime":
-"2021-03-11T23:53:06.792000+00:00",
+"2021-04-11T22:56:25.210000+00:00",
 "mtime":
-"2021-01-27T13:01:34-05:00",
+"2021-04-09T21:29:44-04:00",
 "size":
 9310154
 },
 "girder":
 {
 "id":
-"604aad6202cb75004f0af9c1"
+"60737e9902cb75004f0b299c"
 },
 "metadata":
 {
@@ -991,7 +991,7 @@
 "institution":
 "janelia research campus",
 "md5":
-"54c38f76d4e53d4703cae860e50a8dd2",
+"6bd5ce83193bcc4aa543749ae5117fe3",
 "nwb_version":
 "2.2.5",
 "session_description":
@@ -1001,11 +1001,11 @@
 "sex":
 "unknown",
 "sha1":
-"d2b3ab5a3f7b12b83b9d2dd63a40ce07405feeb2",
+"b7074ba52a002c154f5a1c7ef4deabdcd20635f1",
 "sha256":
-"e9578320a3c26ca00c631aafe2306bf5d5b11d6c7e40a85a6f39cbb000402525",
+"b534e1b11c297106e83a61768d716e2b1494161d63778d2a1042b62b05adf376",
 "sha512":
-"5c59f07240684feb945a72b4f550ce20ef472aa9b6973c71ff1782fff1b7ab427011f0d2e78d1cf3339f12edde231e77c7d144b4c8b33a40cc0bf53c025daffc",
+"0df1ecf4768aa9435b22e5e972fa70cf302c53ec18f0a02ea28fd9b9f21fabe3cd54b52ba0dbf1ff16c6c8228800c76e52865f3524d0bc762f4c5683c3412b9d",
 "species":
 "mus musculus",
 "subject_id":
@@ -1013,22 +1013,22 @@
 "uploaded_by":
 "dandi 0.11.0",
 "uploaded_datetime":
-"2021-03-11T18:51:06.296791-05:00",
+"2021-04-11T18:54:04.567548-04:00",
 "uploaded_mtime":
-"2021-01-27T13:01:34-05:00",
+"2021-04-09T21:29:44-04:00",
 "uploaded_nwb_object_id":
-"ad020377-bd1c-4c17-9cc2-3cdfe8ab2b63",
+"dd5e0a61-37ee-4835-969f-4e6994daf1b8",
 "uploaded_size":
 9310154
 },
 "modified":
-"2021-01-27 13:01:34-05:00",
+"2021-04-09 21:29:44-04:00",
 "name":
 "sub-353938_ses-20170612_behavior+ecephys+ogen.nwb",
 "path":
 "/sub-353938/sub-353938_ses-20170612_behavior+ecephys+ogen.nwb",
 "sha256":
-"e9578320a3c26ca00c631aafe2306bf5d5b11d6c7e40a85a6f39cbb000402525",
+"b534e1b11c297106e83a61768d716e2b1494161d63778d2a1042b62b05adf376",
 "size":
 9310154,
 "type":
@@ -1038,16 +1038,16 @@
 "attrs":
 {
 "ctime":
-"2021-03-11T23:53:03.010000+00:00",
+"2021-04-11T22:56:34.359000+00:00",
 "mtime":
-"2021-01-27T13:06:50-05:00",
+"2021-04-10T11:06:14-04:00",
 "size":
 13275254
 },
 "girder":
 {
 "id":
-"604aad5f02cb75004f0af9bf"
+"60737ea202cb75004f0b29a4"
 },
 "metadata":
 {
@@ -1060,7 +1060,7 @@
 "institution":
 "janelia research campus",
 "md5":
-"2d4391c58218a1f2b48a093019168f14",
+"ff67042e77a71700a02aa366ea4e030d",
 "nwb_version":
 "2.2.5",
 "session_description":
@@ -1070,11 +1070,11 @@
 "sex":
 "unknown",
 "sha1":
-"4f4e27a2071671bdb7b83902cd0a82ff2c8acb73",
+"70fbbacde2c596f2ea6cf57b6a051a9102585118",
 "sha256":
-"e8db2dd812d1f167bd783c453b7819416462f0de8346b92abb2ea2db32d3e8ef",
+"0b6b4de35011f2e464c06d2f740a33786073654c47951b59d5467e71a9ad8de5",
 "sha512":
-"cfcdd8f78c530488180fdcf0ee847fe148313078d08cf0e1c078987555bf7ff8462fe4fa93ff77fc21602985e9c356ddd1c201c752b2b775046bce1494788fc1",
+"f588e0e97a2648dc910eeffbaffa0082c559e06ba061e617978d7844dab54def45bced401360b00ba1f41085afd1fed94d1055313b251b450c96860463706355",
 "species":
 "mus musculus",
 "subject_id":
@@ -1082,22 +1082,22 @@
 "uploaded_by":
 "dandi 0.11.0",
 "uploaded_datetime":
-"2021-03-11T18:51:02.935634-05:00",
+"2021-04-11T18:54:13.697109-04:00",
 "uploaded_mtime":
-"2021-01-27T13:06:50-05:00",
+"2021-04-10T11:06:14-04:00",
 "uploaded_nwb_object_id":
-"f7627a9d-91d9-42d6-bb5b-95000164d765",
+"355f8509-a6a4-4971-aa6f-7994b6394964",
 "uploaded_size":
 13275254
 },
 "modified":
-"2021-01-27 13:06:50-05:00",
+"2021-04-10 11:06:14-04:00",
 "name":
 "sub-353938_ses-20170614_behavior+ecephys+ogen.nwb",
 "path":
 "/sub-353938/sub-353938_ses-20170614_behavior+ecephys+ogen.nwb",
 "sha256":
-"e8db2dd812d1f167bd783c453b7819416462f0de8346b92abb2ea2db32d3e8ef",
+"0b6b4de35011f2e464c06d2f740a33786073654c47951b59d5467e71a9ad8de5",
 "size":
 13275254,
 "type":
@@ -1107,16 +1107,16 @@
 "attrs":
 {
 "ctime":
-"2021-03-11T23:52:59.613000+00:00",
+"2021-04-11T22:56:24.796000+00:00",
 "mtime":
-"2021-01-27T13:10:28-05:00",
+"2021-04-10T11:07:32-04:00",
 "size":
 4479460
 },
 "girder":
 {
 "id":
-"604aad5b02cb75004f0af9bd"
+"60737e9802cb75004f0b2998"
 },
 "metadata":
 {
@@ -1129,7 +1129,7 @@
 "institution":
 "janelia research campus",
 "md5":
-"7f4a262cf7effcee6c96b9ea206fa714",
+"9ef3318905bd9ad48d45e44fc85b6947",
 "nwb_version":
 "2.2.5",
 "session_description":
@@ -1139,11 +1139,11 @@
 "sex":
 "unknown",
 "sha1":
-"eb2dae33815dcd3366c192319778195fc28882e2",
+"835d19081d242ae9939ae2f7768d361da7006de0",
 "sha256":
-"94b7b794868cfb64caf1e625fd599c38e839848f2fee790286ff0bb60a857f27",
+"1dfc3330292cd933cb53ffd937a88db7dc6e1c34e593b5c3868b5838c8ed9111",
 "sha512":
-"173dbe54f86da38921c2888c8a6da0d4f228cdb4b59d829341ee7254349735355065d825929218e3385bb235a8027ff7785964ae807867652b83831ec0684d7c",
+"95e6ffa71941f0782f70938bf6e66414ab586aa69eb9b2c85437b2b2eb8232710c72be541b8681971954e70ac6c21162c6292de5d0a806b5f3bc9333c112dbd1",
 "species":
 "mus musculus",
 "subject_id":
@@ -1151,22 +1151,22 @@
 "uploaded_by":
 "dandi 0.11.0",
 "uploaded_datetime":
-"2021-03-11T18:50:59.661256-05:00",
+"2021-04-11T18:54:04.207549-04:00",
 "uploaded_mtime":
-"2021-01-27T13:10:28-05:00",
+"2021-04-10T11:07:32-04:00",
 "uploaded_nwb_object_id":
-"0e2687b5-abf7-46c4-895e-b4e66fc1832e",
+"874746fa-df4f-49c7-bb86-e24cd85302b0",
 "uploaded_size":
 4479460
 },
 "modified":
-"2021-01-27 13:10:28-05:00",
+"2021-04-10 11:07:32-04:00",
 "name":
 "sub-353938_ses-20170615_behavior+ecephys+ogen.nwb",
 "path":
 "/sub-353938/sub-353938_ses-20170615_behavior+ecephys+ogen.nwb",
 "sha256":
-"94b7b794868cfb64caf1e625fd599c38e839848f2fee790286ff0bb60a857f27",
+"1dfc3330292cd933cb53ffd937a88db7dc6e1c34e593b5c3868b5838c8ed9111",
 "size":
 4479460,
 "type":
@@ -1176,16 +1176,16 @@
 "attrs":
 {
 "ctime":
-"2021-03-11T23:53:07.074000+00:00",
+"2021-04-11T22:56:25.124000+00:00",
 "mtime":
-"2021-01-27T13:15:18-05:00",
+"2021-04-09T21:34:28-04:00",
 "size":
 11546464
 },
 "girder":
 {
 "id":
-"604aad6302cb75004f0af9c2"
+"60737e9902cb75004f0b299a"
 },
 "metadata":
 {
@@ -1198,7 +1198,7 @@
 "institution":
 "janelia research campus",
 "md5":
-"45d8ba99384d17626d6ce1eec684770f",
+"5e9920fe5c3147c94c80e2161a62c2f8",
 "nwb_version":
 "2.2.5",
 "session_description":
@@ -1208,11 +1208,11 @@
 "sex":
 "unknown",
 "sha1":
-"b06d8b9692074fb7bec74bd58e5a2fa5cb5ab5dc",
+"6f3987fd97657c9922a7d120de8866c562b92c6a",
 "sha256":
-"9489a0687a8054ebbb441a22103676f231a0003e3983b84de37c357d67276fd5",
+"3adc4248adab5c87db835bb4ad7bffc57f3bf06bd9df916809f9eca369209463",
 "sha512":
-"f190ddecd11db227d5f79e0381b8014ab8ca78e4b7024c6c3d5a366e3a83b7726f4a2f62a05e5e74b99c90d16e02152295ab1f0176a1a9a8435972a7905a601c",
+"0747685677bacb0a1f75c5b6a4297dd50f328afb6c4ae5b6a485539865f62d0362e1384b0a57faf5fa4d7d7c3de007cd42ea75a1d644233c995d5139b68fae0c",
 "species":
 "mus musculus",
 "subject_id":
@@ -1220,22 +1220,22 @@
 "uploaded_by":
 "dandi 0.11.0",
 "uploaded_datetime":
-"2021-03-11T18:51:06.295790-05:00",
+"2021-04-11T18:54:04.476548-04:00",
 "uploaded_mtime":
-"2021-01-27T13:15:18-05:00",
+"2021-04-09T21:34:28-04:00",
 "uploaded_nwb_object_id":
-"8ccfcc41-37ad-4883-8cfd-36888f8eba85",
+"d817466b-21fe-4577-8d9f-03283edda9ad",
 "uploaded_size":
 11546464
 },
 "modified":
-"2021-01-27 13:15:18-05:00",
+"2021-04-09 21:34:28-04:00",
 "name":
 "sub-353938_ses-20170616_behavior+ecephys+ogen.nwb",
 "path":
 "/sub-353938/sub-353938_ses-20170616_behavior+ecephys+ogen.nwb",
 "sha256":
-"9489a0687a8054ebbb441a22103676f231a0003e3983b84de37c357d67276fd5",
+"3adc4248adab5c87db835bb4ad7bffc57f3bf06bd9df916809f9eca369209463",
 "size":
 11546464,
 "type":
@@ -1245,16 +1245,16 @@
 "attrs":
 {
 "ctime":
-"2021-03-11T23:52:59.017000+00:00",
+"2021-04-11T22:56:25.414000+00:00",
 "mtime":
-"2021-01-27T13:19:58-05:00",
+"2021-04-09T21:36:02-04:00",
 "size":
 7762632
 },
 "girder":
 {
 "id":
-"604aad5b02cb75004f0af9ba"
+"60737e9902cb75004f0b299f"
 },
 "metadata":
 {
@@ -1267,7 +1267,7 @@
 "institution":
 "janelia research campus",
 "md5":
-"8682740f68d0883782ed540c4a6d4c07",
+"d85c3c2d905543c42ba6ea952d178020",
 "nwb_version":
 "2.2.5",
 "session_description":
@@ -1277,11 +1277,11 @@
 "sex":
 "unknown",
 "sha1":
-"7b570e416ccc6107ea9bff14e202f5903f3ae14c",
+"d4142f86eceb6a5787a266a3ae13ff4ae0bf42b1",
 "sha256":
-"0b345bce7df3ee260b74c98fd86fe0433ee7b74fbb8801022d9c6fca094a2a58",
+"ddfcdc145b591aa01a7f173c5251e8230a2552ecc34a0faef0ecd76ef453ee7a",
 "sha512":
-"845f5ebdd5d98a9276c757bf516693646a059ae3190c62a2a19938e27d25348de1f2ae69dd7007412e8a71982f7fbec406626228f7b29b1111dc330e029df96a",
+"b75a2b4a9b4ce15843d7bb6b856f51e25ee8f28e482b5dd18786b3932821c5ed16339bcf6b5ee0dc78d161f48a6f9d2ebdde3db7cdef2b3c0432b1863b103324",
 "species":
 "mus musculus",
 "subject_id":
@@ -1289,22 +1289,22 @@
 "uploaded_by":
 "dandi 0.11.0",
 "uploaded_datetime":
-"2021-03-11T18:50:56.758972-05:00",
+"2021-04-11T18:54:05.762824-04:00",
 "uploaded_mtime":
-"2021-01-27T13:19:58-05:00",
+"2021-04-09T21:36:02-04:00",
 "uploaded_nwb_object_id":
-"72b37f54-e262-4e72-9a39-0c2c46f6894c",
+"b45d2f73-9b8b-4ccb-95d5-8548fdd00bfa",
 "uploaded_size":
 7762632
 },
 "modified":
-"2021-01-27 13:19:58-05:00",
+"2021-04-09 21:36:02-04:00",
 "name":
 "sub-353938_ses-20170617_behavior+ecephys+ogen.nwb",
 "path":
 "/sub-353938/sub-353938_ses-20170617_behavior+ecephys+ogen.nwb",
 "sha256":
-"0b345bce7df3ee260b74c98fd86fe0433ee7b74fbb8801022d9c6fca094a2a58",
+"ddfcdc145b591aa01a7f173c5251e8230a2552ecc34a0faef0ecd76ef453ee7a",
 "size":
 7762632,
 "type":
@@ -1314,16 +1314,16 @@
 "attrs":
 {
 "ctime":
-"2021-03-11T23:53:04.741000+00:00",
+"2021-04-11T22:56:31.759000+00:00",
 "mtime":
-"2021-01-27T13:25:20-05:00",
+"2021-04-10T16:37:30-04:00",
 "size":
-12911899
+12918587
 },
 "girder":
 {
 "id":
-"604aad6002cb75004f0af9c0"
+"60737e9f02cb75004f0b29a3"
 },
 "metadata":
 {
@@ -1336,7 +1336,7 @@
 "institution":
 "janelia research campus",
 "md5":
-"3c9e517b10155d09301bec41008b4a38",
+"a89aa6659c07e7ecf8df29b6c290babc",
 "nwb_version":
 "2.2.5",
 "session_description":
@@ -1346,11 +1346,11 @@
 "sex":
 "unknown",
 "sha1":
-"2d327f6e6bdf379e120b46e0ae1c77fceda7ad74",
+"21fc1c6b684e3d46de9da8e2d55e4a375a553c54",
 "sha256":
-"40b413cac242fa6336aca0644298988fba73deeda0d7e2d9ac63ca2e9fc47423",
+"271f10b88b79d9178ae6a8e1126f65705e3e443effbe196c05888ad3c136cf3d",
 "sha512":
-"d12373f1fe7868a0fdb6b565178836471a3e4aa3db7857a7b5f5fc5cee8de0b794f11c589475fc66bfaa96a8dbbf028db644d395f4a2ee82a6a16458dc5e6fe2",
+"0cb2cad944b391a0d548ad5faf4fe4dfe586daad4d2c65c626c9d02e3c6cca6002e2b83281f3a99ad545c5fa6fd6230caa0b456eed9281685238e38c7ad1607f",
 "species":
 "mus musculus",
 "subject_id":
@@ -1358,24 +1358,24 @@
 "uploaded_by":
 "dandi 0.11.0",
 "uploaded_datetime":
-"2021-03-11T18:51:03.267047-05:00",
+"2021-04-11T18:54:13.024868-04:00",
 "uploaded_mtime":
-"2021-01-27T13:25:20-05:00",
+"2021-04-10T16:37:30-04:00",
 "uploaded_nwb_object_id":
-"a840b790-d1e4-40ad-ad70-4179c839ae57",
+"e62d5895-378f-4b68-9064-08f0eb77805b",
 "uploaded_size":
-12911899
+12918587
 },
 "modified":
-"2021-01-27 13:25:20-05:00",
+"2021-04-10 16:37:30-04:00",
 "name":
 "sub-353938_ses-20170618_behavior+ecephys+ogen.nwb",
 "path":
 "/sub-353938/sub-353938_ses-20170618_behavior+ecephys+ogen.nwb",
 "sha256":
-"40b413cac242fa6336aca0644298988fba73deeda0d7e2d9ac63ca2e9fc47423",
+"271f10b88b79d9178ae6a8e1126f65705e3e443effbe196c05888ad3c136cf3d",
 "size":
-12911899,
+12918587,
 "type":
 "file"
 },
@@ -1383,16 +1383,16 @@
 "attrs":
 {
 "ctime":
-"2021-03-11T23:53:17.621000+00:00",
+"2021-04-11T22:56:25.396000+00:00",
 "mtime":
-"2021-01-27T13:40:30-05:00",
+"2021-04-09T21:39:52-04:00",
 "size":
 7410982
 },
 "girder":
 {
 "id":
-"604aad6d02cb75004f0af9c6"
+"60737e9902cb75004f0b299e"
 },
 "metadata":
 {
@@ -1405,7 +1405,7 @@
 "institution":
 "janelia research campus",
 "md5":
-"1fb1d8afe413c502fdc5e01611f67f81",
+"dfee9fad88d0adc75bbe850d22735d08",
 "nwb_version":
 "2.2.5",
 "session_description":
@@ -1415,11 +1415,11 @@
 "sex":
 "unknown",
 "sha1":
-"feb876c895c2cacf23e030e1e83da0e4aa4e1667",
+"08b5d85d333369008e0f5c1d1045e8a832f628b2",
 "sha256":
-"c755d709731b8c734c3321443621b448758d22b62e343c5e196e693dd435a835",
+"79f6fe6a16f3d9ea94e5b8ec817c10ba7365b063c49c820be669e3cf3edc7e19",
 "sha512":
-"c7b5d5514db4f97ae4737f863dc907a945db7aca9077494237d158157ab6d982579635a2e0e63c936753df396a1f1c59bf67d8cbd360cb76e2900012e877ce5c",
+"c51fe1eef0de3f817feb2a135ae0a59c971e67a8b4395d8d6c3812da60a589184cbf190611de1b0f366e05489f001222c8204d996ebbd015d13f245007aa93ce",
 "species":
 "mus musculus",
 "subject_id":
@@ -1427,22 +1427,22 @@
 "uploaded_by":
 "dandi 0.11.0",
 "uploaded_datetime":
-"2021-03-11T18:51:16.105609-05:00",
+"2021-04-11T18:54:06.006365-04:00",
 "uploaded_mtime":
-"2021-01-27T13:40:30-05:00",
+"2021-04-09T21:39:52-04:00",
 "uploaded_nwb_object_id":
-"489c0f3a-ac01-46ae-a94b-74e88bfbb689",
+"ad1a475d-845d-4032-8efd-dc0efedcdbc5",
 "uploaded_size":
 7410982
 },
 "modified":
-"2021-01-27 13:40:30-05:00",
+"2021-04-09 21:39:52-04:00",
 "name":
 "sub-353938_ses-20170619_behavior+ecephys+ogen.nwb",
 "path":
 "/sub-353938/sub-353938_ses-20170619_behavior+ecephys+ogen.nwb",
 "sha256":
-"c755d709731b8c734c3321443621b448758d22b62e343c5e196e693dd435a835",
+"79f6fe6a16f3d9ea94e5b8ec817c10ba7365b063c49c820be669e3cf3edc7e19",
 "size":
 7410982,
 "type":
@@ -1452,16 +1452,16 @@
 "attrs":
 {
 "ctime":
-"2021-03-11T23:53:20.262000+00:00",
+"2021-04-11T22:56:25.937000+00:00",
 "mtime":
-"2021-01-28T11:48:52-05:00",
+"2021-04-09T21:41:08-04:00",
 "size":
 6006748
 },
 "girder":
 {
 "id":
-"604aad7002cb75004f0af9cd"
+"60737e9902cb75004f0b29a1"
 },
 "metadata":
 {
@@ -1474,7 +1474,7 @@
 "institution":
 "janelia research campus",
 "md5":
-"2d0a7e6f0c26d33de81aebe46ef71210",
+"ae3c46a4ee0142e2466b91025b44f128",
 "nwb_version":
 "2.2.5",
 "session_description":
@@ -1484,11 +1484,11 @@
 "sex":
 "unknown",
 "sha1":
-"7df0ce01cfe13615c4d7c155f975cfe53ea274e0",
+"cefe8b4ee53dba2311052a3edded07cbca67dc44",
 "sha256":
-"d483d53bd9a2b5c046748ee7b4f5919857d9b97c7fd8b0343628e73cce4f550f",
+"ee06705ada8d3f64ebeebb127cdef7d71d19930569d41c2386e135cad0558bce",
 "sha512":
-"62665a27968b3d542960fedac529b1be3e0287e1eb33e8ce823c0ea862d4b4758cfc593b206d77d73aaff39b8bf2fcbef7402435cac105a3b08d52b1758d3365",
+"6eda55af014657059d13e79be0658b0864df16ac1cedac951e90797703027a7038c374ed2b31838d108b9ecc0ec8af1394a631d187425871daa3706f0222a78c",
 "species":
 "mus musculus",
 "subject_id":
@@ -1496,22 +1496,22 @@
 "uploaded_by":
 "dandi 0.11.0",
 "uploaded_datetime":
-"2021-03-11T18:51:18.723936-05:00",
+"2021-04-11T18:54:08.903581-04:00",
 "uploaded_mtime":
-"2021-01-28T11:48:52-05:00",
+"2021-04-09T21:41:08-04:00",
 "uploaded_nwb_object_id":
-"9311d337-2fea-429f-8950-4866939db47b",
+"6ca9c668-75d3-4d10-aea5-2df6caf4b4d3",
 "uploaded_size":
 6006748
 },
 "modified":
-"2021-01-28 11:48:52-05:00",
+"2021-04-09 21:41:08-04:00",
 "name":
 "sub-353938_ses-20170621_behavior+ecephys+ogen.nwb",
 "path":
 "/sub-353938/sub-353938_ses-20170621_behavior+ecephys+ogen.nwb",
 "sha256":
-"d483d53bd9a2b5c046748ee7b4f5919857d9b97c7fd8b0343628e73cce4f550f",
+"ee06705ada8d3f64ebeebb127cdef7d71d19930569d41c2386e135cad0558bce",
 "size":
 6006748,
 "type":
@@ -1521,16 +1521,16 @@
 "attrs":
 {
 "ctime":
-"2021-03-11T23:53:22.043000+00:00",
+"2021-04-11T22:56:25.580000+00:00",
 "mtime":
-"2021-01-27T13:52:32-05:00",
+"2021-04-09T21:42:24-04:00",
 "size":
 1815784
 },
 "girder":
 {
 "id":
-"604aad7202cb75004f0af9d3"
+"60737e9902cb75004f0b29a0"
 },
 "metadata":
 {
@@ -1543,7 +1543,7 @@
 "institution":
 "janelia research campus",
 "md5":
-"43ee446e68dec263425649ca2b1194e6",
+"c21cc2f15ad4a610d074d5e7c347be61",
 "nwb_version":
 "2.2.5",
 "session_description":
@@ -1553,11 +1553,11 @@
 "sex":
 "unknown",
 "sha1":
-"9ed74ac631d1b1ed3f22548370a4ca57809a2321",
+"856dc7177d9877d17c818b4e5604b2e0cce5471a",
 "sha256":
-"d4f6d34dd06130a433ddb295db25d9b40f9b0ea2234ee98c02fc77b1cb687302",
+"ceee235a0405bb01736b5bfdb9b0817df2a3ea45056d906549053f911e80b7f4",
 "sha512":
-"cf9b5d4abbfd9953baf43b98cac149f8297af8dad0d11c08c2628d1bdfbdf5a8155ee36cc24d1422eb7cc99ef590071f2b26d306521944c754430d1982abdd69",
+"ea5231fecc910312948338f8ac642d9ce1731f92781040b46f2db5abe6573a59900b29b0313c07127e6a0f8809fbe23101407165b89c77df27108dfad3c3866c",
 "species":
 "mus musculus",
 "subject_id":
@@ -1565,22 +1565,22 @@
 "uploaded_by":
 "dandi 0.11.0",
 "uploaded_datetime":
-"2021-03-11T18:51:21.008839-05:00",
+"2021-04-11T18:54:06.657607-04:00",
 "uploaded_mtime":
-"2021-01-27T13:52:32-05:00",
+"2021-04-09T21:42:24-04:00",
 "uploaded_nwb_object_id":
-"ce2b4ff4-4fd2-467d-9fd4-90e025eb91e4",
+"4f1c685e-d9a9-402e-a669-811f478f2a7e",
 "uploaded_size":
 1815784
 },
 "modified":
-"2021-01-27 13:52:32-05:00",
+"2021-04-09 21:42:24-04:00",
 "name":
 "sub-353938_ses-20170622_behavior+ecephys+ogen.nwb",
 "path":
 "/sub-353938/sub-353938_ses-20170622_behavior+ecephys+ogen.nwb",
 "sha256":
-"d4f6d34dd06130a433ddb295db25d9b40f9b0ea2234ee98c02fc77b1cb687302",
+"ceee235a0405bb01736b5bfdb9b0817df2a3ea45056d906549053f911e80b7f4",
 "size":
 1815784,
 "type":
@@ -1590,16 +1590,16 @@
 "attrs":
 {
 "ctime":
-"2021-03-11T23:53:25.652000+00:00",
+"2021-04-11T22:56:25.950000+00:00",
 "mtime":
-"2021-01-27T13:56:22-05:00",
+"2021-04-10T16:38:50-04:00",
 "size":
 8002968
 },
 "girder":
 {
 "id":
-"604aad7502cb75004f0af9de"
+"60737e9a02cb75004f0b29a2"
 },
 "metadata":
 {
@@ -1612,7 +1612,7 @@
 "institution":
 "janelia research campus",
 "md5":
-"cbfbd3cf2d6529162bcf082a42c670b4",
+"c56b136a468711bb33d1fc270da74fae",
 "nwb_version":
 "2.2.5",
 "session_description":
@@ -1622,11 +1622,11 @@
 "sex":
 "unknown",
 "sha1":
-"cefa2e746510ed8485745d23c44e8c5e307ce986",
+"32651abd0bf921ee89449ecd37eea9848b7e88a7",
 "sha256":
-"9e6e2e44cbe3bae56337a20075b2d6cecf3747f8fa9eb346cace099c96150ee6",
+"276bd2af8a3ee48830cd77525bddddef8a87c34c4a285befe2efda87c7bab68d",
 "sha512":
-"d948b8aabb32554b8ace5b7663ba148076b154339dd436ada42baac494b2b26b756592a568c2d72d862958729263a659f28d1dd6bea4a87a3b064d6adfadf45e",
+"822d2af68bb2d6292a8340b35aa8aa355198facdde8213c6d00a2da2c797ed7b8a24d1ce914e463a64f0484859da7883395b8ad5e9cfdd39aaf3661ae8973553",
 "species":
 "mus musculus",
 "subject_id":
@@ -1634,22 +1634,22 @@
 "uploaded_by":
 "dandi 0.11.0",
 "uploaded_datetime":
-"2021-03-11T18:51:24.427215-05:00",
+"2021-04-11T18:54:08.729580-04:00",
 "uploaded_mtime":
-"2021-01-27T13:56:22-05:00",
+"2021-04-10T16:38:50-04:00",
 "uploaded_nwb_object_id":
-"b2915742-a98e-498d-8bb7-bb6ac3c50923",
+"17bd2a04-8041-4ac3-9499-5bd5a226d332",
 "uploaded_size":
 8002968
 },
 "modified":
-"2021-01-27 13:56:22-05:00",
+"2021-04-10 16:38:50-04:00",
 "name":
 "sub-353938_ses-20170623_behavior+ecephys+ogen.nwb",
 "path":
 "/sub-353938/sub-353938_ses-20170623_behavior+ecephys+ogen.nwb",
 "sha256":
-"9e6e2e44cbe3bae56337a20075b2d6cecf3747f8fa9eb346cace099c96150ee6",
+"276bd2af8a3ee48830cd77525bddddef8a87c34c4a285befe2efda87c7bab68d",
 "size":
 8002968,
 "type":
@@ -1659,16 +1659,16 @@
 "attrs":
 {
 "ctime":
-"2021-03-11T23:53:25.791000+00:00",
+"2021-04-11T22:56:45.054000+00:00",
 "mtime":
-"2021-01-27T14:00:28-05:00",
+"2021-04-09T21:45:04-04:00",
 "size":
 11115120
 },
 "girder":
 {
 "id":
-"604aad7502cb75004f0af9e1"
+"60737ead02cb75004f0b29ac"
 },
 "metadata":
 {
@@ -1681,7 +1681,7 @@
 "institution":
 "janelia research campus",
 "md5":
-"53289fce8391ac8e5858cf548fa33065",
+"15888691b877f65ddd31d41ce0961cfd",
 "nwb_version":
 "2.2.5",
 "session_description":
@@ -1691,11 +1691,11 @@
 "sex":
 "unknown",
 "sha1":
-"a7c05a45a0a6f6c63242a9dc031bd82ad02a46a8",
+"7865d0c55d64c9d883615c792f7280f6efaf261f",
 "sha256":
-"beabe9a6ab83327c8df3ab99da7eef76ebf088d1866ba087225048dd0ff9553a",
+"02026640607d5357aca1c2345af5172126a79ad3a676520f8ba96bea0f80969f",
 "sha512":
-"2b9aade4e21a6d934bcdb4a9794a4dcc1e90c08d1ec9fc4bc540b49de925b8871d0d6e47c9a3026f255062628c9110213ad857de06ce02d97eb5920c762bf5fe",
+"9620a74013fdf650c14db657c39112243068824db077b3c5988bcc43ee55cfbf6f15923a088be95ef7e4413b6d65f58b35f841f1d30b211a2ccc25ba6ebfe4a1",
 "species":
 "mus musculus",
 "subject_id":
@@ -1703,22 +1703,22 @@
 "uploaded_by":
 "dandi 0.11.0",
 "uploaded_datetime":
-"2021-03-11T18:51:24.473217-05:00",
+"2021-04-11T18:54:24.835234-04:00",
 "uploaded_mtime":
-"2021-01-27T14:00:28-05:00",
+"2021-04-09T21:45:04-04:00",
 "uploaded_nwb_object_id":
-"472dff05-b4a6-4ef1-81b8-25290b40788a",
+"3b268304-b4f2-46dd-84bc-ae9ae1d3c5d4",
 "uploaded_size":
 11115120
 },
 "modified":
-"2021-01-27 14:00:28-05:00",
+"2021-04-09 21:45:04-04:00",
 "name":
 "sub-353938_ses-20170624_behavior+ecephys+ogen.nwb",
 "path":
 "/sub-353938/sub-353938_ses-20170624_behavior+ecephys+ogen.nwb",
 "sha256":
-"beabe9a6ab83327c8df3ab99da7eef76ebf088d1866ba087225048dd0ff9553a",
+"02026640607d5357aca1c2345af5172126a79ad3a676520f8ba96bea0f80969f",
 "size":
 11115120,
 "type":
@@ -1728,16 +1728,16 @@
 "attrs":
 {
 "ctime":
-"2021-03-11T23:53:25.762000+00:00",
+"2021-04-11T22:56:46.188000+00:00",
 "mtime":
-"2021-01-27T14:04:22-05:00",
+"2021-04-09T21:46:20-04:00",
 "size":
-11574756
+11574692
 },
 "girder":
 {
 "id":
-"604aad7502cb75004f0af9e0"
+"60737eae02cb75004f0b29b4"
 },
 "metadata":
 {
@@ -1750,7 +1750,7 @@
 "institution":
 "janelia research campus",
 "md5":
-"808de5b787ee1907e64f0213bf351641",
+"64bd5f6598927dcdde8e7b85fb1e530c",
 "nwb_version":
 "2.2.5",
 "session_description":
@@ -1760,11 +1760,11 @@
 "sex":
 "unknown",
 "sha1":
-"3cf37719999805658af8e4205013dd26de2ff83a",
+"12c2d804c3b66aff433cbf865aa50517043a76b8",
 "sha256":
-"59ecd861d9ccad45e400a4fd6337cc24e25cbc017b1514c80c1609ae65dedba5",
+"1ed354292e06d77fd911953b58ce25d0d2bf27ae7211c9fb4c52070ccb28006f",
 "sha512":
-"30b226c2a1834d8dac4c0256e92a8b5c8855e709a036e93719730d2beab18b0bd7c59df1f40024253cf8c7b500e02bbea154b38199077e0036a55a88fffc51dd",
+"b20f9df20632ccfbe7938c73d8babfb5236e4efa03b19de13ad3953ae7e578cac01672227c6dfdd1a761f522982f85c5fcdd40bbe7ab245301a724880d75f9ac",
 "species":
 "mus musculus",
 "subject_id":
@@ -1772,24 +1772,24 @@
 "uploaded_by":
 "dandi 0.11.0",
 "uploaded_datetime":
-"2021-03-11T18:51:24.451215-05:00",
+"2021-04-11T18:54:27.157626-04:00",
 "uploaded_mtime":
-"2021-01-27T14:04:22-05:00",
+"2021-04-09T21:46:20-04:00",
 "uploaded_nwb_object_id":
-"e067bd5b-392d-40ab-a000-1f9e509c8afd",
+"f1154d9d-a614-4c1c-b01a-ddfad6f807da",
 "uploaded_size":
-11574756
+11574692
 },
 "modified":
-"2021-01-27 14:04:22-05:00",
+"2021-04-09 21:46:20-04:00",
 "name":
 "sub-353938_ses-20170625_behavior+ecephys+ogen.nwb",
 "path":
 "/sub-353938/sub-353938_ses-20170625_behavior+ecephys+ogen.nwb",
 "sha256":
-"59ecd861d9ccad45e400a4fd6337cc24e25cbc017b1514c80c1609ae65dedba5",
+"1ed354292e06d77fd911953b58ce25d0d2bf27ae7211c9fb4c52070ccb28006f",
 "size":
-11574756,
+11574692,
 "type":
 "file"
 },
@@ -1797,16 +1797,16 @@
 "attrs":
 {
 "ctime":
-"2021-03-11T23:53:32.419000+00:00",
+"2021-04-11T22:56:48.923000+00:00",
 "mtime":
-"2021-01-27T14:09:04-05:00",
+"2021-04-09T21:49:08-04:00",
 "size":
 8931068
 },
 "girder":
 {
 "id":
-"604aad7c02cb75004f0af9e5"
+"60737eb002cb75004f0b29bd"
 },
 "metadata":
 {
@@ -1819,7 +1819,7 @@
 "institution":
 "janelia research campus",
 "md5":
-"c165c4d51acd6b0026a50eb634672392",
+"0750e350e9f5726522882a5d43737b77",
 "nwb_version":
 "2.2.5",
 "session_description":
@@ -1829,11 +1829,11 @@
 "sex":
 "unknown",
 "sha1":
-"b2093016a3eb0c871edd004ee64d2c66a9c2abac",
+"48fe6c213733486a0aba9eab80cb3d8e1540d5f8",
 "sha256":
-"1580acb233864b449c700637e9d7176744a45b7c2f7d398585233e6d462a15d3",
+"323b02b6ee954ef9d27d46c11ef85aca3c15c3aea7c17f437f58aa6893c93c20",
 "sha512":
-"e78d3775f90c77659a47453f81e20487c7240a08d8eeb47ab8cb053b273def24f6aed0b55fbf650cc976fb1f218799b8ee049f7c1e9a2d331936d0ff6d3aa413",
+"c3bba0d0b11e8c50cc445039d3ed3df58cafc1a0d831216e3cccc954f79eb693111381cdd25094e379d5a23241cf78df42dd70fb4f4a9368178f27be77434b2c",
 "species":
 "mus musculus",
 "subject_id":
@@ -1841,22 +1841,22 @@
 "uploaded_by":
 "dandi 0.11.0",
 "uploaded_datetime":
-"2021-03-11T18:51:30.692735-05:00",
+"2021-04-11T18:54:29.779410-04:00",
 "uploaded_mtime":
-"2021-01-27T14:09:04-05:00",
+"2021-04-09T21:49:08-04:00",
 "uploaded_nwb_object_id":
-"96c70c9d-1f0e-4f7f-b9bb-9b4c5b8a65b0",
+"6fabcfb9-feec-4b26-9232-3391dcf27571",
 "uploaded_size":
 8931068
 },
 "modified":
-"2021-01-27 14:09:04-05:00",
+"2021-04-09 21:49:08-04:00",
 "name":
 "sub-353938_ses-20170626_behavior+ecephys+ogen.nwb",
 "path":
 "/sub-353938/sub-353938_ses-20170626_behavior+ecephys+ogen.nwb",
 "sha256":
-"1580acb233864b449c700637e9d7176744a45b7c2f7d398585233e6d462a15d3",
+"323b02b6ee954ef9d27d46c11ef85aca3c15c3aea7c17f437f58aa6893c93c20",
 "size":
 8931068,
 "type":
@@ -1866,16 +1866,16 @@
 "attrs":
 {
 "ctime":
-"2021-03-11T23:53:25.712000+00:00",
+"2021-04-11T22:56:51.243000+00:00",
 "mtime":
-"2021-01-27T14:13:06-05:00",
+"2021-04-09T21:50:40-04:00",
 "size":
 7435472
 },
 "girder":
 {
 "id":
-"604aad7502cb75004f0af9df"
+"60737eb302cb75004f0b29c1"
 },
 "metadata":
 {
@@ -1888,7 +1888,7 @@
 "institution":
 "janelia research campus",
 "md5":
-"5607c76fc4a1a1177ea87e38d663f779",
+"f0bd2b5f312074e17d367308a8b39b84",
 "nwb_version":
 "2.2.5",
 "session_description":
@@ -1898,11 +1898,11 @@
 "sex":
 "unknown",
 "sha1":
-"09e978974500e8b5323e0efe49db26f804879166",
+"2a3cd5b9eafdbea0933543ee3090f6509cd196f9",
 "sha256":
-"9ea4b32b4e57776c6efecdeab4ae5660d66bca4fe3e0d9328ce9fde9f0b737f1",
+"0c37d2e7570cd5149aae3cf94d86126ca5ec1e141ba05dee99472277677536d7",
 "sha512":
-"cec12a18ecb6361502fbffe3e3b8b61ba4016de846af148f7781ef9237f7e6bdf8683e44994f00ccbc879097e3338466f1314e6d11521074be7343f89ed36bcf",
+"baf9d966406e1bdcb53e8290bf96dffda377b5a0f2483753cf19a78cdb35de09071b7093746f40247fa39d74868049974a605f4c2105de5c378ea840d66dd64b",
 "species":
 "mus musculus",
 "subject_id":
@@ -1910,22 +1910,22 @@
 "uploaded_by":
 "dandi 0.11.0",
 "uploaded_datetime":
-"2021-03-11T18:51:24.480216-05:00",
+"2021-04-11T18:54:33.528385-04:00",
 "uploaded_mtime":
-"2021-01-27T14:13:06-05:00",
+"2021-04-09T21:50:40-04:00",
 "uploaded_nwb_object_id":
-"74e617a2-603c-4308-b3e4-dd322aab55ec",
+"bda15539-06ee-4f0f-8c0d-083f4eb10a43",
 "uploaded_size":
 7435472
 },
 "modified":
-"2021-01-27 14:13:06-05:00",
+"2021-04-09 21:50:40-04:00",
 "name":
 "sub-353938_ses-20170628_behavior+ecephys+ogen.nwb",
 "path":
 "/sub-353938/sub-353938_ses-20170628_behavior+ecephys+ogen.nwb",
 "sha256":
-"9ea4b32b4e57776c6efecdeab4ae5660d66bca4fe3e0d9328ce9fde9f0b737f1",
+"0c37d2e7570cd5149aae3cf94d86126ca5ec1e141ba05dee99472277677536d7",
 "size":
 7435472,
 "type":
@@ -1935,16 +1935,16 @@
 "attrs":
 {
 "ctime":
-"2021-03-11T23:53:37.362000+00:00",
+"2021-04-11T22:56:58.998000+00:00",
 "mtime":
-"2021-01-27T14:19:10-05:00",
+"2021-04-09T21:52:54-04:00",
 "size":
 19372960
 },
 "girder":
 {
 "id":
-"604aad8102cb75004f0af9ea"
+"60737ebb02cb75004f0b29ca"
 },
 "metadata":
 {
@@ -1957,7 +1957,7 @@
 "institution":
 "janelia research campus",
 "md5":
-"326775cda9d120738645511714d4e33b",
+"6ff062ad25d474cf57e7f0aeeb88967b",
 "nwb_version":
 "2.2.5",
 "session_description":
@@ -1967,11 +1967,11 @@
 "sex":
 "unknown",
 "sha1":
-"16d9c8ce114cfb839a6a7037f2ed0b20608e97fe",
+"1dfff63025b1d4aa51a6ce1924f5ebd268a747d8",
 "sha256":
-"ec454d96c4527fa4b011ba8353eb6717cdf01d2fa93c066f0b79b2b407e1bda7",
+"b053cb392281de70f4b14b34764b58e1b612ca5e21a06c96747027d373ee6a87",
 "sha512":
-"f98c0b83fbc2f514b2d37c60d0b5a6351118667271b6004f7d3cbe9771e5d5b5a5dfe598fd899903cb41e708d4c1c827e26390d33b460c34f802ea93d459b47d",
+"d4579f660fbe2d01e14ac650c29d3ba01b61067ba787a32e3cabf44d37e1609520155ce4ba489b56dab838d282a11ca45360db23ca7443563b7016302078431a",
 "species":
 "mus musculus",
 "subject_id":
@@ -1979,22 +1979,22 @@
 "uploaded_by":
 "dandi 0.11.0",
 "uploaded_datetime":
-"2021-03-11T18:51:37.250452-05:00",
+"2021-04-11T18:54:38.986998-04:00",
 "uploaded_mtime":
-"2021-01-27T14:19:10-05:00",
+"2021-04-09T21:52:54-04:00",
 "uploaded_nwb_object_id":
-"6ef8da16-2e24-4759-b065-97078da39f52",
+"1f087df0-941e-44a2-a958-affd6a929a84",
 "uploaded_size":
 19372960
 },
 "modified":
-"2021-01-27 14:19:10-05:00",
+"2021-04-09 21:52:54-04:00",
 "name":
 "sub-353938_ses-20170629_behavior+ecephys+ogen.nwb",
 "path":
 "/sub-353938/sub-353938_ses-20170629_behavior+ecephys+ogen.nwb",
 "sha256":
-"ec454d96c4527fa4b011ba8353eb6717cdf01d2fa93c066f0b79b2b407e1bda7",
+"b053cb392281de70f4b14b34764b58e1b612ca5e21a06c96747027d373ee6a87",
 "size":
 19372960,
 "type":
@@ -2004,16 +2004,16 @@
 "attrs":
 {
 "ctime":
-"2021-03-11T23:53:34.802000+00:00",
+"2021-04-11T22:56:55.737000+00:00",
 "mtime":
-"2021-01-27T14:23:56-05:00",
+"2021-04-10T16:40:36-04:00",
 "size":
 14435412
 },
 "girder":
 {
 "id":
-"604aad7e02cb75004f0af9e9"
+"60737eb702cb75004f0b29c8"
 },
 "metadata":
 {
@@ -2026,7 +2026,7 @@
 "institution":
 "janelia research campus",
 "md5":
-"e898c46ab74d4596db432ec66cfdb7dd",
+"ac178a033ab515692bedef746adae6c2",
 "nwb_version":
 "2.2.5",
 "session_description":
@@ -2036,11 +2036,11 @@
 "sex":
 "unknown",
 "sha1":
-"36c8d0ef1042f9411e55235961298742db0f2ee7",
+"b9a714f91dc90de84dc5af5727222858654101c7",
 "sha256":
-"240333b6765d7072673d6bb77d6f2074a15fea4d504932e5af024036d5ea1bab",
+"f8bb05fc8fc6a3fb5fda950a8b5925a36d3ae3686dc09b299d00e792841f8923",
 "sha512":
-"ea5c574032e7cc3ce3cab66741e09ce7187d8008273430fc79d775fa9eda647ca7dc13ea1a185034b6f0f61530af02d5fe4220851ab3c92abb79dc8948f35197",
+"d2a827384bff4d5a87844660b3d2348ed1179632968c1d52a37940cb6651d83c3fd59ee560587a6499e655b36e88b0aaab0f705b947a04551f757d6637ce7202",
 "species":
 "mus musculus",
 "subject_id":
@@ -2048,22 +2048,22 @@
 "uploaded_by":
 "dandi 0.11.0",
 "uploaded_datetime":
-"2021-03-11T18:51:33.259800-05:00",
+"2021-04-11T18:54:37.644300-04:00",
 "uploaded_mtime":
-"2021-01-27T14:23:56-05:00",
+"2021-04-10T16:40:36-04:00",
 "uploaded_nwb_object_id":
-"81351276-4298-481c-991e-bd9469503a0a",
+"2ce5257f-6b48-4ba6-8bfd-ba04d5b96125",
 "uploaded_size":
 14435412
 },
 "modified":
-"2021-01-27 14:23:56-05:00",
+"2021-04-10 16:40:36-04:00",
 "name":
 "sub-353938_ses-20170630_behavior+ecephys+ogen.nwb",
 "path":
 "/sub-353938/sub-353938_ses-20170630_behavior+ecephys+ogen.nwb",
 "sha256":
-"240333b6765d7072673d6bb77d6f2074a15fea4d504932e5af024036d5ea1bab",
+"f8bb05fc8fc6a3fb5fda950a8b5925a36d3ae3686dc09b299d00e792841f8923",
 "size":
 14435412,
 "type":
@@ -2073,16 +2073,16 @@
 "attrs":
 {
 "ctime":
-"2021-03-11T23:53:26.489000+00:00",
+"2021-04-11T22:56:48.784000+00:00",
 "mtime":
-"2021-01-27T14:27:10-05:00",
+"2021-04-09T21:55:50-04:00",
 "size":
 3096356
 },
 "girder":
 {
 "id":
-"604aad7602cb75004f0af9e2"
+"60737eb002cb75004f0b29bc"
 },
 "metadata":
 {
@@ -2095,7 +2095,7 @@
 "institution":
 "janelia research campus",
 "md5":
-"5336abbe50ae7ea4d264679af891e10e",
+"d1292f59ed76d7e54ef8f693c3b52d98",
 "nwb_version":
 "2.2.5",
 "session_description":
@@ -2105,11 +2105,11 @@
 "sex":
 "unknown",
 "sha1":
-"6eddc5db7fb0cbdf9e3c3e1a227b33c9811453e2",
+"79ab26e8b0b67d96a79e18d38abd45a1e6ca52d0",
 "sha256":
-"790ea44921e403cdbc01af8d7cc7d8c1b313337e67a72d10c9624fbdaff994a6",
+"81fdd6fe19ea3a5a5e374dd194ed97472e75b779ae033f47ddaa8a1652b44a82",
 "sha512":
-"06372f94729c75304aa22e26fe714946ebad70cf1b55db0f8a16e2c0e6cfc3477114bd5380feda6af52fa74db7fd740bbe0766ba2977d811994e2335106e348c",
+"9541e35542de04e30eeb8e78e8071a2a03da8edc83a79a9ad0e4f2f0fdf510c2c8a1a530a4b14cff736575e0b8be6a8bdf84d75cf7de9cab97536c4d29ce4320",
 "species":
 "mus musculus",
 "subject_id":
@@ -2117,22 +2117,22 @@
 "uploaded_by":
 "dandi 0.11.0",
 "uploaded_datetime":
-"2021-03-11T18:51:24.696606-05:00",
+"2021-04-11T18:54:29.798409-04:00",
 "uploaded_mtime":
-"2021-01-27T14:27:10-05:00",
+"2021-04-09T21:55:50-04:00",
 "uploaded_nwb_object_id":
-"5c1c445a-9540-42ed-a129-94f474b5f5dd",
+"b04b285a-cec8-4d2e-9eec-b470eb14137c",
 "uploaded_size":
 3096356
 },
 "modified":
-"2021-01-27 14:27:10-05:00",
+"2021-04-09 21:55:50-04:00",
 "name":
 "sub-353938_ses-20170701_behavior+ecephys+ogen.nwb",
 "path":
 "/sub-353938/sub-353938_ses-20170701_behavior+ecephys+ogen.nwb",
 "sha256":
-"790ea44921e403cdbc01af8d7cc7d8c1b313337e67a72d10c9624fbdaff994a6",
+"81fdd6fe19ea3a5a5e374dd194ed97472e75b779ae033f47ddaa8a1652b44a82",
 "size":
 3096356,
 "type":
@@ -2142,16 +2142,16 @@
 "attrs":
 {
 "ctime":
-"2021-03-11T23:53:33.857000+00:00",
+"2021-04-11T22:56:54.833000+00:00",
 "mtime":
-"2021-01-27T14:31:42-05:00",
+"2021-04-10T11:14:00-04:00",
 "size":
 7614808
 },
 "girder":
 {
 "id":
-"604aad7d02cb75004f0af9e7"
+"60737eb602cb75004f0b29c5"
 },
 "metadata":
 {
@@ -2164,7 +2164,7 @@
 "institution":
 "janelia research campus",
 "md5":
-"854d8f9ebff68c0c08fad3a95ae198a3",
+"d6fac0146f363d7e777468ad87e45a2e",
 "nwb_version":
 "2.2.5",
 "session_description":
@@ -2174,11 +2174,11 @@
 "sex":
 "unknown",
 "sha1":
-"fd2c3e6a1993104d23b1f905dbf320c7a88021e2",
+"8ba84d06b536562c53e62a97729c352166171b10",
 "sha256":
-"acb52875bfa7a0773fddcf0aabdc04e41053e0f2816966f6f27de6242e59eb4d",
+"d3acdbd7bc435c0a0c90a70ceb89807169778d3055f538788c2d22ac27b99cc4",
 "sha512":
-"54b3e8b0348282f0af2b03ff969c172db66c43c02d6816f6f75e74e54b696319c191a945d0d4caf77e89a336b7176a50addabe3d25371527777bc0710ff0e737",
+"8c7cd3c1c33e0350583ebff9ad818e15610392ed02aa962cb56326b89ddbd3a8376470aac91bf52d22a14cbf23268f3bb6f31b636d5e0ee369d25f424c1c01f9",
 "species":
 "mus musculus",
 "subject_id":
@@ -2186,22 +2186,22 @@
 "uploaded_by":
 "dandi 0.11.0",
 "uploaded_datetime":
-"2021-03-11T18:51:32.543640-05:00",
+"2021-04-11T18:54:34.807429-04:00",
 "uploaded_mtime":
-"2021-01-27T14:31:42-05:00",
+"2021-04-10T11:14:00-04:00",
 "uploaded_nwb_object_id":
-"130a679f-3d39-4840-9a5f-00355f519e20",
+"2f0e27cd-88cf-46c3-94ea-374a049b99ce",
 "uploaded_size":
 7614808
 },
 "modified":
-"2021-01-27 14:31:42-05:00",
+"2021-04-10 11:14:00-04:00",
 "name":
 "sub-353939_ses-20170112_behavior+ecephys+ogen.nwb",
 "path":
 "/sub-353939/sub-353939_ses-20170112_behavior+ecephys+ogen.nwb",
 "sha256":
-"acb52875bfa7a0773fddcf0aabdc04e41053e0f2816966f6f27de6242e59eb4d",
+"d3acdbd7bc435c0a0c90a70ceb89807169778d3055f538788c2d22ac27b99cc4",
 "size":
 7614808,
 "type":
@@ -2211,16 +2211,16 @@
 "attrs":
 {
 "ctime":
-"2021-03-11T23:53:34.423000+00:00",
+"2021-04-11T22:56:53.482000+00:00",
 "mtime":
-"2021-01-27T14:34:36-05:00",
+"2021-04-09T21:58:06-04:00",
 "size":
 4145888
 },
 "girder":
 {
 "id":
-"604aad7e02cb75004f0af9e8"
+"60737eb502cb75004f0b29c4"
 },
 "metadata":
 {
@@ -2233,7 +2233,7 @@
 "institution":
 "janelia research campus",
 "md5":
-"44e83c438aafa645e3e155140ff7b260",
+"482fbc5aea243d23750b1c1a7bae1152",
 "nwb_version":
 "2.2.5",
 "session_description":
@@ -2243,11 +2243,11 @@
 "sex":
 "unknown",
 "sha1":
-"4dad0dd06f139816e5f342e5c469d028961a8030",
+"743ca93cbabde1eae0f8ecb7edade7ef3914282c",
 "sha256":
-"3e977a82c026538da2edb90eb1ddf159a586bee46c42374a9e0a51f04a72462d",
+"115c989c5017285eddbd1d60b38a50552dd0b47086ede10c16581d1f443f323f",
 "sha512":
-"e9dd374c558b62e4be59321d848ddf7c57be1f0bb86f626e9e4c33a5b0c4955515d920c42454326e76a82602d911f94509c7660c51609bd43165aecc76584c3f",
+"6813415e43e89fed50d36afa52a3bac6cb31b385abf383e319d15e0f731df714d5529c5544b385f23eddd944da8a36c67a32277996f2ca5a83794883a775f703",
 "species":
 "mus musculus",
 "subject_id":
@@ -2255,22 +2255,22 @@
 "uploaded_by":
 "dandi 0.11.0",
 "uploaded_datetime":
-"2021-03-11T18:51:33.209801-05:00",
+"2021-04-11T18:54:34.672801-04:00",
 "uploaded_mtime":
-"2021-01-27T14:34:36-05:00",
+"2021-04-09T21:58:06-04:00",
 "uploaded_nwb_object_id":
-"70953ce7-45a5-4a7c-9c5f-51576139265a",
+"ce0317c5-b5da-4f2b-96f4-9a3a987448f6",
 "uploaded_size":
 4145888
 },
 "modified":
-"2021-01-27 14:34:36-05:00",
+"2021-04-09 21:58:06-04:00",
 "name":
 "sub-353939_ses-20170113_behavior+ecephys+ogen.nwb",
 "path":
 "/sub-353939/sub-353939_ses-20170113_behavior+ecephys+ogen.nwb",
 "sha256":
-"3e977a82c026538da2edb90eb1ddf159a586bee46c42374a9e0a51f04a72462d",
+"115c989c5017285eddbd1d60b38a50552dd0b47086ede10c16581d1f443f323f",
 "size":
 4145888,
 "type":
@@ -2280,16 +2280,16 @@
 "attrs":
 {
 "ctime":
-"2021-03-11T23:53:46.611000+00:00",
+"2021-04-11T22:57:00.021000+00:00",
 "mtime":
-"2021-01-27T14:38:56-05:00",
+"2021-04-09T21:59:32-04:00",
 "size":
 15055580
 },
 "girder":
 {
 "id":
-"604aad8a02cb75004f0af9f0"
+"60737ebc02cb75004f0b29cd"
 },
 "metadata":
 {
@@ -2302,7 +2302,7 @@
 "institution":
 "janelia research campus",
 "md5":
-"aeb5b28fcd7360c8454e8b1c08383682",
+"974cb8e7d9f429b1574ab24a2f0f08a1",
 "nwb_version":
 "2.2.5",
 "session_description":
@@ -2312,11 +2312,11 @@
 "sex":
 "unknown",
 "sha1":
-"527ce89c109e1f665a9dc1182a762a3193c9dac3",
+"28a8c02564b2cb52f5e2d09edb6216470ea47e5a",
 "sha256":
-"206b64b3e69f0426aeba221a01ba70a45ff5f2b3513cc3ba7473a92440de3527",
+"9c756a3958ce3313b5b8fc460c0f81ac6fefd5ce2a968db9f90ea6b3474b6e13",
 "sha512":
-"d143751906d70886f402337d68153537646a7c0a66deb3ec068616be44912ac0466bb0b64acfcb7de3f584e481fec5277f2e4cbee90bd8a0cb0d82e661816c9e",
+"821f9d57cbcdec742575163dbc6f02523058564f4fedca4ee4711cdb823f406a936745e909cb5a7660a08e4c100dc586599aa27dd8cd0ac3691f2e73f77b73b2",
 "species":
 "mus musculus",
 "subject_id":
@@ -2324,22 +2324,22 @@
 "uploaded_by":
 "dandi 0.11.0",
 "uploaded_datetime":
-"2021-03-11T18:51:45.083631-05:00",
+"2021-04-11T18:54:40.713809-04:00",
 "uploaded_mtime":
-"2021-01-27T14:38:56-05:00",
+"2021-04-09T21:59:32-04:00",
 "uploaded_nwb_object_id":
-"ea3c5e9f-81c2-432d-9a97-38b181c34b30",
+"77a3586b-cfdd-48ca-aff8-b7f696c0e94a",
 "uploaded_size":
 15055580
 },
 "modified":
-"2021-01-27 14:38:56-05:00",
+"2021-04-09 21:59:32-04:00",
 "name":
 "sub-353939_ses-20170114_behavior+ecephys+ogen.nwb",
 "path":
 "/sub-353939/sub-353939_ses-20170114_behavior+ecephys+ogen.nwb",
 "sha256":
-"206b64b3e69f0426aeba221a01ba70a45ff5f2b3513cc3ba7473a92440de3527",
+"9c756a3958ce3313b5b8fc460c0f81ac6fefd5ce2a968db9f90ea6b3474b6e13",
 "size":
 15055580,
 "type":
@@ -2349,16 +2349,16 @@
 "attrs":
 {
 "ctime":
-"2021-03-11T23:53:51.662000+00:00",
+"2021-04-11T22:56:51.322000+00:00",
 "mtime":
-"2021-01-27T14:42:16-05:00",
+"2021-04-10T16:41:46-04:00",
 "size":
 11546992
 },
 "girder":
 {
 "id":
-"604aad8f02cb75004f0af9fe"
+"60737eb302cb75004f0b29c2"
 },
 "metadata":
 {
@@ -2371,7 +2371,7 @@
 "institution":
 "janelia research campus",
 "md5":
-"157b32c5d276aefcb1c8d98109029ac3",
+"f3e59f329ddc3778f59033c3120778c3",
 "nwb_version":
 "2.2.5",
 "session_description":
@@ -2381,11 +2381,11 @@
 "sex":
 "unknown",
 "sha1":
-"8a33751a4bee66e66d133903db7992c86c248461",
+"dd869f623a689ba208c7effb8fa56ca7eff18f53",
 "sha256":
-"c024a2df994f29a147d48d99c4d7611c4ab7e22a1c9847c5d636642d07b33e3c",
+"f8cc5ca751a9887223abefeb42701c8068590c5b2a5af33bee8803e6f3a4ba3d",
 "sha512":
-"97a6293105ef4942c4c4f3fb82f9fb00cc1dbdb2f6663634fa2c883eb53450d75b02328e06364bb07b9fc2b15bdc9c7baf0c3969486ab5e39dad6c26e98b7323",
+"86c9ff2c28d58fc4382189cac110ca94da7f1ea17d3f10458f3009fd0463517fbca4e65c8824ec61fd6fb0b3b72ca3a1a43a66b86b6d8795f80957d1aa2f5228",
 "species":
 "mus musculus",
 "subject_id":
@@ -2393,22 +2393,22 @@
 "uploaded_by":
 "dandi 0.11.0",
 "uploaded_datetime":
-"2021-03-11T18:51:50.787709-05:00",
+"2021-04-11T18:54:34.189211-04:00",
 "uploaded_mtime":
-"2021-01-27T14:42:16-05:00",
+"2021-04-10T16:41:46-04:00",
 "uploaded_nwb_object_id":
-"7109b037-323a-4a34-a283-fece391c4728",
+"754bbed9-d7cf-4bab-8dd2-93c4a13524f4",
 "uploaded_size":
 11546992
 },
 "modified":
-"2021-01-27 14:42:16-05:00",
+"2021-04-10 16:41:46-04:00",
 "name":
 "sub-353939_ses-20170115_behavior+ecephys+ogen.nwb",
 "path":
 "/sub-353939/sub-353939_ses-20170115_behavior+ecephys+ogen.nwb",
 "sha256":
-"c024a2df994f29a147d48d99c4d7611c4ab7e22a1c9847c5d636642d07b33e3c",
+"f8cc5ca751a9887223abefeb42701c8068590c5b2a5af33bee8803e6f3a4ba3d",
 "size":
 11546992,
 "type":
@@ -2418,16 +2418,16 @@
 "attrs":
 {
 "ctime":
-"2021-03-11T23:53:51.769000+00:00",
+"2021-04-11T22:56:59.578000+00:00",
 "mtime":
-"2021-01-27T14:45:54-05:00",
+"2021-04-09T22:01:58-04:00",
 "size":
 10832980
 },
 "girder":
 {
 "id":
-"604aad8f02cb75004f0af9ff"
+"60737ebb02cb75004f0b29cb"
 },
 "metadata":
 {
@@ -2440,7 +2440,7 @@
 "institution":
 "janelia research campus",
 "md5":
-"2ea5dba598eaa74006bcfdb6384d6bee",
+"ab364a11767bdd206bfac06814bb80d3",
 "nwb_version":
 "2.2.5",
 "session_description":
@@ -2450,11 +2450,11 @@
 "sex":
 "unknown",
 "sha1":
-"02257cc2aaf3b45594a41d3e581807f2367feea3",
+"fab0ff970ceb78d6bc974b87da7b42699b72e129",
 "sha256":
-"b7f286ea9564488559c82b29a44dbccdf4154020a26760389cd07e22c6bc1caf",
+"d319686487c1b0e5e34af78c14f6e42a0a195b72427883d7334376e5b7e07a84",
 "sha512":
-"82b8d7cd22ef689de05d1eab27e080bd3ae6265aa6d44508868e1fd53008364a2596664e31c74e329f92eaa7aefa89cff7a09b3daad45f07c57c830c278db421",
+"762907559396bf1bb304f97be191128db5da399bf9be8d46ac435d242739db30a8b312ac785b39a4a3d67098a07e8861b1807eab013f694543e4ae77390b62be",
 "species":
 "mus musculus",
 "subject_id":
@@ -2462,22 +2462,22 @@
 "uploaded_by":
 "dandi 0.11.0",
 "uploaded_datetime":
-"2021-03-11T18:51:50.813711-05:00",
+"2021-04-11T18:54:39.855709-04:00",
 "uploaded_mtime":
-"2021-01-27T14:45:54-05:00",
+"2021-04-09T22:01:58-04:00",
 "uploaded_nwb_object_id":
-"f0240a3a-0017-4ad7-9531-17959a66627b",
+"d92848e0-9f4d-4221-87ba-b4daa5ebdb26",
 "uploaded_size":
 10832980
 },
 "modified":
-"2021-01-27 14:45:54-05:00",
+"2021-04-09 22:01:58-04:00",
 "name":
 "sub-353939_ses-20170116_behavior+ecephys+ogen.nwb",
 "path":
 "/sub-353939/sub-353939_ses-20170116_behavior+ecephys+ogen.nwb",
 "sha256":
-"b7f286ea9564488559c82b29a44dbccdf4154020a26760389cd07e22c6bc1caf",
+"d319686487c1b0e5e34af78c14f6e42a0a195b72427883d7334376e5b7e07a84",
 "size":
 10832980,
 "type":
@@ -2487,16 +2487,16 @@
 "attrs":
 {
 "ctime":
-"2021-03-11T23:53:53.431000+00:00",
+"2021-04-11T22:57:07.136000+00:00",
 "mtime":
-"2021-01-27T14:48:50-05:00",
+"2021-04-09T22:02:46-04:00",
 "size":
 11268684
 },
 "girder":
 {
 "id":
-"604aad9102cb75004f0afa03"
+"60737ec302cb75004f0b29cf"
 },
 "metadata":
 {
@@ -2509,7 +2509,7 @@
 "institution":
 "janelia research campus",
 "md5":
-"e38f4df710083db030575d6647692ee3",
+"60073d783c8d80610e186d788aa4d83a",
 "nwb_version":
 "2.2.5",
 "session_description":
@@ -2519,11 +2519,11 @@
 "sex":
 "unknown",
 "sha1":
-"6440bbcf60d38709e054354f8ae48ce4cd563af0",
+"3e695cc328ccf05d7172f54d1d1c24906612ad5c",
 "sha256":
-"744b5a6e4cad8188da4d4cd030744a9b54768b6266d075b0f2ad0390403fafca",
+"f288a8b119e80a2122e2ac2e47e076ef4ed1c8c99b795ee210f31c2998243aa9",
 "sha512":
-"7273bc78a001ea3443f59ea15d05b24e9a2670c24e39212fde26aecacde657f68420507e3103a3518b92683b8059da98f81e75b029e46272cba9a726a74e5334",
+"311606fa371e16fdb5f6e07cbc79f1fa28dd8fd514b2309dd026bce200091dd4cab4b49a17f2fdb4f1765ae0d498f17f93329e8b4ba1a9b1d6d7e97efe0413f7",
 "species":
 "mus musculus",
 "subject_id":
@@ -2531,22 +2531,22 @@
 "uploaded_by":
 "dandi 0.11.0",
 "uploaded_datetime":
-"2021-03-11T18:51:51.123769-05:00",
+"2021-04-11T18:54:47.228620-04:00",
 "uploaded_mtime":
-"2021-01-27T14:48:50-05:00",
+"2021-04-09T22:02:46-04:00",
 "uploaded_nwb_object_id":
-"9f41b41d-c7e5-4638-9d29-f99edd8c9fa6",
+"e6853ee7-5cfa-43f3-9c1a-680f17200986",
 "uploaded_size":
 11268684
 },
 "modified":
-"2021-01-27 14:48:50-05:00",
+"2021-04-09 22:02:46-04:00",
 "name":
 "sub-353939_ses-20170119_behavior+ecephys+ogen.nwb",
 "path":
 "/sub-353939/sub-353939_ses-20170119_behavior+ecephys+ogen.nwb",
 "sha256":
-"744b5a6e4cad8188da4d4cd030744a9b54768b6266d075b0f2ad0390403fafca",
+"f288a8b119e80a2122e2ac2e47e076ef4ed1c8c99b795ee210f31c2998243aa9",
 "size":
 11268684,
 "type":
@@ -2556,16 +2556,16 @@
 "attrs":
 {
 "ctime":
-"2021-03-11T23:53:49.912000+00:00",
+"2021-04-11T22:57:02.214000+00:00",
 "mtime":
-"2021-01-27T14:52:12-05:00",
+"2021-04-10T16:43:00-04:00",
 "size":
 6690460
 },
 "girder":
 {
 "id":
-"604aad8d02cb75004f0af9f7"
+"60737ebe02cb75004f0b29ce"
 },
 "metadata":
 {
@@ -2578,7 +2578,7 @@
 "institution":
 "janelia research campus",
 "md5":
-"26c484000dfab94666d09bf1770b5789",
+"2bef168291f1acd603f57e234c92fd36",
 "nwb_version":
 "2.2.5",
 "session_description":
@@ -2588,11 +2588,11 @@
 "sex":
 "unknown",
 "sha1":
-"16e2fb14502149f236b71c32100e1b2a3e868bfc",
+"4643dec74554b3bf0c6e4c30c1d67053c1d51d90",
 "sha256":
-"98f6e633f784b6f78a94194ff0ab5c5e52964773be412b5d71e220f0728ed4d3",
+"e83c54fa645a9d3d3470267caa95b76271ecfe18ce3857fa841efb4788e7d5dc",
 "sha512":
-"07d6d6b77d304845b7dda4d3a60df611f059fdc8f23f37fba188233d0e54a29ad77b5d69fb2885973e2236930b800a4bd816f41d266783ca65d8d77f215fcb2f",
+"39d986d9d680c8b64658d4186a09c61b717561a085dc0c30fdabaa89f9a0ac5a2dcc7df603a5d68633b3bee50b824d11f72b1c3146d2d0397708cfce3d1d901e",
 "species":
 "mus musculus",
 "subject_id":
@@ -2600,22 +2600,22 @@
 "uploaded_by":
 "dandi 0.11.0",
 "uploaded_datetime":
-"2021-03-11T18:51:48.354931-05:00",
+"2021-04-11T18:54:44.498550-04:00",
 "uploaded_mtime":
-"2021-01-27T14:52:12-05:00",
+"2021-04-10T16:43:00-04:00",
 "uploaded_nwb_object_id":
-"558c0c9d-9aba-421f-b124-e519f20fbb0c",
+"f27d4233-910d-4be9-b4c5-6cadeb5e632f",
 "uploaded_size":
 6690460
 },
 "modified":
-"2021-01-27 14:52:12-05:00",
+"2021-04-10 16:43:00-04:00",
 "name":
 "sub-353939_ses-20170120_behavior+ecephys+ogen.nwb",
 "path":
 "/sub-353939/sub-353939_ses-20170120_behavior+ecephys+ogen.nwb",
 "sha256":
-"98f6e633f784b6f78a94194ff0ab5c5e52964773be412b5d71e220f0728ed4d3",
+"e83c54fa645a9d3d3470267caa95b76271ecfe18ce3857fa841efb4788e7d5dc",
 "size":
 6690460,
 "type":
@@ -2625,16 +2625,16 @@
 "attrs":
 {
 "ctime":
-"2021-03-11T23:53:54.049000+00:00",
+"2021-04-11T22:57:14.987000+00:00",
 "mtime":
-"2021-01-27T14:54:22-05:00",
+"2021-04-10T16:43:40-04:00",
 "size":
 4827428
 },
 "girder":
 {
 "id":
-"604aad9202cb75004f0afa07"
+"60737eca02cb75004f0b29d7"
 },
 "metadata":
 {
@@ -2647,7 +2647,7 @@
 "institution":
 "janelia research campus",
 "md5":
-"05b8d612f3445ae3eec7fd37789148b9",
+"efc67eb6ed28f0b0053bb14c7152f009",
 "nwb_version":
 "2.2.5",
 "session_description":
@@ -2657,11 +2657,11 @@
 "sex":
 "unknown",
 "sha1":
-"7c0ba7f53cb96e7159340e88fc9369ac9f25e937",
+"227f6b2c8e0a7a273510bca47bde3dd1d0836d34",
 "sha256":
-"039c7bd0a3a4b72b7f038a2033208af823b2b2249ab5a4e60127500434af4d6e",
+"b10fab6c0177eed0dc32f454a3547718f71fa7d9745eef3e06a571f8cb23f673",
 "sha512":
-"e0d77aea909b2378efee4bbc52c979be53e37b9065afdde5646513895d58cde5e664d8f581bee50520aa93fa8ffa654713348962e5e8d6fcdffb7e6712ae2df1",
+"989d49dde5abe9e90bad7277f6dbbc8aa097be8170414ad312c5767e734b53bdeaa5c43313f62d389cb289becd99333ae0b0443ec6817728e37e3e4986b6e1da",
 "species":
 "mus musculus",
 "subject_id":
@@ -2669,22 +2669,22 @@
 "uploaded_by":
 "dandi 0.11.0",
 "uploaded_datetime":
-"2021-03-11T18:51:54.994197-05:00",
+"2021-04-11T18:54:55.467830-04:00",
 "uploaded_mtime":
-"2021-01-27T14:54:22-05:00",
+"2021-04-10T16:43:40-04:00",
 "uploaded_nwb_object_id":
-"da667e7a-73ce-424c-82e9-0c781cf6751a",
+"f5cd48bb-2272-49dd-8dde-5a0d9f91f137",
 "uploaded_size":
 4827428
 },
 "modified":
-"2021-01-27 14:54:22-05:00",
+"2021-04-10 16:43:40-04:00",
 "name":
 "sub-353939_ses-20170122_behavior+ecephys+ogen.nwb",
 "path":
 "/sub-353939/sub-353939_ses-20170122_behavior+ecephys+ogen.nwb",
 "sha256":
-"039c7bd0a3a4b72b7f038a2033208af823b2b2249ab5a4e60127500434af4d6e",
+"b10fab6c0177eed0dc32f454a3547718f71fa7d9745eef3e06a571f8cb23f673",
 "size":
 4827428,
 "type":
@@ -2694,16 +2694,16 @@
 "attrs":
 {
 "ctime":
-"2021-03-11T23:54:02.444000+00:00",
+"2021-04-11T22:57:21.933000+00:00",
 "mtime":
-"2021-01-27T14:58:28-05:00",
+"2021-04-10T16:44:58-04:00",
 "size":
 11676588
 },
 "girder":
 {
 "id":
-"604aad9a02cb75004f0afa0d"
+"60737ed102cb75004f0b29ed"
 },
 "metadata":
 {
@@ -2716,7 +2716,7 @@
 "institution":
 "janelia research campus",
 "md5":
-"c465972828f8d9e8ec14d4fff44a2c76",
+"cf46ecf316497fb584ac52cd136747fc",
 "nwb_version":
 "2.2.5",
 "session_description":
@@ -2726,11 +2726,11 @@
 "sex":
 "unknown",
 "sha1":
-"f3e6b5d2c0d792c3352e3535c7978b00011d600e",
+"d369473004d0a826c57595256ec534b63bb89fce",
 "sha256":
-"7c6af62a9ee0e8c4aac4794c082b830898d4b72c64c08919f350627b16190f54",
+"12f349da0c0c16338a78ffb5eb875884625932da45c47263d7195cc2015e9b51",
 "sha512":
-"26407653a7fdaf622da6254d9a36ae82ffb88beccce66123cf114c0b3e031b19b986c80e12526814617da22615622a9ad439cdf16515808a431a0e6ca06c9870",
+"40f741181d404e35f1d17564e680a5031dbdb3f0ac7a54a51271941361013015aff2a49d2d351e4d5a1dbf3cb93936aced4cb91d5ab8f79254e57be112f806fa",
 "species":
 "mus musculus",
 "subject_id":
@@ -2738,22 +2738,22 @@
 "uploaded_by":
 "dandi 0.11.0",
 "uploaded_datetime":
-"2021-03-11T18:52:01.680436-05:00",
+"2021-04-11T18:55:02.933625-04:00",
 "uploaded_mtime":
-"2021-01-27T14:58:28-05:00",
+"2021-04-10T16:44:58-04:00",
 "uploaded_nwb_object_id":
-"2ec7650f-5005-45b1-ae6f-e0d9e05a3bc1",
+"fd5ed89b-4cfe-4317-91f9-16fce894946e",
 "uploaded_size":
 11676588
 },
 "modified":
-"2021-01-27 14:58:28-05:00",
+"2021-04-10 16:44:58-04:00",
 "name":
 "sub-353939_ses-20170123_behavior+ecephys+ogen.nwb",
 "path":
 "/sub-353939/sub-353939_ses-20170123_behavior+ecephys+ogen.nwb",
 "sha256":
-"7c6af62a9ee0e8c4aac4794c082b830898d4b72c64c08919f350627b16190f54",
+"12f349da0c0c16338a78ffb5eb875884625932da45c47263d7195cc2015e9b51",
 "size":
 11676588,
 "type":
@@ -2763,16 +2763,16 @@
 "attrs":
 {
 "ctime":
-"2021-03-11T23:54:02.539000+00:00",
+"2021-04-11T22:57:22.433000+00:00",
 "mtime":
-"2021-01-27T15:11:14-05:00",
+"2021-04-09T22:07:36-04:00",
 "size":
 24746456
 },
 "girder":
 {
 "id":
-"604aad9a02cb75004f0afa0f"
+"60737ed202cb75004f0b29f0"
 },
 "metadata":
 {
@@ -2785,7 +2785,7 @@
 "institution":
 "janelia research campus",
 "md5":
-"7afb1e05f1d3c94ed3faa073512a36c7",
+"19269e556c7e87cf13fd121c9110be0b",
 "nwb_version":
 "2.2.5",
 "session_description":
@@ -2795,11 +2795,11 @@
 "sex":
 "unknown",
 "sha1":
-"99372526a12fc0f2ce0fdec3ec4d9716c5e86d25",
+"6eb03290459503542e2f4ed54a3dd43f19cee35e",
 "sha256":
-"5129b8b49cdeacf1d54890a0055fef3a49594d417587c3b3f11ec0dc337b04d8",
+"1131520f4cd2ed40eb2e6537182f61d19415431979abc774e7c43ed426a682c0",
 "sha512":
-"3a591cddd7e2358c25462717529058e13c34aa10ebfa13e9ab5836762bc41066867281b21f482e01794eb718bf37ae9490e0fdb1327e6e68acb14b3611ef0847",
+"03f15455ffab16629375c6f50db3a31d42621deb83694e3336937bfe6104b6de2c7106f6963a13f9a2071fce765132fb035c43f46c43af9519a37afb2521b54a",
 "species":
 "mus musculus",
 "subject_id":
@@ -2807,22 +2807,22 @@
 "uploaded_by":
 "dandi 0.11.0",
 "uploaded_datetime":
-"2021-03-11T18:52:01.642557-05:00",
+"2021-04-11T18:55:03.287626-04:00",
 "uploaded_mtime":
-"2021-01-27T15:11:14-05:00",
+"2021-04-09T22:07:36-04:00",
 "uploaded_nwb_object_id":
-"b3aaa907-912f-4156-8d58-9914f6ffe758",
+"bc71d603-fe77-4345-a09e-768f5a436972",
 "uploaded_size":
 24746456
 },
 "modified":
-"2021-01-27 15:11:14-05:00",
+"2021-04-09 22:07:36-04:00",
 "name":
 "sub-353939_ses-20170124_behavior+ecephys+ogen.nwb",
 "path":
 "/sub-353939/sub-353939_ses-20170124_behavior+ecephys+ogen.nwb",
 "sha256":
-"5129b8b49cdeacf1d54890a0055fef3a49594d417587c3b3f11ec0dc337b04d8",
+"1131520f4cd2ed40eb2e6537182f61d19415431979abc774e7c43ed426a682c0",
 "size":
 24746456,
 "type":
@@ -2832,16 +2832,16 @@
 "attrs":
 {
 "ctime":
-"2021-03-11T23:53:53.759000+00:00",
+"2021-04-11T22:57:15.399000+00:00",
 "mtime":
-"2021-01-27T15:15:56-05:00",
+"2021-04-09T22:08:22-04:00",
 "size":
 2932196
 },
 "girder":
 {
 "id":
-"604aad9102cb75004f0afa04"
+"60737ecb02cb75004f0b29da"
 },
 "metadata":
 {
@@ -2854,7 +2854,7 @@
 "institution":
 "janelia research campus",
 "md5":
-"fea69ff0196cd2f9d35167f325e88f91",
+"40b46cba1bb80bc435239f6f23282bcb",
 "nwb_version":
 "2.2.5",
 "session_description":
@@ -2864,11 +2864,11 @@
 "sex":
 "unknown",
 "sha1":
-"b54a5bd4c0777107dc693b9de576260b868e870c",
+"f317fda55a5b3253e25206680f8cd8ff7f30cb8a",
 "sha256":
-"2fd44aa1014cc29b7c0a00d47fbec545adbd8640f2c696ee224e843e0fa4d4c6",
+"a7172299ddc225710a2684def78c3bacfc545a45d9bd064c9a5569031a7517bc",
 "sha512":
-"cb277a289850047fed929d099286d1a878095ba285f41bc574729bd32c0c7de45429adaf07c569ce72105bf2cbf15953b05dc857ad24bb487583f6c369a5a3f8",
+"61c4abbf9bbd239beae0d2030b0bcdd7dfc8444c6152e27c2ef4bc9f212b9d5d289ea622a2d51a8cb0bca9ced39c4418bf00fc1c34e8535081c233eaec5e6d34",
 "species":
 "mus musculus",
 "subject_id":
@@ -2876,22 +2876,22 @@
 "uploaded_by":
 "dandi 0.11.0",
 "uploaded_datetime":
-"2021-03-11T18:51:52.497095-05:00",
+"2021-04-11T18:54:55.563509-04:00",
 "uploaded_mtime":
-"2021-01-27T15:15:56-05:00",
+"2021-04-09T22:08:22-04:00",
 "uploaded_nwb_object_id":
-"a2c41a05-feff-4790-8a3d-4bbba4d8ccf0",
+"9e72ee0c-7f7e-409b-aa4a-1315aa19befb",
 "uploaded_size":
 2932196
 },
 "modified":
-"2021-01-27 15:15:56-05:00",
+"2021-04-09 22:08:22-04:00",
 "name":
 "sub-353939_ses-20170125_behavior+ecephys+ogen.nwb",
 "path":
 "/sub-353939/sub-353939_ses-20170125_behavior+ecephys+ogen.nwb",
 "sha256":
-"2fd44aa1014cc29b7c0a00d47fbec545adbd8640f2c696ee224e843e0fa4d4c6",
+"a7172299ddc225710a2684def78c3bacfc545a45d9bd064c9a5569031a7517bc",
 "size":
 2932196,
 "type":
@@ -2901,16 +2901,16 @@
 "attrs":
 {
 "ctime":
-"2021-03-11T23:54:02.494000+00:00",
+"2021-04-11T22:57:21.941000+00:00",
 "mtime":
-"2021-01-27T15:20:04-05:00",
+"2021-04-09T22:09:48-04:00",
 "size":
 10132428
 },
 "girder":
 {
 "id":
-"604aad9a02cb75004f0afa0e"
+"60737ed102cb75004f0b29ee"
 },
 "metadata":
 {
@@ -2923,7 +2923,7 @@
 "institution":
 "janelia research campus",
 "md5":
-"e6a30b90d97afba5fc93db9e1d63e259",
+"5af4686eabc2155c8ffda0fef4ff97da",
 "nwb_version":
 "2.2.5",
 "session_description":
@@ -2933,11 +2933,11 @@
 "sex":
 "unknown",
 "sha1":
-"b4e8396c3754841f311becf5c104d50812c51281",
+"cc73b32fcf62b8e539ac5423288eb10d72f48534",
 "sha256":
-"b001e078d2819bea750933f037aaa0d20606b41d99ccab087bacaa6f74de16f1",
+"a9088bff5f7ef2fbf5776c498b75538de14f07b870a1243270cbcfa6e420ebeb",
 "sha512":
-"8c9e74cd8185b71261f62e74b06641b30e2b3c6cc36324decec65fc3b8232c3dd093c32ff9580b938ddb4c7d9a001839c39a07b7bb71638be3a48237a5030104",
+"a420fff97fd922c96e243b1291310c41b7bc14fc1263e3e5228bd8a14fc144a60670cb8e1649dbb2c328e67cd9fefd2e29c82b4b5323982ae04a251d3b47fbcb",
 "species":
 "mus musculus",
 "subject_id":
@@ -2945,22 +2945,22 @@
 "uploaded_by":
 "dandi 0.11.0",
 "uploaded_datetime":
-"2021-03-11T18:52:01.687436-05:00",
+"2021-04-11T18:55:02.811422-04:00",
 "uploaded_mtime":
-"2021-01-27T15:20:04-05:00",
+"2021-04-09T22:09:48-04:00",
 "uploaded_nwb_object_id":
-"f1d3bbe1-f490-44a0-a5c7-d4bfe4b3f957",
+"34c3555e-4a6f-49bb-90b4-87de7d3b6f28",
 "uploaded_size":
 10132428
 },
 "modified":
-"2021-01-27 15:20:04-05:00",
+"2021-04-09 22:09:48-04:00",
 "name":
 "sub-359855_ses-20161220_behavior+ecephys+ogen.nwb",
 "path":
 "/sub-359855/sub-359855_ses-20161220_behavior+ecephys+ogen.nwb",
 "sha256":
-"b001e078d2819bea750933f037aaa0d20606b41d99ccab087bacaa6f74de16f1",
+"a9088bff5f7ef2fbf5776c498b75538de14f07b870a1243270cbcfa6e420ebeb",
 "size":
 10132428,
 "type":
@@ -2970,16 +2970,16 @@
 "attrs":
 {
 "ctime":
-"2021-03-11T23:53:59.268000+00:00",
+"2021-04-11T22:57:21.051000+00:00",
 "mtime":
-"2021-01-27T15:22:24-05:00",
+"2021-04-09T22:10:34-04:00",
 "size":
 2181884
 },
 "girder":
 {
 "id":
-"604aad9702cb75004f0afa0b"
+"60737ed102cb75004f0b29e5"
 },
 "metadata":
 {
@@ -2992,7 +2992,7 @@
 "institution":
 "janelia research campus",
 "md5":
-"79f2da0b2617816519054d002b4c4c42",
+"c818b8b96a664e0bbc8751fdf0097101",
 "nwb_version":
 "2.2.5",
 "session_description":
@@ -3002,11 +3002,11 @@
 "sex":
 "unknown",
 "sha1":
-"7715209a7d1b93bc24a633e2bceaea77e5a191e5",
+"ac5b6a44d0bdf442786b63f15d495d10c294fb46",
 "sha256":
-"c660d9006c21dc9e48debabd284e88ef3c59566e4968bdd79f2bacb0e62a9d16",
+"763d0ccb992a75609ed26a5fe2c6d6a6234fe10749b4ba546ed48c5fedcc3898",
 "sha512":
-"355e4156737be862077790e65473f2e495e3f8e3246b9c86f5aa5bbb13da037e16b0fa37f4d7d39694c50777ff631a809a6c1a7ca62541fcdb18ec32550493e0",
+"0208c58fcd8652641ae57c950ef1d8ad006faf8e3b408333f5f023447b59715810e3ae1d01c72f2faeea0219651ae8a423a5c00b16c43124a1bd3f6504a3ee3f",
 "species":
 "mus musculus",
 "subject_id":
@@ -3014,22 +3014,22 @@
 "uploaded_by":
 "dandi 0.11.0",
 "uploaded_datetime":
-"2021-03-11T18:51:58.483295-05:00",
+"2021-04-11T18:55:00.552517-04:00",
 "uploaded_mtime":
-"2021-01-27T15:22:24-05:00",
+"2021-04-09T22:10:34-04:00",
 "uploaded_nwb_object_id":
-"7850603c-4900-4334-932e-866bd4959e54",
+"38a90ea9-5f05-4f42-90fc-7046fddfe975",
 "uploaded_size":
 2181884
 },
 "modified":
-"2021-01-27 15:22:24-05:00",
+"2021-04-09 22:10:34-04:00",
 "name":
 "sub-359855_ses-20161221_behavior+ecephys+ogen.nwb",
 "path":
 "/sub-359855/sub-359855_ses-20161221_behavior+ecephys+ogen.nwb",
 "sha256":
-"c660d9006c21dc9e48debabd284e88ef3c59566e4968bdd79f2bacb0e62a9d16",
+"763d0ccb992a75609ed26a5fe2c6d6a6234fe10749b4ba546ed48c5fedcc3898",
 "size":
 2181884,
 "type":
@@ -3039,16 +3039,16 @@
 "attrs":
 {
 "ctime":
-"2021-03-11T23:54:02.076000+00:00",
+"2021-04-11T22:57:22.324000+00:00",
 "mtime":
-"2021-01-27T15:26:08-05:00",
+"2021-04-10T16:46:18-04:00",
 "size":
 6156388
 },
 "girder":
 {
 "id":
-"604aad9a02cb75004f0afa0c"
+"60737ed202cb75004f0b29ef"
 },
 "metadata":
 {
@@ -3061,7 +3061,7 @@
 "institution":
 "janelia research campus",
 "md5":
-"849f3a00d24fa24e1ebab58a2b3ab003",
+"c43a00589f890a24a297e17a39f31586",
 "nwb_version":
 "2.2.5",
 "session_description":
@@ -3071,11 +3071,11 @@
 "sex":
 "unknown",
 "sha1":
-"c4c0e0f2bf23cc8af723ab98071846f774667abe",
+"cb2552169835931c6354bad86753d2a21f72d386",
 "sha256":
-"d96213abe539fda1f14ccdffc91565625965e6e8e591479433eb27a42009af4c",
+"465659a6c0ad0f38607e24564903c4a974eea68c4ac35433dd82fa0547a3c521",
 "sha512":
-"b4256280def3eccd4b3b362438a4e26c97cf87a841f6af148a2f06ed94892dedff5b36f6839f112c30b1c6939fa034a323c1e2ffba66b9f70076f8f97177cf6f",
+"389744347de3408449712b8afac67feff051776b5478fcde1d02a3e765c953cb24883c41b2f8ee384bce064f9622f2010260e6dba8fa2ea9095557a1d84a1746",
 "species":
 "mus musculus",
 "subject_id":
@@ -3083,22 +3083,22 @@
 "uploaded_by":
 "dandi 0.11.0",
 "uploaded_datetime":
-"2021-03-11T18:52:01.635031-05:00",
+"2021-04-11T18:55:02.986625-04:00",
 "uploaded_mtime":
-"2021-01-27T15:26:08-05:00",
+"2021-04-10T16:46:18-04:00",
 "uploaded_nwb_object_id":
-"c7d7bcdb-4db6-4765-be6c-2a6c32d7cf42",
+"639f5bff-3370-4f67-b6b1-8f1cfba317a2",
 "uploaded_size":
 6156388
 },
 "modified":
-"2021-01-27 15:26:08-05:00",
+"2021-04-10 16:46:18-04:00",
 "name":
 "sub-359855_ses-20161222_behavior+ecephys+ogen.nwb",
 "path":
 "/sub-359855/sub-359855_ses-20161222_behavior+ecephys+ogen.nwb",
 "sha256":
-"d96213abe539fda1f14ccdffc91565625965e6e8e591479433eb27a42009af4c",
+"465659a6c0ad0f38607e24564903c4a974eea68c4ac35433dd82fa0547a3c521",
 "size":
 6156388,
 "type":
@@ -3108,16 +3108,16 @@
 "attrs":
 {
 "ctime":
-"2021-03-11T23:54:15.984000+00:00",
+"2021-04-11T22:57:22.445000+00:00",
 "mtime":
-"2021-01-27T15:30:56-05:00",
+"2021-04-09T22:13:40-04:00",
 "size":
-12873060
+12872388
 },
 "girder":
 {
 "id":
-"604aada702cb75004f0afa28"
+"60737ed202cb75004f0b29f1"
 },
 "metadata":
 {
@@ -3130,7 +3130,7 @@
 "institution":
 "janelia research campus",
 "md5":
-"35a24f78254f6c2bcb212c1468e70e9e",
+"1f708e1c2e689e2698569575c6578c0f",
 "nwb_version":
 "2.2.5",
 "session_description":
@@ -3140,11 +3140,11 @@
 "sex":
 "unknown",
 "sha1":
-"3eced7d1ee980fcb4b343183b71cb3882a16ee30",
+"ab775d857047525b92003f54936b64ac0c44ad51",
 "sha256":
-"bb4dbca6581b7632bc93f2a4e2919ad5f74f366adc853de4632cce27b9e16cc6",
+"d1400a3f5204c32a1fe7e649356bfaca9e61dafcb6f76fc64dbdf983e07af274",
 "sha512":
-"258d30c16bf2929a623139299c1b3cd55c745fb58610dd782f519a2f4f428c0afa067c586aaedb13032098db83ebf71f755ef617d8e1c657c132ba92b15175ca",
+"059dbd5d4ef6cc8e2b0a723963c7b01e361a313a7b4fc643f391712e040849f2ecd10bdf6d1344fd177315d563be0e9d123028f3ad9bc756f951e0726a934d4f",
 "species":
 "mus musculus",
 "subject_id":
@@ -3152,24 +3152,24 @@
 "uploaded_by":
 "dandi 0.11.0",
 "uploaded_datetime":
-"2021-03-11T18:52:17.371408-05:00",
+"2021-04-11T18:55:02.964624-04:00",
 "uploaded_mtime":
-"2021-01-27T15:30:56-05:00",
+"2021-04-09T22:13:40-04:00",
 "uploaded_nwb_object_id":
-"193829be-51eb-4c29-8794-5334a532e4be",
+"244da5d7-afbf-471b-aa40-ad80a36c900f",
 "uploaded_size":
-12873060
+12872388
 },
 "modified":
-"2021-01-27 15:30:56-05:00",
+"2021-04-09 22:13:40-04:00",
 "name":
 "sub-359856_ses-20170218_behavior+ecephys+ogen.nwb",
 "path":
 "/sub-359856/sub-359856_ses-20170218_behavior+ecephys+ogen.nwb",
 "sha256":
-"bb4dbca6581b7632bc93f2a4e2919ad5f74f366adc853de4632cce27b9e16cc6",
+"d1400a3f5204c32a1fe7e649356bfaca9e61dafcb6f76fc64dbdf983e07af274",
 "size":
-12873060,
+12872388,
 "type":
 "file"
 },
@@ -3177,16 +3177,16 @@
 "attrs":
 {
 "ctime":
-"2021-03-11T23:54:14.883000+00:00",
+"2021-04-11T22:57:30.146000+00:00",
 "mtime":
-"2021-01-27T15:35:32-05:00",
+"2021-04-09T22:15:08-04:00",
 "size":
 15581024
 },
 "girder":
 {
 "id":
-"604aada602cb75004f0afa1c"
+"60737eda02cb75004f0b29f6"
 },
 "metadata":
 {
@@ -3199,7 +3199,7 @@
 "institution":
 "janelia research campus",
 "md5":
-"ed2ddfac13055ebc7c329ce616424af5",
+"cf9e9b933b3de20de370134ff46cf3df",
 "nwb_version":
 "2.2.5",
 "session_description":
@@ -3209,11 +3209,11 @@
 "sex":
 "unknown",
 "sha1":
-"2ba3ca2f97532c3eb0c956f6c23f4020186f004d",
+"b49bbc995541075c2076c88edf2bb7705df990fd",
 "sha256":
-"a2bf11b92bb85ea7e868c3fdf207c0390364850342db4d5ffb64a4293d61c8ab",
+"ed07b3c41f7f7b8a3e52f647b6b160e294aa28dbafb93a9eb17a4b781f9bb949",
 "sha512":
-"5dc611adadb7835c0bc78b161074b7ff995e4595f1ac897a57c480dd0118639c818cf935992dd8ab88a23e5d98476fbc1bbf42bc6c0179ce21cbe6bbe9ff985e",
+"7e9884965fd423b0b03ac5e44e41e3616e41b5f3e391b6158ad858c0364365c73604e9c64d160f124ba03e95cbe7a624f3ce8db25d65fcb4dbfa281bdcb830d2",
 "species":
 "mus musculus",
 "subject_id":
@@ -3221,22 +3221,22 @@
 "uploaded_by":
 "dandi 0.11.0",
 "uploaded_datetime":
-"2021-03-11T18:52:12.394315-05:00",
+"2021-04-11T18:55:10.060830-04:00",
 "uploaded_mtime":
-"2021-01-27T15:35:32-05:00",
+"2021-04-09T22:15:08-04:00",
 "uploaded_nwb_object_id":
-"4895c3f3-2679-4b5c-9649-74da425c7ce1",
+"bc59c770-80e3-4ae1-8228-b3751046102e",
 "uploaded_size":
 15581024
 },
 "modified":
-"2021-01-27 15:35:32-05:00",
+"2021-04-09 22:15:08-04:00",
 "name":
 "sub-359856_ses-20170219_behavior+ecephys+ogen.nwb",
 "path":
 "/sub-359856/sub-359856_ses-20170219_behavior+ecephys+ogen.nwb",
 "sha256":
-"a2bf11b92bb85ea7e868c3fdf207c0390364850342db4d5ffb64a4293d61c8ab",
+"ed07b3c41f7f7b8a3e52f647b6b160e294aa28dbafb93a9eb17a4b781f9bb949",
 "size":
 15581024,
 "type":
@@ -3246,16 +3246,16 @@
 "attrs":
 {
 "ctime":
-"2021-03-11T23:54:15.155000+00:00",
+"2021-04-11T22:57:30.461000+00:00",
 "mtime":
-"2021-01-27T15:39:00-05:00",
+"2021-04-09T22:16:22-04:00",
 "size":
-10676836
+10676668
 },
 "girder":
 {
 "id":
-"604aada702cb75004f0afa20"
+"60737eda02cb75004f0b29f8"
 },
 "metadata":
 {
@@ -3268,7 +3268,7 @@
 "institution":
 "janelia research campus",
 "md5":
-"d5f57a15bf2de4037fe91048175bd2e9",
+"f72156aef8cd11afce44c8537ed8f1e4",
 "nwb_version":
 "2.2.5",
 "session_description":
@@ -3278,11 +3278,11 @@
 "sex":
 "unknown",
 "sha1":
-"b46fdc5872491c51c4064bac9e11a912e3710ee1",
+"24b6cc4d2047abe230efbc8cd467a9d3bacab3e9",
 "sha256":
-"8dc9b74aa1707d3004d963e5f2069c9f40049f034945ff2aad0f9099be369c06",
+"032ae8d623b18a77c997112fdfe717092043df6015eba886234a746fcc47faf4",
 "sha512":
-"3b76a53e563c83c8b2fd68dab7263ed8e774c49ac0037b466850b90c0b7a580c7d7d64f40a377db0443468b211d65b0461a5a8d5a00df73ddeccffe04ec7b83a",
+"c49ca2215325b7e3398adcaefdc297f6fb3a16306bbd0012ea51bc440b4f55598d75848fa4471f5dceb282400d2026ab7daac542e32968016142599b4b05e6be",
 "species":
 "mus musculus",
 "subject_id":
@@ -3290,24 +3290,24 @@
 "uploaded_by":
 "dandi 0.11.0",
 "uploaded_datetime":
-"2021-03-11T18:52:12.686606-05:00",
+"2021-04-11T18:55:11.152151-04:00",
 "uploaded_mtime":
-"2021-01-27T15:39:00-05:00",
+"2021-04-09T22:16:22-04:00",
 "uploaded_nwb_object_id":
-"1b9e6e8e-a9ce-4a2b-b7df-ceaf2198b913",
+"e41f7cec-0540-4dbf-aa81-f64006f99769",
 "uploaded_size":
-10676836
+10676668
 },
 "modified":
-"2021-01-27 15:39:00-05:00",
+"2021-04-09 22:16:22-04:00",
 "name":
 "sub-359856_ses-20170220_behavior+ecephys+ogen.nwb",
 "path":
 "/sub-359856/sub-359856_ses-20170220_behavior+ecephys+ogen.nwb",
 "sha256":
-"8dc9b74aa1707d3004d963e5f2069c9f40049f034945ff2aad0f9099be369c06",
+"032ae8d623b18a77c997112fdfe717092043df6015eba886234a746fcc47faf4",
 "size":
-10676836,
+10676668,
 "type":
 "file"
 },
@@ -3315,16 +3315,16 @@
 "attrs":
 {
 "ctime":
-"2021-03-11T23:54:15.202000+00:00",
+"2021-04-11T22:57:24.711000+00:00",
 "mtime":
-"2021-01-27T15:42:16-05:00",
+"2021-04-09T22:17:38-04:00",
 "size":
-5936896
+5934672
 },
 "girder":
 {
 "id":
-"604aada702cb75004f0afa22"
+"60737ed402cb75004f0b29f4"
 },
 "metadata":
 {
@@ -3337,7 +3337,7 @@
 "institution":
 "janelia research campus",
 "md5":
-"4fa88f878a24de4d11f89fcebeccae0f",
+"5905bb52980df406d8c2b85e7cd3cbd5",
 "nwb_version":
 "2.2.5",
 "session_description":
@@ -3347,11 +3347,11 @@
 "sex":
 "unknown",
 "sha1":
-"1b2e5af9c590f6bd486a571ff4b3c133b52ccee4",
+"eadc2b0e0492c32470ba96989875f423abd3e37c",
 "sha256":
-"2f722bf7712a79b8ee0f17b467ad4d755b9a447eb80c7552d7a96afa3c0514bf",
+"7d634c95e2384098d1bf12e3610f01b16cddf7e05889fe6eb4d51738c7474859",
 "sha512":
-"9d09a16c5bd2be0456934c07f483e70c1cd066ad68b54c17815a8163495683d4b02f8ac8f114f61c64ddc0221aceb7307721bee3a6e207f896d24d594dc10fb8",
+"3ddc6342c0aead8a819fa4aa57f059eea40ec27e48077fe4e0b5029afbb717c35fc774cc4559d53dabc2093dcfb882069338ddf6e930eb4d6e98d40c83ce8a0b",
 "species":
 "mus musculus",
 "subject_id":
@@ -3359,24 +3359,24 @@
 "uploaded_by":
 "dandi 0.11.0",
 "uploaded_datetime":
-"2021-03-11T18:52:12.735318-05:00",
+"2021-04-11T18:55:08.908010-04:00",
 "uploaded_mtime":
-"2021-01-27T15:42:16-05:00",
+"2021-04-09T22:17:38-04:00",
 "uploaded_nwb_object_id":
-"727b164d-0bdf-47f6-89b3-831b8feaeb0b",
+"7f4b707b-beee-4bf7-a4a7-dd1fe9649685",
 "uploaded_size":
-5936896
+5934672
 },
 "modified":
-"2021-01-27 15:42:16-05:00",
+"2021-04-09 22:17:38-04:00",
 "name":
 "sub-359856_ses-20170221_behavior+ecephys+ogen.nwb",
 "path":
 "/sub-359856/sub-359856_ses-20170221_behavior+ecephys+ogen.nwb",
 "sha256":
-"2f722bf7712a79b8ee0f17b467ad4d755b9a447eb80c7552d7a96afa3c0514bf",
+"7d634c95e2384098d1bf12e3610f01b16cddf7e05889fe6eb4d51738c7474859",
 "size":
-5936896,
+5934672,
 "type":
 "file"
 },
@@ -3384,16 +3384,16 @@
 "attrs":
 {
 "ctime":
-"2021-03-11T23:54:15.189000+00:00",
+"2021-04-11T22:57:29.882000+00:00",
 "mtime":
-"2021-01-27T15:46:00-05:00",
+"2021-04-09T22:18:58-04:00",
 "size":
 6659080
 },
 "girder":
 {
 "id":
-"604aada702cb75004f0afa21"
+"60737ed902cb75004f0b29f5"
 },
 "metadata":
 {
@@ -3406,7 +3406,7 @@
 "institution":
 "janelia research campus",
 "md5":
-"a863d026bd633f44c83fb08afd327c1d",
+"56e58ee676e0ca0bc58c60c30e5f102d",
 "nwb_version":
 "2.2.5",
 "session_description":
@@ -3416,11 +3416,11 @@
 "sex":
 "unknown",
 "sha1":
-"dd05bc264473645ba3f28100849e39febfc20143",
+"7aae14ee0969dcaa4b08df12d15f5816a305d77e",
 "sha256":
-"667cd0d9fd763ecdb1a7dd0dfb966acf7bd403764ef55b8d53a7892d7f7312f1",
+"490b359442fb4c4d7b1ddefa4527abc09d8f4d9faeec389ffd331d5a004f305a",
 "sha512":
-"7bcd2ba44d56af3c2299ef90a665071a826819ea5299d005f95f6d12227c7241a78342d56e4ef7b72263fefc1542942442fba0c4470012831ff170c1a3abfb91",
+"0846c9ab929465ab64756e336c4e671f21240aca97c3915ce06b860a5320f54eba95673a16bc6862075727f198c054f8baaab1163c1cfffd05e645a66897dfed",
 "species":
 "mus musculus",
 "subject_id":
@@ -3428,22 +3428,22 @@
 "uploaded_by":
 "dandi 0.11.0",
 "uploaded_datetime":
-"2021-03-11T18:52:12.813320-05:00",
+"2021-04-11T18:55:09.572824-04:00",
 "uploaded_mtime":
-"2021-01-27T15:46:00-05:00",
+"2021-04-09T22:18:58-04:00",
 "uploaded_nwb_object_id":
-"007b8b17-4792-4d19-a764-74cdd7310e9e",
+"24012c5d-9975-4a1f-9c2d-64e5b25fa8e8",
 "uploaded_size":
 6659080
 },
 "modified":
-"2021-01-27 15:46:00-05:00",
+"2021-04-09 22:18:58-04:00",
 "name":
 "sub-359856_ses-20170222_behavior+ecephys+ogen.nwb",
 "path":
 "/sub-359856/sub-359856_ses-20170222_behavior+ecephys+ogen.nwb",
 "sha256":
-"667cd0d9fd763ecdb1a7dd0dfb966acf7bd403764ef55b8d53a7892d7f7312f1",
+"490b359442fb4c4d7b1ddefa4527abc09d8f4d9faeec389ffd331d5a004f305a",
 "size":
 6659080,
 "type":
@@ -3453,16 +3453,16 @@
 "attrs":
 {
 "ctime":
-"2021-03-11T23:54:15.807000+00:00",
+"2021-04-11T22:57:30.449000+00:00",
 "mtime":
-"2021-01-27T15:49:04-05:00",
+"2021-04-10T16:47:20-04:00",
 "size":
 4256508
 },
 "girder":
 {
 "id":
-"604aada702cb75004f0afa27"
+"60737eda02cb75004f0b29f7"
 },
 "metadata":
 {
@@ -3475,7 +3475,7 @@
 "institution":
 "janelia research campus",
 "md5":
-"a035d6a56461ffb7e193bc58c67351e5",
+"ef71904536e5a47b880259bb736e60dc",
 "nwb_version":
 "2.2.5",
 "session_description":
@@ -3485,11 +3485,11 @@
 "sex":
 "unknown",
 "sha1":
-"7071c0dfa4ea1b955e6083a3edc883fced2b1e02",
+"da6116ff713fa86d8fccad662e7539e8a2d31f65",
 "sha256":
-"6d67d8a5d2c68e41ffd272b6d0ddf82f03d01d10aeaabedab11883760025da45",
+"83474807014c5b0887779585f505ee91009c3c658f7d199795f3eaa19bf760f4",
 "sha512":
-"25d9a555f177238828c3db122c094f1e383a87015fbdec2d2dd0728f70d7aba7f035dd825a3f43ba1f5394c6a7a5c8c187246a53f81bdda11c1cd1db6f6360ea",
+"25a9d359d1447dbd0f1e136af24f32d7f2cc944393ca78f384af721e74d5bf75c4e538265bb4f0d51adbc36f44996593ced3b3f1c2194bba1ef175f641bebbde",
 "species":
 "mus musculus",
 "subject_id":
@@ -3497,22 +3497,22 @@
 "uploaded_by":
 "dandi 0.11.0",
 "uploaded_datetime":
-"2021-03-11T18:52:15.916879-05:00",
+"2021-04-11T18:55:11.735568-04:00",
 "uploaded_mtime":
-"2021-01-27T15:49:04-05:00",
+"2021-04-10T16:47:20-04:00",
 "uploaded_nwb_object_id":
-"f5ee6b82-ba47-415c-82d6-e0d5a446f266",
+"5fcf81bf-bd2b-4e38-9ee9-1a79c8a1c012",
 "uploaded_size":
 4256508
 },
 "modified":
-"2021-01-27 15:49:04-05:00",
+"2021-04-10 16:47:20-04:00",
 "name":
 "sub-359856_ses-20170223_behavior+ecephys+ogen.nwb",
 "path":
 "/sub-359856/sub-359856_ses-20170223_behavior+ecephys+ogen.nwb",
 "sha256":
-"6d67d8a5d2c68e41ffd272b6d0ddf82f03d01d10aeaabedab11883760025da45",
+"83474807014c5b0887779585f505ee91009c3c658f7d199795f3eaa19bf760f4",
 "size":
 4256508,
 "type":
@@ -3522,16 +3522,16 @@
 "attrs":
 {
 "ctime":
-"2021-03-11T23:54:22.597000+00:00",
+"2021-04-11T22:57:51.048000+00:00",
 "mtime":
-"2021-01-27T15:52:50-05:00",
+"2021-04-10T16:48:36-04:00",
 "size":
 6511672
 },
 "girder":
 {
 "id":
-"604aadae02cb75004f0afa2c"
+"60737eef02cb75004f0b2a15"
 },
 "metadata":
 {
@@ -3544,7 +3544,7 @@
 "institution":
 "janelia research campus",
 "md5":
-"ac9ee623daa15d1a59f47c935224afd3",
+"6677b6f4e4679cdb82eebb91e3fdeba6",
 "nwb_version":
 "2.2.5",
 "session_description":
@@ -3554,11 +3554,11 @@
 "sex":
 "unknown",
 "sha1":
-"67b9d6e1bc4cf17ec08b903916c95c45dfd2715e",
+"2f87f9404f3e0dc23337a9da8057093b07e1f65c",
 "sha256":
-"6e4a8c1cb6250b5968b13f3de6d0c06060fc13bdf4e420c685bb69744e067de5",
+"a82b735844d4d03c024308a900360593c475940a9bf58a507d7287e1ae17d7d8",
 "sha512":
-"2599917d954677a1e269d38338b422c2088f0bc1e43938003c20ddadf2c15168fbe20932a99a95c1724e2b876142abf7f8d68c9d40a16c9dd8bae204d2b58e30",
+"133b19ed32f2645d9281c90787c16ad9a305b106a46c85899625cbf67ad70e04eb39e5d0899734db18c993f91761f910fbda050e975378d3185b65855475f048",
 "species":
 "mus musculus",
 "subject_id":
@@ -3566,22 +3566,22 @@
 "uploaded_by":
 "dandi 0.11.0",
 "uploaded_datetime":
-"2021-03-11T18:52:21.235080-05:00",
+"2021-04-11T18:55:30.419375-04:00",
 "uploaded_mtime":
-"2021-01-27T15:52:50-05:00",
+"2021-04-10T16:48:36-04:00",
 "uploaded_nwb_object_id":
-"643c8a0c-e267-44e8-a459-91819c9154dd",
+"efeed733-e8ae-4f0b-ac00-b8662c777509",
 "uploaded_size":
 6511672
 },
 "modified":
-"2021-01-27 15:52:50-05:00",
+"2021-04-10 16:48:36-04:00",
 "name":
 "sub-359856_ses-20170224_behavior+ecephys+ogen.nwb",
 "path":
 "/sub-359856/sub-359856_ses-20170224_behavior+ecephys+ogen.nwb",
 "sha256":
-"6e4a8c1cb6250b5968b13f3de6d0c06060fc13bdf4e420c685bb69744e067de5",
+"a82b735844d4d03c024308a900360593c475940a9bf58a507d7287e1ae17d7d8",
 "size":
 6511672,
 "type":
@@ -3591,16 +3591,16 @@
 "attrs":
 {
 "ctime":
-"2021-03-11T23:54:28.064000+00:00",
+"2021-04-11T22:57:44.754000+00:00",
 "mtime":
-"2021-01-27T15:57:14-05:00",
+"2021-04-09T22:22:42-04:00",
 "size":
 18281812
 },
 "girder":
 {
 "id":
-"604aadb402cb75004f0afa2f"
+"60737ee802cb75004f0b2a00"
 },
 "metadata":
 {
@@ -3613,7 +3613,7 @@
 "institution":
 "janelia research campus",
 "md5":
-"0c39d735469dd05ea53596d0db13b252",
+"0acf9e390458fd659cf025c9469e42f9",
 "nwb_version":
 "2.2.5",
 "session_description":
@@ -3623,11 +3623,11 @@
 "sex":
 "unknown",
 "sha1":
-"8c7664753a8906dd6ad635eeaf26c37a8d9a845a",
+"9785aa08570a76e42485e1f9c4d45e910ad883c1",
 "sha256":
-"1f7f06f7b8bee1c2d4e865db27ce312a4e714b973edec771d9d41a28a751c1d9",
+"e46ed8f6c8f85e737c7dcc17602df08edd5ec29c15c6329d96630c6ddeb65e5d",
 "sha512":
-"53b5bdb59812f032ada3a60e801815227ef4498f61f56e10db7508814be0ebe0c77b13bb5b67073c5d9134d69a80c67c1fb8d41a48323745e66fbb1475021e37",
+"ed725991fef6886d093c04e5835a850b94cf9e60602ac0e473902652219365eb587989dde3adecf88f6cffc5377059bb4b05a56d0fe1b275c21f65e371e47db6",
 "species":
 "mus musculus",
 "subject_id":
@@ -3635,22 +3635,22 @@
 "uploaded_by":
 "dandi 0.11.0",
 "uploaded_datetime":
-"2021-03-11T18:52:26.480032-05:00",
+"2021-04-11T18:55:24.381899-04:00",
 "uploaded_mtime":
-"2021-01-27T15:57:14-05:00",
+"2021-04-09T22:22:42-04:00",
 "uploaded_nwb_object_id":
-"eefcfee5-6c93-4356-86f6-b011eac4ba1c",
+"66c52d12-fb35-44bf-809e-8192dc4e7cbd",
 "uploaded_size":
 18281812
 },
 "modified":
-"2021-01-27 15:57:14-05:00",
+"2021-04-09 22:22:42-04:00",
 "name":
 "sub-359856_ses-20170227_behavior+ecephys+ogen.nwb",
 "path":
 "/sub-359856/sub-359856_ses-20170227_behavior+ecephys+ogen.nwb",
 "sha256":
-"1f7f06f7b8bee1c2d4e865db27ce312a4e714b973edec771d9d41a28a751c1d9",
+"e46ed8f6c8f85e737c7dcc17602df08edd5ec29c15c6329d96630c6ddeb65e5d",
 "size":
 18281812,
 "type":
@@ -3660,16 +3660,16 @@
 "attrs":
 {
 "ctime":
-"2021-03-11T23:54:24.412000+00:00",
+"2021-04-11T22:57:52.149000+00:00",
 "mtime":
-"2021-01-27T16:03:24-05:00",
+"2021-04-09T22:24:00-04:00",
 "size":
 15692488
 },
 "girder":
 {
 "id":
-"604aadb002cb75004f0afa2d"
+"60737ef002cb75004f0b2a1b"
 },
 "metadata":
 {
@@ -3682,7 +3682,7 @@
 "institution":
 "janelia research campus",
 "md5":
-"2155ad06f24bb53600675498c80b1937",
+"bebf9f61722f5845ad5d3f4cb1a0eccc",
 "nwb_version":
 "2.2.5",
 "session_description":
@@ -3692,11 +3692,11 @@
 "sex":
 "unknown",
 "sha1":
-"6a85aa3e23f89fcc2d0c64201118dd8a1ac1c9ac",
+"01f08de1cba466275833b68a89b994faad827445",
 "sha256":
-"319d2bd158524e6bbb3d63c33fc40903267bc181126ed94ec6eb5ca5a86ec3cc",
+"99968437978cde411f0479f9691bc41e33edf02af1b77d483a54a2cbefbfba26",
 "sha512":
-"aaa9c7c2c122f59cbf59c758e8a94d0b1d8698fbb81d65e50ba596f392474c8a24f9e7c6fc53c607c4abdfdbeae6c4513f1b7d016f5e6ccf55d302f1cfce92b6",
+"0bab2e067fc90f0c379c03f06fb8b711ea3d5f6bfa2d6b9edf2097e1275635cbfcefe01ddc1b4c12d3f2ace53332de06fab15d9e818b306d4dc48ce3d6e197a1",
 "species":
 "mus musculus",
 "subject_id":
@@ -3704,22 +3704,22 @@
 "uploaded_by":
 "dandi 0.11.0",
 "uploaded_datetime":
-"2021-03-11T18:52:24.138278-05:00",
+"2021-04-11T18:55:37.231931-04:00",
 "uploaded_mtime":
-"2021-01-27T16:03:24-05:00",
+"2021-04-09T22:24:00-04:00",
 "uploaded_nwb_object_id":
-"66db0bb6-812f-4179-9bb9-5539ac7aa4ed",
+"6f976682-7d71-416a-a4ed-f55535787570",
 "uploaded_size":
 15692488
 },
 "modified":
-"2021-01-27 16:03:24-05:00",
+"2021-04-09 22:24:00-04:00",
 "name":
 "sub-359856_ses-20170228_behavior+ecephys+ogen.nwb",
 "path":
 "/sub-359856/sub-359856_ses-20170228_behavior+ecephys+ogen.nwb",
 "sha256":
-"319d2bd158524e6bbb3d63c33fc40903267bc181126ed94ec6eb5ca5a86ec3cc",
+"99968437978cde411f0479f9691bc41e33edf02af1b77d483a54a2cbefbfba26",
 "size":
 15692488,
 "type":
@@ -3729,16 +3729,16 @@
 "attrs":
 {
 "ctime":
-"2021-03-11T23:54:21.177000+00:00",
+"2021-04-11T22:57:45.119000+00:00",
 "mtime":
-"2021-01-27T16:09:52-05:00",
+"2021-04-10T16:49:44-04:00",
 "size":
-5252556
+5252620
 },
 "girder":
 {
 "id":
-"604aadad02cb75004f0afa2b"
+"60737ee902cb75004f0b2a02"
 },
 "metadata":
 {
@@ -3751,7 +3751,7 @@
 "institution":
 "janelia research campus",
 "md5":
-"f9d5bec1c472cf3a23b4c04444e42aff",
+"5002675b9bd653729b7a7d4e435284fd",
 "nwb_version":
 "2.2.5",
 "session_description":
@@ -3761,11 +3761,11 @@
 "sex":
 "unknown",
 "sha1":
-"2b0f69a4075c23641c350d0ffa75aeecd204431e",
+"cca62ac586a33fb724569544d2e3e6fbd9104756",
 "sha256":
-"82e6720c903b96d96183435051ff70f2adcf67b2318e50b00d38f0dc80cef412",
+"3672b7c230025ded82e3923760e3281e5ca099f4577b9035e3b599a92ca3cb74",
 "sha512":
-"75745e0f569bc9da7a62c3eff5307829ee1f258f3c73b3f4f6e565ced4cc4803e9046b2d1d3d113c79fbd9af7129c24c9e4541c6c4c1f9db74a198b7e2242358",
+"929ca4188ef6078a34b492d388cda6d18649832b40272b1813a96b480b5cff6e778aa3225b0f2fa12fb408d5dfaca95203a700dd435988e6642f9c73271781c7",
 "species":
 "mus musculus",
 "subject_id":
@@ -3773,24 +3773,24 @@
 "uploaded_by":
 "dandi 0.11.0",
 "uploaded_datetime":
-"2021-03-11T18:52:20.389768-05:00",
+"2021-04-11T18:55:24.707195-04:00",
 "uploaded_mtime":
-"2021-01-27T16:09:52-05:00",
+"2021-04-10T16:49:44-04:00",
 "uploaded_nwb_object_id":
-"2ee6db20-bbd0-4f5c-86e8-fba115e4b43c",
+"dfed191c-734e-4c1e-8ef0-d5b6983b4868",
 "uploaded_size":
-5252556
+5252620
 },
 "modified":
-"2021-01-27 16:09:52-05:00",
+"2021-04-10 16:49:44-04:00",
 "name":
 "sub-359856_ses-20170301_behavior+ecephys+ogen.nwb",
 "path":
 "/sub-359856/sub-359856_ses-20170301_behavior+ecephys+ogen.nwb",
 "sha256":
-"82e6720c903b96d96183435051ff70f2adcf67b2318e50b00d38f0dc80cef412",
+"3672b7c230025ded82e3923760e3281e5ca099f4577b9035e3b599a92ca3cb74",
 "size":
-5252556,
+5252620,
 "type":
 "file"
 },
@@ -3798,16 +3798,16 @@
 "attrs":
 {
 "ctime":
-"2021-03-11T23:54:31.251000+00:00",
+"2021-04-11T22:57:57.429000+00:00",
 "mtime":
-"2021-01-27T16:15:38-05:00",
+"2021-04-10T16:51:06-04:00",
 "size":
 11193860
 },
 "girder":
 {
 "id":
-"604aadb702cb75004f0afa32"
+"60737ef502cb75004f0b2a1d"
 },
 "metadata":
 {
@@ -3820,7 +3820,7 @@
 "institution":
 "janelia research campus",
 "md5":
-"f942c0ee8f8a609efc1dcd168e0c705e",
+"e2929d362e6dd0e019761168571dd750",
 "nwb_version":
 "2.2.5",
 "session_description":
@@ -3830,11 +3830,11 @@
 "sex":
 "unknown",
 "sha1":
-"374b8c5736b4d5bf033e0b4f28eefc35c3f16072",
+"b51859082ffe160dd7ac0f41602a6b56685d853c",
 "sha256":
-"f0dfc4f2310246ea25ea4f7d7758722aceaf8766d7b12b62ab1c69df51f3406b",
+"28ce8288bfd351eef003c71082ef2eb7c9007bc9a120c03ab9c94340b8dcdc66",
 "sha512":
-"68d49e8917fb6fa26d1a69b2c2d2c7bb5e030d24de283a7284a1e112d5b56cfb0ae6ed604da4201fc0c05066dacb2cfed98bbc3be6cf86a74893b22c43e10522",
+"bd845568d3455159191828073ee42d83bcc77f5ccdf6deea52d24af5a2bdcb877460aca962d2d6765c806f0efd396c8fcc2d9dd13bdf0c0b336307552599c183",
 "species":
 "mus musculus",
 "subject_id":
@@ -3842,22 +3842,22 @@
 "uploaded_by":
 "dandi 0.11.0",
 "uploaded_datetime":
-"2021-03-11T18:52:29.381702-05:00",
+"2021-04-11T18:55:39.085610-04:00",
 "uploaded_mtime":
-"2021-01-27T16:15:38-05:00",
+"2021-04-10T16:51:06-04:00",
 "uploaded_nwb_object_id":
-"e6383fa4-4f49-4477-91f2-2dff6c188eee",
+"c59c1d58-cc5b-4d0a-a060-beddceb126e5",
 "uploaded_size":
 11193860
 },
 "modified":
-"2021-01-27 16:15:38-05:00",
+"2021-04-10 16:51:06-04:00",
 "name":
 "sub-359856_ses-20170302_behavior+ecephys+ogen.nwb",
 "path":
 "/sub-359856/sub-359856_ses-20170302_behavior+ecephys+ogen.nwb",
 "sha256":
-"f0dfc4f2310246ea25ea4f7d7758722aceaf8766d7b12b62ab1c69df51f3406b",
+"28ce8288bfd351eef003c71082ef2eb7c9007bc9a120c03ab9c94340b8dcdc66",
 "size":
 11193860,
 "type":
@@ -3867,16 +3867,16 @@
 "attrs":
 {
 "ctime":
-"2021-03-11T23:54:35.925000+00:00",
+"2021-04-11T22:57:50.984000+00:00",
 "mtime":
-"2021-01-27T16:18:50-05:00",
+"2021-04-10T16:52:16-04:00",
 "size":
 5003212
 },
 "girder":
 {
 "id":
-"604aadbb02cb75004f0afa39"
+"60737eee02cb75004f0b2a14"
 },
 "metadata":
 {
@@ -3889,7 +3889,7 @@
 "institution":
 "janelia research campus",
 "md5":
-"816cf813c7e447946e05bd5fa2d1ee6e",
+"772dfc167c0f3d2275069e21160f4b66",
 "nwb_version":
 "2.2.5",
 "session_description":
@@ -3899,11 +3899,11 @@
 "sex":
 "unknown",
 "sha1":
-"b8252839fa1463d9dcb849c50ca96fd1986c35cb",
+"e2e8c205842e8ff4b50e225e49c182ed0167d3cf",
 "sha256":
-"c5662769d7ccbb32d167a21204947f1130914d8e2869992d4552714ce857f8f8",
+"ed00f85276ec48fc05fb7f88fa3bceba67b9aa55237e13905dbef3c791105841",
 "sha512":
-"4eba0c0f71a160c4096899f2e235c7b16cdc3387316d30397c5aec8c9e1d224798ecf26d6cec4cc046e5ffe6c76e2390ca3335255d39948f3b51a2f21f9b65c6",
+"127dad1a186de2c21bb1c5b8b457299b292233ddbd7df5c99a2ab26569d7e394a200950c4a89dd2f94c9d4caed4b651235fede72b598557344a434034178d78e",
 "species":
 "mus musculus",
 "subject_id":
@@ -3911,22 +3911,22 @@
 "uploaded_by":
 "dandi 0.11.0",
 "uploaded_datetime":
-"2021-03-11T18:52:34.286863-05:00",
+"2021-04-11T18:55:30.314703-04:00",
 "uploaded_mtime":
-"2021-01-27T16:18:50-05:00",
+"2021-04-10T16:52:16-04:00",
 "uploaded_nwb_object_id":
-"ae0c4ec1-9eb6-4a5c-98af-ed28ee58fdb6",
+"dd58ac70-4763-4b52-a8ed-249c30fc0c47",
 "uploaded_size":
 5003212
 },
 "modified":
-"2021-01-27 16:18:50-05:00",
+"2021-04-10 16:52:16-04:00",
 "name":
 "sub-359856_ses-20170303_behavior+ecephys+ogen.nwb",
 "path":
 "/sub-359856/sub-359856_ses-20170303_behavior+ecephys+ogen.nwb",
 "sha256":
-"c5662769d7ccbb32d167a21204947f1130914d8e2869992d4552714ce857f8f8",
+"ed00f85276ec48fc05fb7f88fa3bceba67b9aa55237e13905dbef3c791105841",
 "size":
 5003212,
 "type":
@@ -3936,16 +3936,16 @@
 "attrs":
 {
 "ctime":
-"2021-03-11T23:54:36.570000+00:00",
+"2021-04-11T22:57:51.072000+00:00",
 "mtime":
-"2021-01-27T16:22:06-05:00",
+"2021-04-10T16:53:26-04:00",
 "size":
-4988744
+4988784
 },
 "girder":
 {
 "id":
-"604aadbc02cb75004f0afa3d"
+"60737eef02cb75004f0b2a16"
 },
 "metadata":
 {
@@ -3958,7 +3958,7 @@
 "institution":
 "janelia research campus",
 "md5":
-"c07e03f7d0e6f5a4e8b4394e34523a4b",
+"70271257ec9b2e8dd4d0a13758a9f020",
 "nwb_version":
 "2.2.5",
 "session_description":
@@ -3968,11 +3968,11 @@
 "sex":
 "unknown",
 "sha1":
-"5124c9ac7c4d0e6fb32a65a50caa68b76bf86d11",
+"446232d6e1e9d9e8af470bab4768408c805e6e60",
 "sha256":
-"ab5611bdc6e82ad6227bedde780f06d37355502c4a4839527ab21c4b2ee1150e",
+"6f568db8572ce0b69f945f175596fc75b0edb36f37b3f98e0934ba09806d119d",
 "sha512":
-"89d3b8b6d6c4ec614ca74557ef3cc49e2472d6f4a08c788aeca571777141f0ef8e725ff77c03069d6f0d396a8134ad15922d2c27eb8241dacf59c9abf310f43e",
+"cbf3ee0361b94e884363e8cbef175ce0ae10b02a5837c255eca7bcf411d9f6657b117f0d3bb03cd8df26369e8ff91effee47679d555e7679ab58ad9bf8246961",
 "species":
 "mus musculus",
 "subject_id":
@@ -3980,24 +3980,24 @@
 "uploaded_by":
 "dandi 0.11.0",
 "uploaded_datetime":
-"2021-03-11T18:52:35.331856-05:00",
+"2021-04-11T18:55:30.401715-04:00",
 "uploaded_mtime":
-"2021-01-27T16:22:06-05:00",
+"2021-04-10T16:53:26-04:00",
 "uploaded_nwb_object_id":
-"c6b39087-b18a-47ce-8654-074047d2625a",
+"ea687539-503f-4bf9-b613-d3d7f4560362",
 "uploaded_size":
-4988744
+4988784
 },
 "modified":
-"2021-01-27 16:22:06-05:00",
+"2021-04-10 16:53:26-04:00",
 "name":
 "sub-359856_ses-20170309_behavior+ecephys+ogen.nwb",
 "path":
 "/sub-359856/sub-359856_ses-20170309_behavior+ecephys+ogen.nwb",
 "sha256":
-"ab5611bdc6e82ad6227bedde780f06d37355502c4a4839527ab21c4b2ee1150e",
+"6f568db8572ce0b69f945f175596fc75b0edb36f37b3f98e0934ba09806d119d",
 "size":
-4988744,
+4988784,
 "type":
 "file"
 },
@@ -4005,16 +4005,16 @@
 "attrs":
 {
 "ctime":
-"2021-03-11T23:54:36.039000+00:00",
+"2021-04-11T22:57:51.279000+00:00",
 "mtime":
-"2021-01-27T16:27:38-05:00",
+"2021-04-09T22:30:56-04:00",
 "size":
 8519414
 },
 "girder":
 {
 "id":
-"604aadbc02cb75004f0afa3a"
+"60737eef02cb75004f0b2a17"
 },
 "metadata":
 {
@@ -4027,7 +4027,7 @@
 "institution":
 "janelia research campus",
 "md5":
-"46dcaae0faae78b023f17149973d41a7",
+"1c2d9b1f0a2c130b177c1aa62d23d24f",
 "nwb_version":
 "2.2.5",
 "session_description":
@@ -4037,11 +4037,11 @@
 "sex":
 "unknown",
 "sha1":
-"9e662226f151bfbe883a6e7a919a484a3b1eefa2",
+"a547c9cc4a00caf7f9fd88449b90a654f1f31559",
 "sha256":
-"ae1a8fdd59a9791235185d44d5023afef367f84441dad94d4b8452cc8ec36474",
+"88b127bd63e94fcdd7bf78033b987a07b5310319a8134011082fef413d66f527",
 "sha512":
-"de95beff0c6411bd5bffa75693a33b7bd74f0d70bafeae33acb5f7f9b3c15657cf71676ed40807c87dfda01071de3db180d72132fd1c6a4e2f66b0fe5269a710",
+"88cac96318f7fcc3708a44ce56dbb3b1c3d1e52b2a70349ae1c3bab876a334787b1f8904730c51b7c61aed802f99f09ad677ed463b985adc2fdf96435cbb52a7",
 "species":
 "mus musculus",
 "subject_id":
@@ -4049,22 +4049,22 @@
 "uploaded_by":
 "dandi 0.11.0",
 "uploaded_datetime":
-"2021-03-11T18:52:34.286863-05:00",
+"2021-04-11T18:55:30.630374-04:00",
 "uploaded_mtime":
-"2021-01-27T16:27:38-05:00",
+"2021-04-09T22:30:56-04:00",
 "uploaded_nwb_object_id":
-"933a5957-c507-4681-ae08-c74c69d91a78",
+"ae46f964-6a54-40d5-8cb5-2df81a357c99",
 "uploaded_size":
 8519414
 },
 "modified":
-"2021-01-27 16:27:38-05:00",
+"2021-04-09 22:30:56-04:00",
 "name":
 "sub-365938_ses-20171017_behavior+ecephys+ogen.nwb",
 "path":
 "/sub-365938/sub-365938_ses-20171017_behavior+ecephys+ogen.nwb",
 "sha256":
-"ae1a8fdd59a9791235185d44d5023afef367f84441dad94d4b8452cc8ec36474",
+"88b127bd63e94fcdd7bf78033b987a07b5310319a8134011082fef413d66f527",
 "size":
 8519414,
 "type":
@@ -4074,16 +4074,16 @@
 "attrs":
 {
 "ctime":
-"2021-03-11T23:54:51.163000+00:00",
+"2021-04-11T22:57:51.380000+00:00",
 "mtime":
-"2021-01-27T16:32:34-05:00",
+"2021-04-09T22:32:42-04:00",
 "size":
 12537398
 },
 "girder":
 {
 "id":
-"604aadcb02cb75004f0afa5b"
+"60737eef02cb75004f0b2a18"
 },
 "metadata":
 {
@@ -4096,7 +4096,7 @@
 "institution":
 "janelia research campus",
 "md5":
-"30ea64b0743bf15ae5b69f06490fc765",
+"cd8c3f0a6f149c3054bbc1087058f50b",
 "nwb_version":
 "2.2.5",
 "session_description":
@@ -4106,11 +4106,11 @@
 "sex":
 "unknown",
 "sha1":
-"4118d66469201892e658039852202748af8a06f3",
+"b8924db5edf2b1305ce5de8c87b6b73114a5d270",
 "sha256":
-"0638d4bf7abb461c281dc81867209583ae75283e6788cf782117f68b614853f7",
+"00d37123478a3342168930e744e93dcd7f4a0eef064c775e033d4df6c2f6285d",
 "sha512":
-"3e399c5245b3bf9388577e3bc5ac42fd2bb1d4001e0850321ab2293d1e6c776b5dc24a92efcf84f06093596fa16495cad23d8da81fdca293da0c820d726505de",
+"01ddcbe90aca4389f032707c2ff9aafdf8ea9e862ebd757055599cbb67b11ee0e792c4428f17d33625afcd42b9bf31bdb19de67edff2f2eca5f3fcd8a880c4f7",
 "species":
 "mus musculus",
 "subject_id":
@@ -4118,22 +4118,22 @@
 "uploaded_by":
 "dandi 0.11.0",
 "uploaded_datetime":
-"2021-03-11T18:52:48.629574-05:00",
+"2021-04-11T18:55:30.717374-04:00",
 "uploaded_mtime":
-"2021-01-27T16:32:34-05:00",
+"2021-04-09T22:32:42-04:00",
 "uploaded_nwb_object_id":
-"ec215f28-b7f2-4e08-b2a4-1ef63df9f2bc",
+"e0c76033-4ec1-40c2-adfe-f57e2022f94a",
 "uploaded_size":
 12537398
 },
 "modified":
-"2021-01-27 16:32:34-05:00",
+"2021-04-09 22:32:42-04:00",
 "name":
 "sub-365938_ses-20171019_behavior+ecephys+ogen.nwb",
 "path":
 "/sub-365938/sub-365938_ses-20171019_behavior+ecephys+ogen.nwb",
 "sha256":
-"0638d4bf7abb461c281dc81867209583ae75283e6788cf782117f68b614853f7",
+"00d37123478a3342168930e744e93dcd7f4a0eef064c775e033d4df6c2f6285d",
 "size":
 12537398,
 "type":
@@ -4143,16 +4143,16 @@
 "attrs":
 {
 "ctime":
-"2021-03-11T23:54:42.399000+00:00",
+"2021-04-11T22:57:52.317000+00:00",
 "mtime":
-"2021-01-27T16:36:56-05:00",
+"2021-04-09T22:34:18-04:00",
 "size":
 9095204
 },
 "girder":
 {
 "id":
-"604aadc202cb75004f0afa47"
+"60737ef002cb75004f0b2a1c"
 },
 "metadata":
 {
@@ -4165,7 +4165,7 @@
 "institution":
 "janelia research campus",
 "md5":
-"e72e4b148cd9617c19071a81767507e1",
+"1baaae20615a65947f2c8a67197ca601",
 "nwb_version":
 "2.2.5",
 "session_description":
@@ -4175,11 +4175,11 @@
 "sex":
 "unknown",
 "sha1":
-"0dc254f47b7edcddb0f29d5e683108a78827d85c",
+"af45905e38504cc682cf7c4a948b0f58dccb553e",
 "sha256":
-"cd817868fdabd1b4d50b4cc2b315e24006c46797ce8a27cd740b7abcbc5c9960",
+"4e8e85b202b36e7a963cbbb5e855c0b9593dda81ea69f52ea67898cc685f8ede",
 "sha512":
-"6fcb1b1464c400f0bad3c0b320f3d3ab7072c03db8de0b1231b508309f81db864a61a00f6fbccda954b344621e5ab6e023a32a92aeb283516df81ab780f3f6cb",
+"5784bdf0cae147ce3928d38965fffa81e0cfd930cd91b4d89a7df0862e3590e3118692e152888e1d066f890c51c90bdcf98813006c95fb8cb5a5ff339b2480d4",
 "species":
 "mus musculus",
 "subject_id":
@@ -4187,22 +4187,22 @@
 "uploaded_by":
 "dandi 0.11.0",
 "uploaded_datetime":
-"2021-03-11T18:52:42.439743-05:00",
+"2021-04-11T18:55:36.660173-04:00",
 "uploaded_mtime":
-"2021-01-27T16:36:56-05:00",
+"2021-04-09T22:34:18-04:00",
 "uploaded_nwb_object_id":
-"bcdd83e7-865d-40a8-96df-0d0b19470db6",
+"210ac6a1-6870-4e45-93d9-fb53b265c8b2",
 "uploaded_size":
 9095204
 },
 "modified":
-"2021-01-27 16:36:56-05:00",
+"2021-04-09 22:34:18-04:00",
 "name":
 "sub-365938_ses-20171020_behavior+ecephys+ogen.nwb",
 "path":
 "/sub-365938/sub-365938_ses-20171020_behavior+ecephys+ogen.nwb",
 "sha256":
-"cd817868fdabd1b4d50b4cc2b315e24006c46797ce8a27cd740b7abcbc5c9960",
+"4e8e85b202b36e7a963cbbb5e855c0b9593dda81ea69f52ea67898cc685f8ede",
 "size":
 9095204,
 "type":
@@ -4212,16 +4212,16 @@
 "attrs":
 {
 "ctime":
-"2021-03-11T23:54:41.864000+00:00",
+"2021-04-11T22:57:51.748000+00:00",
 "mtime":
-"2021-01-27T16:42:44-05:00",
+"2021-04-09T22:36:32-04:00",
 "size":
 6673660
 },
 "girder":
 {
 "id":
-"604aadc102cb75004f0afa46"
+"60737eef02cb75004f0b2a1a"
 },
 "metadata":
 {
@@ -4234,7 +4234,7 @@
 "institution":
 "janelia research campus",
 "md5":
-"88e46ca83891c46eeb4915ff248c1d19",
+"06ecb1aad362057e081cfe2be986e110",
 "nwb_version":
 "2.2.5",
 "session_description":
@@ -4244,11 +4244,11 @@
 "sex":
 "unknown",
 "sha1":
-"04d153808897615b00188dc3b51abbf12a83c5ab",
+"c4d1437282f15ce11e43a196db4aaf37425aee04",
 "sha256":
-"3b620457adacc55874533c2bd10f6a4a9d4f5cabca72f940fa4c09d4869efb04",
+"7f24076e0ca4c1adf8c2428fb89a9a66aad9b9cd30e78c18d1956b727884dc81",
 "sha512":
-"6f6ee7aca429cc6dbb7a7a138605df829424f766ea23f2228a51db52137c7cc3693ab31f6f80d5678a80e268d994da1d12f842aec0d93ed766b177c1900c81ca",
+"0342588de8030af6a2422c4efd31a73e3693be3059f496a4b9df7053ce1f4a036e4476f69ef39c270822eaa06e571e586677aba504d74824c59e0d21da8ac25d",
 "species":
 "mus musculus",
 "subject_id":
@@ -4256,22 +4256,22 @@
 "uploaded_by":
 "dandi 0.11.0",
 "uploaded_datetime":
-"2021-03-11T18:52:42.063041-05:00",
+"2021-04-11T18:55:32.881200-04:00",
 "uploaded_mtime":
-"2021-01-27T16:42:44-05:00",
+"2021-04-09T22:36:32-04:00",
 "uploaded_nwb_object_id":
-"15ebe28f-8576-47fc-abcc-f13866029203",
+"8f1739a6-f697-48de-aa22-b5373824390d",
 "uploaded_size":
 6673660
 },
 "modified":
-"2021-01-27 16:42:44-05:00",
+"2021-04-09 22:36:32-04:00",
 "name":
 "sub-365938_ses-20171021_behavior+ecephys+ogen.nwb",
 "path":
 "/sub-365938/sub-365938_ses-20171021_behavior+ecephys+ogen.nwb",
 "sha256":
-"3b620457adacc55874533c2bd10f6a4a9d4f5cabca72f940fa4c09d4869efb04",
+"7f24076e0ca4c1adf8c2428fb89a9a66aad9b9cd30e78c18d1956b727884dc81",
 "size":
 6673660,
 "type":
@@ -4281,16 +4281,16 @@
 "attrs":
 {
 "ctime":
-"2021-03-11T23:54:50.409000+00:00",
+"2021-04-11T22:57:51.733000+00:00",
 "mtime":
-"2021-01-27T16:48:44-05:00",
+"2021-04-09T22:38:42-04:00",
 "size":
-14756674
+14745146
 },
 "girder":
 {
 "id":
-"604aadca02cb75004f0afa56"
+"60737eef02cb75004f0b2a19"
 },
 "metadata":
 {
@@ -4303,7 +4303,7 @@
 "institution":
 "janelia research campus",
 "md5":
-"552b871e312502ed9096a22a21bd094f",
+"caf40bdf0b0650949e688cf3071d3b3f",
 "nwb_version":
 "2.2.5",
 "session_description":
@@ -4313,11 +4313,11 @@
 "sex":
 "unknown",
 "sha1":
-"4dd4288260ead8a27cc215aef3e880ad3a47aca4",
+"01e608866f04dc35cf26fbcc1fb40ecb7218d53a",
 "sha256":
-"a6ea7b84bfa5290ed7b46b5b10a5b94fafe066168204b3a378b5c32674b8d613",
+"a72b59dc4852a235f54e2efceddfddce1b6f2a9d748558b0b12c17c3796bf42b",
 "sha512":
-"3390c7032c8f360e83762aeb59848ee762d4800fbfe7f95c8fa23727e845ce2602d71ff31faf96e145d2bcc16b22d834af0dfc27acf5b667ea0c2a929e4d1d82",
+"c3c314cd6446639958d4d50fa1c1894f06ed7ce9fee0932c16c72347cfe6c47ed23d86b49b5f37312c4badf93797bbee4f60bb5ec00a599d6fcb4b81e8daf674",
 "species":
 "mus musculus",
 "subject_id":
@@ -4325,24 +4325,24 @@
 "uploaded_by":
 "dandi 0.11.0",
 "uploaded_datetime":
-"2021-03-11T18:52:47.983117-05:00",
+"2021-04-11T18:55:31.260423-04:00",
 "uploaded_mtime":
-"2021-01-27T16:48:44-05:00",
+"2021-04-09T22:38:42-04:00",
 "uploaded_nwb_object_id":
-"3add571d-df58-458b-9cf3-8baa0ac8abce",
+"fa7d697a-e143-465a-b8f4-06febabf58b7",
 "uploaded_size":
-14756674
+14745146
 },
 "modified":
-"2021-01-27 16:48:44-05:00",
+"2021-04-09 22:38:42-04:00",
 "name":
 "sub-365938_ses-20171024_behavior+ecephys+ogen.nwb",
 "path":
 "/sub-365938/sub-365938_ses-20171024_behavior+ecephys+ogen.nwb",
 "sha256":
-"a6ea7b84bfa5290ed7b46b5b10a5b94fafe066168204b3a378b5c32674b8d613",
+"a72b59dc4852a235f54e2efceddfddce1b6f2a9d748558b0b12c17c3796bf42b",
 "size":
-14756674,
+14745146,
 "type":
 "file"
 },
@@ -4350,16 +4350,16 @@
 "attrs":
 {
 "ctime":
-"2021-03-11T23:54:51.624000+00:00",
+"2021-04-11T22:58:12.599000+00:00",
 "mtime":
-"2021-01-27T16:54:14-05:00",
+"2021-04-09T22:40:40-04:00",
 "size":
 15164781
 },
 "girder":
 {
 "id":
-"604aadcb02cb75004f0afa5d"
+"60737f0402cb75004f0b2a29"
 },
 "metadata":
 {
@@ -4372,7 +4372,7 @@
 "institution":
 "janelia research campus",
 "md5":
-"d766c24cb4b4861800eab162a26f762f",
+"2ea4662f75454b3d4568b34234b7d89c",
 "nwb_version":
 "2.2.5",
 "session_description":
@@ -4382,11 +4382,11 @@
 "sex":
 "unknown",
 "sha1":
-"547bbd38a7f75110cffbef6f2375b0be711f63a2",
+"0494186aa36de3dbad59103c3991fece7e7e7cfa",
 "sha256":
-"8b4fc9e3e0a1a272b1a8df5957f26cf636a00caad722364894853f287a5a1b86",
+"79cd58400e967d9b7f32bb4ff6b7dfcd9d0c03d99c70b959b470f6e4560adaa4",
 "sha512":
-"cd93025f47560cdd03129345abf91d8713ed7c1fa745249fc115833889e53bcf41ec32ed9681872b694e2a0179f33de7252057b168a71a9fe2d00e9dc139a355",
+"64faef0f1bf55b435e9853f1024d750ab2068863dc037ca330a2c2a5b15dda71917be0fef32d7f2d219d7e6a08f464876004c7860fb4788b83e400156b9d86da",
 "species":
 "mus musculus",
 "subject_id":
@@ -4394,22 +4394,22 @@
 "uploaded_by":
 "dandi 0.11.0",
 "uploaded_datetime":
-"2021-03-11T18:52:53.561490-05:00",
+"2021-04-11T18:55:53.428554-04:00",
 "uploaded_mtime":
-"2021-01-27T16:54:14-05:00",
+"2021-04-09T22:40:40-04:00",
 "uploaded_nwb_object_id":
-"96565152-4166-4193-9d2e-10bf130720e0",
+"e8a375d4-60fb-4fac-8f07-50db6c250126",
 "uploaded_size":
 15164781
 },
 "modified":
-"2021-01-27 16:54:14-05:00",
+"2021-04-09 22:40:40-04:00",
 "name":
 "sub-365938_ses-20171025_behavior+ecephys+ogen.nwb",
 "path":
 "/sub-365938/sub-365938_ses-20171025_behavior+ecephys+ogen.nwb",
 "sha256":
-"8b4fc9e3e0a1a272b1a8df5957f26cf636a00caad722364894853f287a5a1b86",
+"79cd58400e967d9b7f32bb4ff6b7dfcd9d0c03d99c70b959b470f6e4560adaa4",
 "size":
 15164781,
 "type":
@@ -4419,16 +4419,16 @@
 "attrs":
 {
 "ctime":
-"2021-03-11T23:54:51.659000+00:00",
+"2021-04-11T22:58:11.180000+00:00",
 "mtime":
-"2021-01-27T16:58:30-05:00",
+"2021-04-09T22:42:10-04:00",
 "size":
 5359748
 },
 "girder":
 {
 "id":
-"604aadcb02cb75004f0afa5e"
+"60737f0302cb75004f0b2a24"
 },
 "metadata":
 {
@@ -4441,7 +4441,7 @@
 "institution":
 "janelia research campus",
 "md5":
-"f218691ba61321009dd4927483d4603d",
+"6c508e657f96df332797d4ec8ea9d68b",
 "nwb_version":
 "2.2.5",
 "session_description":
@@ -4451,11 +4451,11 @@
 "sex":
 "unknown",
 "sha1":
-"be54975bf361fd22bb744c767b5afbcec64465c8",
+"5f634e34c751a39738fa041d33e4d7875847dfb0",
 "sha256":
-"2d15cbdce6a029f43be6b8ec65c814e639aba7a411ba727c44ba707a179afcad",
+"cf7309a3e2958fae77fd4f838e6a7641e22111c6f559ce29fd2b21aea3ae05f0",
 "sha512":
-"a9353bf227ebd8392f0a1a4c3c1ae9dedc0eb62dcc4f0848f0c973e7d9e13cbb6c3d1304ed726f62c2ba1a347f7a20bef604a441bd2eceb7ec5ba63d9ba36fcc",
+"15918c202e755265c631096fa8c788f11106febcef6131b81ade277c28f376b514eda4c559c760d5883d61019261848e3bcbf9ba875238ca1f636220bc2ef9b9",
 "species":
 "mus musculus",
 "subject_id":
@@ -4463,22 +4463,22 @@
 "uploaded_by":
 "dandi 0.11.0",
 "uploaded_datetime":
-"2021-03-11T18:52:54.026019-05:00",
+"2021-04-11T18:55:50.742073-04:00",
 "uploaded_mtime":
-"2021-01-27T16:58:30-05:00",
+"2021-04-09T22:42:10-04:00",
 "uploaded_nwb_object_id":
-"4be00b51-899e-44cb-8e9d-d9c0d33e52c6",
+"66faa5a7-8438-4820-863f-553ec21608ad",
 "uploaded_size":
 5359748
 },
 "modified":
-"2021-01-27 16:58:30-05:00",
+"2021-04-09 22:42:10-04:00",
 "name":
 "sub-365938_ses-20171027_behavior+ecephys+ogen.nwb",
 "path":
 "/sub-365938/sub-365938_ses-20171027_behavior+ecephys+ogen.nwb",
 "sha256":
-"2d15cbdce6a029f43be6b8ec65c814e639aba7a411ba727c44ba707a179afcad",
+"cf7309a3e2958fae77fd4f838e6a7641e22111c6f559ce29fd2b21aea3ae05f0",
 "size":
 5359748,
 "type":
@@ -4488,16 +4488,16 @@
 "attrs":
 {
 "ctime":
-"2021-03-11T23:54:51.792000+00:00",
+"2021-04-11T22:58:12.618000+00:00",
 "mtime":
-"2021-01-27T17:03:36-05:00",
+"2021-04-09T22:44:04-04:00",
 "size":
 10344176
 },
 "girder":
 {
 "id":
-"604aadcb02cb75004f0afa5f"
+"60737f0402cb75004f0b2a2a"
 },
 "metadata":
 {
@@ -4510,7 +4510,7 @@
 "institution":
 "janelia research campus",
 "md5":
-"2949ff59485c6de96307b4ec8db3b807",
+"311dec35dd08084b83015d06c7da6a2d",
 "nwb_version":
 "2.2.5",
 "session_description":
@@ -4520,11 +4520,11 @@
 "sex":
 "unknown",
 "sha1":
-"c0484e86e19bc36892f7652b75838cc270ca235e",
+"5c7435a28b50f6f6ffa2f52eb4633d6c8863d3ac",
 "sha256":
-"6add9e2a42095d6c751b3787927cdc1e36746ae084a8f1bef6665d8b0c27e514",
+"778bdf3747143bc73a5120fd842c21a9f16fad7f43f28a4f63691afb33a2e158",
 "sha512":
-"1c247aae7e0dc95c010f31164733eb1aefb497661975d5a6874120dd8753eebf6e4810f6c911d77f2fe88bbcc84b6c27d061011368319f148a5b9aa6ef3b5ab5",
+"5defeabac92b200568e210a8f84496931b047ee3a8970711e1556efd2c8f028b3ea4c5406a83008fe21a2c0590eac6e7b3244f13116f2c19985599c10e5490fa",
 "species":
 "mus musculus",
 "subject_id":
@@ -4532,22 +4532,22 @@
 "uploaded_by":
 "dandi 0.11.0",
 "uploaded_datetime":
-"2021-03-11T18:52:54.178018-05:00",
+"2021-04-11T18:55:53.444632-04:00",
 "uploaded_mtime":
-"2021-01-27T17:03:36-05:00",
+"2021-04-09T22:44:04-04:00",
 "uploaded_nwb_object_id":
-"8124ce43-63db-43d7-88f0-b1f678b50081",
+"505d20a3-4555-4704-a52a-42d29c5115d6",
 "uploaded_size":
 10344176
 },
 "modified":
-"2021-01-27 17:03:36-05:00",
+"2021-04-09 22:44:04-04:00",
 "name":
 "sub-365938_ses-20171030_behavior+ecephys+ogen.nwb",
 "path":
 "/sub-365938/sub-365938_ses-20171030_behavior+ecephys+ogen.nwb",
 "sha256":
-"6add9e2a42095d6c751b3787927cdc1e36746ae084a8f1bef6665d8b0c27e514",
+"778bdf3747143bc73a5120fd842c21a9f16fad7f43f28a4f63691afb33a2e158",
 "size":
 10344176,
 "type":
@@ -4557,16 +4557,16 @@
 "attrs":
 {
 "ctime":
-"2021-03-11T23:54:50.800000+00:00",
+"2021-04-11T22:58:21.988000+00:00",
 "mtime":
-"2021-01-27T17:08:02-05:00",
+"2021-04-09T22:45:46-04:00",
 "size":
 5438532
 },
 "girder":
 {
 "id":
-"604aadca02cb75004f0afa59"
+"60737f0e02cb75004f0b2a42"
 },
 "metadata":
 {
@@ -4579,7 +4579,7 @@
 "institution":
 "janelia research campus",
 "md5":
-"a14c7776a27c90e71f5f3a1246d0b9fc",
+"6f910db5717c3906899fcd95b21e20f1",
 "nwb_version":
 "2.2.5",
 "session_description":
@@ -4589,11 +4589,11 @@
 "sex":
 "unknown",
 "sha1":
-"d59f382543c13d0ef3ed3aad11d0b90c9cf50191",
+"172e2c1845a6095cfa9ec85ee2cd0146e66e19d2",
 "sha256":
-"bea9f5f079bb48e5585283b5376ae5d607fb6c1bb2e16e21611fa5a45b6b2b16",
+"7957710c5057ed9791b49f32d66f3a83f7a9fe934aabe5b741614cdc005b2873",
 "sha512":
-"21fcbfabd5ecaa3bf17566d421b56181087559509f3ba17c1f33373eb047e3b8db8c0a00d80cc47167ddfeea346231d3076fb2dfb1158ad7e92544e544ad774e",
+"06dea95b798398218839f6542222ffe02f0f8c5f649b10bd9e9a8e8123f0f0934a60aef6273cdb2e7b820ae1fbb2b5ef99d5ba7fac91580c38aa6413f703cfc0",
 "species":
 "mus musculus",
 "subject_id":
@@ -4601,22 +4601,22 @@
 "uploaded_by":
 "dandi 0.11.0",
 "uploaded_datetime":
-"2021-03-11T18:52:48.223116-05:00",
+"2021-04-11T18:56:01.401261-04:00",
 "uploaded_mtime":
-"2021-01-27T17:08:02-05:00",
+"2021-04-09T22:45:46-04:00",
 "uploaded_nwb_object_id":
-"f035e9f1-925f-4ac9-bf99-250ebb72c5ba",
+"662e6bad-c39b-420a-9d38-a5dccb039df9",
 "uploaded_size":
 5438532
 },
 "modified":
-"2021-01-27 17:08:02-05:00",
+"2021-04-09 22:45:46-04:00",
 "name":
 "sub-365938_ses-20171031_behavior+ecephys+ogen.nwb",
 "path":
 "/sub-365938/sub-365938_ses-20171031_behavior+ecephys+ogen.nwb",
 "sha256":
-"bea9f5f079bb48e5585283b5376ae5d607fb6c1bb2e16e21611fa5a45b6b2b16",
+"7957710c5057ed9791b49f32d66f3a83f7a9fe934aabe5b741614cdc005b2873",
 "size":
 5438532,
 "type":
@@ -4626,16 +4626,16 @@
 "attrs":
 {
 "ctime":
-"2021-03-11T23:54:56.536000+00:00",
+"2021-04-11T22:58:21.950000+00:00",
 "mtime":
-"2021-01-27T17:14:12-05:00",
+"2021-04-09T22:48:06-04:00",
 "size":
-14865147
+14865227
 },
 "girder":
 {
 "id":
-"604aadd002cb75004f0afa60"
+"60737f0d02cb75004f0b2a41"
 },
 "metadata":
 {
@@ -4648,7 +4648,7 @@
 "institution":
 "janelia research campus",
 "md5":
-"ed2f1f78533b3c21b5b61dd0a6d5d0c9",
+"00e9826bcfa7155b1051cea326b3e068",
 "nwb_version":
 "2.2.5",
 "session_description":
@@ -4658,11 +4658,11 @@
 "sex":
 "unknown",
 "sha1":
-"ac18aa2bc4b6c720cdc3ab65c74dd074636d29ab",
+"244eaac25958eb56d1d7be9ecbfcfc7e04cdd0fc",
 "sha256":
-"41dc0cb34e5a3da8a13f14df715e1b23004020190bcddaa0eb9fc64812285494",
+"44944ea38f9c0e2fdde228d63d6b9ab73c4ba07b892b7b3e928176f430afa656",
 "sha512":
-"ddc2a8a92979706ce4a814617578c5ec10f82b6e45e7992872f6988df50ae792a4771dfe032929d3a50a0d507e13bfe4e5040cb9baa35386df7644f57a80c134",
+"beb7281bdc878d70b73a3f05c5eeba33f921f672e233189d3d72799c3041d7128e0749f1635e26d319ce2479a41d8d7bdca2fc8940bf1033f38ab84871585b0d",
 "species":
 "mus musculus",
 "subject_id":
@@ -4670,24 +4670,24 @@
 "uploaded_by":
 "dandi 0.11.0",
 "uploaded_datetime":
-"2021-03-11T18:52:55.517830-05:00",
+"2021-04-11T18:56:01.415260-04:00",
 "uploaded_mtime":
-"2021-01-27T17:14:12-05:00",
+"2021-04-09T22:48:06-04:00",
 "uploaded_nwb_object_id":
-"f84e2a3a-35cd-4e32-b242-ff84bdfd08de",
+"75dd5755-9efb-4106-bac5-3112e96745ed",
 "uploaded_size":
-14865147
+14865227
 },
 "modified":
-"2021-01-27 17:14:12-05:00",
+"2021-04-09 22:48:06-04:00",
 "name":
 "sub-365938_ses-20171101_behavior+ecephys+ogen.nwb",
 "path":
 "/sub-365938/sub-365938_ses-20171101_behavior+ecephys+ogen.nwb",
 "sha256":
-"41dc0cb34e5a3da8a13f14df715e1b23004020190bcddaa0eb9fc64812285494",
+"44944ea38f9c0e2fdde228d63d6b9ab73c4ba07b892b7b3e928176f430afa656",
 "size":
-14865147,
+14865227,
 "type":
 "file"
 },
@@ -4695,16 +4695,16 @@
 "attrs":
 {
 "ctime":
-"2021-03-11T23:54:50.784000+00:00",
+"2021-04-11T22:58:14.939000+00:00",
 "mtime":
-"2021-01-27T17:18:02-05:00",
+"2021-04-09T22:49:32-04:00",
 "size":
 5414812
 },
 "girder":
 {
 "id":
-"604aadca02cb75004f0afa58"
+"60737f0702cb75004f0b2a32"
 },
 "metadata":
 {
@@ -4717,7 +4717,7 @@
 "institution":
 "janelia research campus",
 "md5":
-"c468a2256b874458076df40bf4fa7e10",
+"6e16c431c9f28c4eded325c49fa5bb92",
 "nwb_version":
 "2.2.5",
 "session_description":
@@ -4727,11 +4727,11 @@
 "sex":
 "unknown",
 "sha1":
-"aa885bf981940775635440e319c060d3364c7e71",
+"19b18723cac387787f050f50e40607363afd49a6",
 "sha256":
-"f1dd5aa7753912f42fc997cc6795b852c5b17692723d888896cadf416a1fde18",
+"82c2bd21d9bd1c633a7d3aea8772f4e388a295a1a7b15886b0899725252f3db1",
 "sha512":
-"8d93e7a3c88a4a1c4f579c6b8d68f2b016a53cb4d8a335a40a540e46003dc9e5340ec93edf12f0d158e9c93be5d20f6365cb3ee7566d08c447c0bb121e1cb4ba",
+"de1c10ebdafe00216ba42a37747c2272ee8edb85f928e652fa61f06dd39bb1c7344e634709f2ae85a870720a709dd5c672cae43574ae454946e50562b2263e7b",
 "species":
 "mus musculus",
 "subject_id":
@@ -4739,22 +4739,22 @@
 "uploaded_by":
 "dandi 0.11.0",
 "uploaded_datetime":
-"2021-03-11T18:52:48.269620-05:00",
+"2021-04-11T18:55:57.661624-04:00",
 "uploaded_mtime":
-"2021-01-27T17:18:02-05:00",
+"2021-04-09T22:49:32-04:00",
 "uploaded_nwb_object_id":
-"4b6e60ae-e514-4751-80c0-3b1c28bbf2bb",
+"e9bbb7c3-2b6d-47a4-9fa1-d8b5ab6ec52e",
 "uploaded_size":
 5414812
 },
 "modified":
-"2021-01-27 17:18:02-05:00",
+"2021-04-09 22:49:32-04:00",
 "name":
 "sub-365938_ses-20171102_behavior+ecephys+ogen.nwb",
 "path":
 "/sub-365938/sub-365938_ses-20171102_behavior+ecephys+ogen.nwb",
 "sha256":
-"f1dd5aa7753912f42fc997cc6795b852c5b17692723d888896cadf416a1fde18",
+"82c2bd21d9bd1c633a7d3aea8772f4e388a295a1a7b15886b0899725252f3db1",
 "size":
 5414812,
 "type":
@@ -4764,16 +4764,16 @@
 "attrs":
 {
 "ctime":
-"2021-03-11T23:54:50.951000+00:00",
+"2021-04-11T22:58:22.342000+00:00",
 "mtime":
-"2021-01-27T17:21:52-05:00",
+"2021-04-09T22:51:00-04:00",
 "size":
 6199300
 },
 "girder":
 {
 "id":
-"604aadca02cb75004f0afa5a"
+"60737f0e02cb75004f0b2a44"
 },
 "metadata":
 {
@@ -4786,7 +4786,7 @@
 "institution":
 "janelia research campus",
 "md5":
-"617befcab7db2dab5f5e8bc4cdc36c67",
+"6e00a60bd4866d1afca917472ac9c5f8",
 "nwb_version":
 "2.2.5",
 "session_description":
@@ -4796,11 +4796,11 @@
 "sex":
 "unknown",
 "sha1":
-"adf32d4cdd87ddeba8bf56c0911fb61fc765c031",
+"78506a24ab939cef2cf596dabf092447393b1314",
 "sha256":
-"337906dea2a0a51ef3c7acbbab178e5897dc78c36bb111828c0822289887c5a1",
+"84525c27f31e948c98e71f9742788bae38bec457c65f741446457b20c37a3771",
 "sha512":
-"3a50a2b2bd684f369d94660b7f4ecdf5332dbc7a01f79f64e996f755b55bc8de24e95344f3c833d191ee04af81ca5a17ed3c326b2954d210297552039046f014",
+"c6d48f685cd49aca077ab560f8f2bdba8cfc1fb73bc26fcb39f82e63889bddb8faec110e7d5a626d7fc8272f3a964e9fc89e139857d51fef7479956e111ba04d",
 "species":
 "mus musculus",
 "subject_id":
@@ -4808,22 +4808,22 @@
 "uploaded_by":
 "dandi 0.11.0",
 "uploaded_datetime":
-"2021-03-11T18:52:48.395144-05:00",
+"2021-04-11T18:56:01.739123-04:00",
 "uploaded_mtime":
-"2021-01-27T17:21:52-05:00",
+"2021-04-09T22:51:00-04:00",
 "uploaded_nwb_object_id":
-"da5a0fd1-c4cf-4773-81e0-91922d21565c",
+"2d05d12a-e642-4549-b3b4-c74fe5a5923e",
 "uploaded_size":
 6199300
 },
 "modified":
-"2021-01-27 17:21:52-05:00",
+"2021-04-09 22:51:00-04:00",
 "name":
 "sub-365938_ses-20171103_behavior+ecephys+ogen.nwb",
 "path":
 "/sub-365938/sub-365938_ses-20171103_behavior+ecephys+ogen.nwb",
 "sha256":
-"337906dea2a0a51ef3c7acbbab178e5897dc78c36bb111828c0822289887c5a1",
+"84525c27f31e948c98e71f9742788bae38bec457c65f741446457b20c37a3771",
 "size":
 6199300,
 "type":
@@ -4833,16 +4833,16 @@
 "attrs":
 {
 "ctime":
-"2021-03-11T23:54:51.526000+00:00",
+"2021-04-11T22:58:22.401000+00:00",
 "mtime":
-"2021-01-27T17:27:10-05:00",
+"2021-04-09T22:52:58-04:00",
 "size":
 11182288
 },
 "girder":
 {
 "id":
-"604aadcb02cb75004f0afa5c"
+"60737f0e02cb75004f0b2a45"
 },
 "metadata":
 {
@@ -4855,7 +4855,7 @@
 "institution":
 "janelia research campus",
 "md5":
-"9bd9aa9e949cf833aa689cd7da6d9cb1",
+"552c96cc0eadad1520a465ec665977fd",
 "nwb_version":
 "2.2.5",
 "session_description":
@@ -4865,11 +4865,11 @@
 "sex":
 "unknown",
 "sha1":
-"d0def7d9265a11ef9db6edebc6eae8bc7ae64b6c",
+"989b3625534522bb32e4ccfd23db1a47365e89c3",
 "sha256":
-"a816e80dd4dff58ad9f33af81d1708bfb72f71911057112aaf6a075f4174780e",
+"5b6ad60edbf6b9373de3bca3b94f849711e863fbd792617dcd423a1aa7fc6b44",
 "sha512":
-"22df0b2b6d8e9b66ad048ead641541b9c19014d7dd1bb00b846ecefdeba24fd7f895716bdfef199839c13d903dc5cbe15e6e3422f76e66687b752b11ba5cc28d",
+"566a4ca0dce29f4c5ecf53cdd82c12dba09b4d059a426f8764e0f43b11604ab02e784b2abd37ecb372dbdaef3dab06c953132bec57fd67f1c254e649f3ccfe6f",
 "species":
 "mus musculus",
 "subject_id":
@@ -4877,22 +4877,22 @@
 "uploaded_by":
 "dandi 0.11.0",
 "uploaded_datetime":
-"2021-03-11T18:52:53.363490-05:00",
+"2021-04-11T18:56:01.772122-04:00",
 "uploaded_mtime":
-"2021-01-27T17:27:10-05:00",
+"2021-04-09T22:52:58-04:00",
 "uploaded_nwb_object_id":
-"b65b294b-bfc8-4d30-8a1d-b0910c995791",
+"04bac084-2fdd-48de-948b-729cda47cb31",
 "uploaded_size":
 11182288
 },
 "modified":
-"2021-01-27 17:27:10-05:00",
+"2021-04-09 22:52:58-04:00",
 "name":
 "sub-365939_ses-20171017_behavior+ecephys+ogen.nwb",
 "path":
 "/sub-365939/sub-365939_ses-20171017_behavior+ecephys+ogen.nwb",
 "sha256":
-"a816e80dd4dff58ad9f33af81d1708bfb72f71911057112aaf6a075f4174780e",
+"5b6ad60edbf6b9373de3bca3b94f849711e863fbd792617dcd423a1aa7fc6b44",
 "size":
 11182288,
 "type":
@@ -4902,16 +4902,16 @@
 "attrs":
 {
 "ctime":
-"2021-03-11T23:55:12.793000+00:00",
+"2021-04-11T22:58:23.349000+00:00",
 "mtime":
-"2021-01-27T17:34:08-05:00",
+"2021-04-09T22:55:28-04:00",
 "size":
 15220827
 },
 "girder":
 {
 "id":
-"604aade002cb75004f0afa6d"
+"60737f0f02cb75004f0b2a48"
 },
 "metadata":
 {
@@ -4924,7 +4924,7 @@
 "institution":
 "janelia research campus",
 "md5":
-"5e661dfab7b1795048a44c0af8120ffd",
+"8dda3900118aee7ae8755d165bc99724",
 "nwb_version":
 "2.2.5",
 "session_description":
@@ -4934,11 +4934,11 @@
 "sex":
 "unknown",
 "sha1":
-"9de9c9cf5701c4475b1c30055b7107c2eb0a2297",
+"2e673b3e83cec4cd7fb7479b63b042b1821a5d44",
 "sha256":
-"bbc2276d2d4f507c33171eac198e4aff05f68d53d3d4a3825ccc8123f41d5e5c",
+"d19c5ee630a9ee43199bd4401751bd2ca2752e8d423e9325ffeb44c376b5307e",
 "sha512":
-"43f2bceaee8a5e91b262532f8f122323f9d153babe451dea8db9cf8610573a8c2a21165004780c5b3e4032181d64570ac50fe6664dd94768762bc828e40dbb94",
+"233db1803b7ffffe0c5fbbdd743c811d5f20aaccde6ff041e044fbf31a84ce74d1c1506190993c673b2bf7b8d301f699e0a9740e57723de5d1f06d95b8b12974",
 "species":
 "mus musculus",
 "subject_id":
@@ -4946,22 +4946,22 @@
 "uploaded_by":
 "dandi 0.11.0",
 "uploaded_datetime":
-"2021-03-11T18:53:10.430763-05:00",
+"2021-04-11T18:56:10.288153-04:00",
 "uploaded_mtime":
-"2021-01-27T17:34:08-05:00",
+"2021-04-09T22:55:28-04:00",
 "uploaded_nwb_object_id":
-"30a6c234-58ff-4bfa-b8f9-7ad06197e4ca",
+"5701009d-1394-4e1c-aad0-c900acfe334c",
 "uploaded_size":
 15220827
 },
 "modified":
-"2021-01-27 17:34:08-05:00",
+"2021-04-09 22:55:28-04:00",
 "name":
 "sub-365939_ses-20171018_behavior+ecephys+ogen.nwb",
 "path":
 "/sub-365939/sub-365939_ses-20171018_behavior+ecephys+ogen.nwb",
 "sha256":
-"bbc2276d2d4f507c33171eac198e4aff05f68d53d3d4a3825ccc8123f41d5e5c",
+"d19c5ee630a9ee43199bd4401751bd2ca2752e8d423e9325ffeb44c376b5307e",
 "size":
 15220827,
 "type":
@@ -4971,16 +4971,16 @@
 "attrs":
 {
 "ctime":
-"2021-03-11T23:55:13.861000+00:00",
+"2021-04-11T22:58:22.535000+00:00",
 "mtime":
-"2021-01-27T17:39:28-05:00",
+"2021-04-10T16:55:22-04:00",
 "size":
-7517632
+7517704
 },
 "girder":
 {
 "id":
-"604aade102cb75004f0afa78"
+"60737f0e02cb75004f0b2a47"
 },
 "metadata":
 {
@@ -4993,7 +4993,7 @@
 "institution":
 "janelia research campus",
 "md5":
-"f36610b31b028f22bebbd656814ba7d7",
+"33a0b4b1c8398b62fd5eadca0d7b7b58",
 "nwb_version":
 "2.2.5",
 "session_description":
@@ -5003,11 +5003,11 @@
 "sex":
 "unknown",
 "sha1":
-"03617219684afff30bda7bb64bc3f746fc1ea569",
+"3b4c57aa3094caa2ca3987be082f3428152bb2b8",
 "sha256":
-"22c673a4018db2350c1789b8048c7c661dce8d35a25b9da874dc3b0c4104ec9f",
+"de59826d85e544e9b2bcdb953a60fd666ecbd8bc19103a2777208bb589d1e7bc",
 "sha512":
-"c0bd91cab702390c8ae01158915d48d330951613d085a78f66a685eea533d55a42477080dca7a59b4320120a9f16ad24a7ce51394cb6685264ddf777872d2d96",
+"33512b9db197ddaf2057e07c0eb7f7a19430812efd333f417e5f21eb8b34b1590209cffbc66be8b8e592dffad17c89ff612e51de39299002523a9578b690efc7",
 "species":
 "mus musculus",
 "subject_id":
@@ -5015,24 +5015,24 @@
 "uploaded_by":
 "dandi 0.11.0",
 "uploaded_datetime":
-"2021-03-11T18:53:14.312242-05:00",
+"2021-04-11T18:56:01.911123-04:00",
 "uploaded_mtime":
-"2021-01-27T17:39:28-05:00",
+"2021-04-10T16:55:22-04:00",
 "uploaded_nwb_object_id":
-"c9807723-e4fb-43a8-a8c5-0cc7b9856f92",
+"be812791-5a8b-46d9-855f-14c8bf6aa5ff",
 "uploaded_size":
-7517632
+7517704
 },
 "modified":
-"2021-01-27 17:39:28-05:00",
+"2021-04-10 16:55:22-04:00",
 "name":
 "sub-365939_ses-20171019_behavior+ecephys+ogen.nwb",
 "path":
 "/sub-365939/sub-365939_ses-20171019_behavior+ecephys+ogen.nwb",
 "sha256":
-"22c673a4018db2350c1789b8048c7c661dce8d35a25b9da874dc3b0c4104ec9f",
+"de59826d85e544e9b2bcdb953a60fd666ecbd8bc19103a2777208bb589d1e7bc",
 "size":
-7517632,
+7517704,
 "type":
 "file"
 },
@@ -5040,16 +5040,16 @@
 "attrs":
 {
 "ctime":
-"2021-03-11T23:55:12.974000+00:00",
+"2021-04-11T22:58:22.018000+00:00",
 "mtime":
-"2021-01-27T17:43:54-05:00",
+"2021-04-09T22:59:06-04:00",
 "size":
 5800192
 },
 "girder":
 {
 "id":
-"604aade002cb75004f0afa70"
+"60737f0e02cb75004f0b2a43"
 },
 "metadata":
 {
@@ -5062,7 +5062,7 @@
 "institution":
 "janelia research campus",
 "md5":
-"de9b083b05f13c862faaed708513d04a",
+"9354ccf46b39017ff48c68ed66c5d6b6",
 "nwb_version":
 "2.2.5",
 "session_description":
@@ -5072,11 +5072,11 @@
 "sex":
 "unknown",
 "sha1":
-"86c90324df8eb4011f6f687ded574fe14368a47a",
+"fd980809e30df24e94eab743ecd66c8dabe55bc4",
 "sha256":
-"88378bebf57d5427cb0418accb15cb673f903bdac60c48bda64f5306a66fb867",
+"e9b0f3a6d4c94c2ca1adcd8247393aeca46f01d181a86904536c4e1b4bfc9d6d",
 "sha512":
-"6e8d020ab8c6ab0e9bb2bf7f3eafc03ec7dc8f8792774c6ed0200951f619ee6e934b2ed550c92743472e0ddaf9ddd42243ea1c039e601a34879bc358302cb479",
+"4c6f4d396dbbb6bcac7b6b02a69d8a8d0418d5e29e6ffd42897ae14a5675d6f32ca2e30a4c2d2df766e473ac6338fd0518b46c34d514c4ddf0e825692ceb69ec",
 "species":
 "mus musculus",
 "subject_id":
@@ -5084,22 +5084,22 @@
 "uploaded_by":
 "dandi 0.11.0",
 "uploaded_datetime":
-"2021-03-11T18:53:10.545312-05:00",
+"2021-04-11T18:56:01.407259-04:00",
 "uploaded_mtime":
-"2021-01-27T17:43:54-05:00",
+"2021-04-09T22:59:06-04:00",
 "uploaded_nwb_object_id":
-"7c60a97e-bb4b-47c1-a5fd-c776cec64d1b",
+"c994956d-040c-456f-98b8-354e9114b3e4",
 "uploaded_size":
 5800192
 },
 "modified":
-"2021-01-27 17:43:54-05:00",
+"2021-04-09 22:59:06-04:00",
 "name":
 "sub-365939_ses-20171020_behavior+ecephys+ogen.nwb",
 "path":
 "/sub-365939/sub-365939_ses-20171020_behavior+ecephys+ogen.nwb",
 "sha256":
-"88378bebf57d5427cb0418accb15cb673f903bdac60c48bda64f5306a66fb867",
+"e9b0f3a6d4c94c2ca1adcd8247393aeca46f01d181a86904536c4e1b4bfc9d6d",
 "size":
 5800192,
 "type":
@@ -5109,16 +5109,16 @@
 "attrs":
 {
 "ctime":
-"2021-03-11T23:55:13.543000+00:00",
+"2021-04-11T22:58:21.923000+00:00",
 "mtime":
-"2021-01-27T17:47:52-05:00",
+"2021-04-09T23:00:34-04:00",
 "size":
 3648856
 },
 "girder":
 {
 "id":
-"604aade102cb75004f0afa75"
+"60737f0d02cb75004f0b2a40"
 },
 "metadata":
 {
@@ -5131,7 +5131,7 @@
 "institution":
 "janelia research campus",
 "md5":
-"4fdd32901eb70d0dd5fc230b0c868a85",
+"1928b536e07530661d54e5b6226394b1",
 "nwb_version":
 "2.2.5",
 "session_description":
@@ -5141,11 +5141,11 @@
 "sex":
 "unknown",
 "sha1":
-"9194387dee21400fffe1121267269de52797d65b",
+"8d80eda2f708117d75110827f0a427482a872c05",
 "sha256":
-"79aa43b8fc3b2c2b9a2fd9998ffaa1c151441f1b8fbf52a6c6c8270bb70ca9c6",
+"0161cc316fc8ee30d433233119b48c2eed4f9eab0036eb3f9bebe21a448afa7d",
 "sha512":
-"777c4878a3305f2a3db289da3bf764624a5cfa71b679e7ac496e40a2a4432a5bfb157fcc6373b73751c26c48750590e1f05541a39401d049b0109d19754fd467",
+"e5b2d5b876d2e9a1675a965a6a94e59a298b91939ffc0727ca33492bd61eabd3999768ea6cc3e4c1a06ca702e0a4a6a8878ac7dd6ed3377a56df6746eca80a69",
 "species":
 "mus musculus",
 "subject_id":
@@ -5153,22 +5153,22 @@
 "uploaded_by":
 "dandi 0.11.0",
 "uploaded_datetime":
-"2021-03-11T18:53:13.719494-05:00",
+"2021-04-11T18:56:01.380259-04:00",
 "uploaded_mtime":
-"2021-01-27T17:47:52-05:00",
+"2021-04-09T23:00:34-04:00",
 "uploaded_nwb_object_id":
-"8a01b59c-42c2-4da3-aa8b-1db4eabe3d5a",
+"f6f9a8ae-0a50-496b-ae00-f446132d8af0",
 "uploaded_size":
 3648856
 },
 "modified":
-"2021-01-27 17:47:52-05:00",
+"2021-04-09 23:00:34-04:00",
 "name":
 "sub-365939_ses-20171021_behavior+ecephys+ogen.nwb",
 "path":
 "/sub-365939/sub-365939_ses-20171021_behavior+ecephys+ogen.nwb",
 "sha256":
-"79aa43b8fc3b2c2b9a2fd9998ffaa1c151441f1b8fbf52a6c6c8270bb70ca9c6",
+"0161cc316fc8ee30d433233119b48c2eed4f9eab0036eb3f9bebe21a448afa7d",
 "size":
 3648856,
 "type":
@@ -5178,16 +5178,16 @@
 "attrs":
 {
 "ctime":
-"2021-03-11T23:55:13.305000+00:00",
+"2021-04-11T22:58:21.857000+00:00",
 "mtime":
-"2021-01-27T17:52:02-05:00",
+"2021-04-09T23:02:06-04:00",
 "size":
 3478388
 },
 "girder":
 {
 "id":
-"604aade102cb75004f0afa73"
+"60737f0d02cb75004f0b2a3f"
 },
 "metadata":
 {
@@ -5200,7 +5200,7 @@
 "institution":
 "janelia research campus",
 "md5":
-"22d2b057565a0b19e0da1793a350581d",
+"444826fa163527b9798c2f334e15d7d4",
 "nwb_version":
 "2.2.5",
 "session_description":
@@ -5210,11 +5210,11 @@
 "sex":
 "unknown",
 "sha1":
-"faebf8ffe91fc011ee3fc3a99daa8a2a2c8ef487",
+"d632788bab532fff8cfec2bcd94ffe510e9d4cf2",
 "sha256":
-"f975bd7eaf5eef9f6f8ca2498f32d14b15016c4c23221b95a2fd0e10759dda2f",
+"061c5ffdc5fc1047077f0b0715086e33a5dcb7ea1b625a8fd5a21a3d6e1444bc",
 "sha512":
-"5cf1578d6928ca76e192ed521e05a6702e02e8f131ae5744a0b6617a1668f4e446a3e80b2b55f5f32da6c577b02950989abdd2c9ef48b8f1f0ce25605443376e",
+"5a8e9350c7c82fc8ab04daac773692aba25f057a6384add16af0c32786492c0a17735cfad766cfbd5c57039bf3f3af80ed8898555f4d801d50cf3022344e554f",
 "species":
 "mus musculus",
 "subject_id":
@@ -5222,22 +5222,22 @@
 "uploaded_by":
 "dandi 0.11.0",
 "uploaded_datetime":
-"2021-03-11T18:53:11.975672-05:00",
+"2021-04-11T18:56:01.259258-04:00",
 "uploaded_mtime":
-"2021-01-27T17:52:02-05:00",
+"2021-04-09T23:02:06-04:00",
 "uploaded_nwb_object_id":
-"7f302c7d-3765-431c-ac9a-2c74438694c1",
+"8db81c0d-ba76-4e6c-9d1e-dbf13df322d1",
 "uploaded_size":
 3478388
 },
 "modified":
-"2021-01-27 17:52:02-05:00",
+"2021-04-09 23:02:06-04:00",
 "name":
 "sub-365939_ses-20171102_behavior+ecephys+ogen.nwb",
 "path":
 "/sub-365939/sub-365939_ses-20171102_behavior+ecephys+ogen.nwb",
 "sha256":
-"f975bd7eaf5eef9f6f8ca2498f32d14b15016c4c23221b95a2fd0e10759dda2f",
+"061c5ffdc5fc1047077f0b0715086e33a5dcb7ea1b625a8fd5a21a3d6e1444bc",
 "size":
 3478388,
 "type":
@@ -5247,16 +5247,16 @@
 "attrs":
 {
 "ctime":
-"2021-03-11T23:55:13.585000+00:00",
+"2021-04-11T22:58:22.474000+00:00",
 "mtime":
-"2021-01-27T17:56:12-05:00",
+"2021-04-09T23:03:42-04:00",
 "size":
 4569356
 },
 "girder":
 {
 "id":
-"604aade102cb75004f0afa77"
+"60737f0e02cb75004f0b2a46"
 },
 "metadata":
 {
@@ -5269,7 +5269,7 @@
 "institution":
 "janelia research campus",
 "md5":
-"01e7e92bbfec2f58219a7b9d95b79ba5",
+"dd06bc3e335a35420759ddfacdc6aaf5",
 "nwb_version":
 "2.2.5",
 "session_description":
@@ -5279,11 +5279,11 @@
 "sex":
 "unknown",
 "sha1":
-"2a2fa21022a953968aa39d275bf172148bc024bf",
+"23c1996c114f740f0fb28d735b7a8ad2752a6c62",
 "sha256":
-"91569fb658ff35f5d64004ed91f8c786f80f16d1cbb35caffc191a475f681619",
+"292c59fd358f4ff7d81d1348944e6e6526d121ad8dd8c1b0ca0d4bc6cc5a4432",
 "sha512":
-"f4be562257eea207a87712ee181edabfa91ea3d85b6b097da21972b604d7ca7e327fe7c02d74c4b49a8dd01fff56ff80730a9cf996b496f18bca1ecaceebe89d",
+"f72b9cbfc11877ce1f35a1507c571027100c3b4c3791bea54d643d79e3433004387706df22658654c6f8d1a189bc3822b635dcddc7c2445bc25062b9c4c99908",
 "species":
 "mus musculus",
 "subject_id":
@@ -5291,22 +5291,22 @@
 "uploaded_by":
 "dandi 0.11.0",
 "uploaded_datetime":
-"2021-03-11T18:53:13.611496-05:00",
+"2021-04-11T18:56:01.885123-04:00",
 "uploaded_mtime":
-"2021-01-27T17:56:12-05:00",
+"2021-04-09T23:03:42-04:00",
 "uploaded_nwb_object_id":
-"09906f30-e73b-438d-9b6a-a0b28ecc778b",
+"38f48622-118f-4c2f-9c86-9d11ba9f6352",
 "uploaded_size":
 4569356
 },
 "modified":
-"2021-01-27 17:56:12-05:00",
+"2021-04-09 23:03:42-04:00",
 "name":
 "sub-365939_ses-20171103_behavior+ecephys+ogen.nwb",
 "path":
 "/sub-365939/sub-365939_ses-20171103_behavior+ecephys+ogen.nwb",
 "sha256":
-"91569fb658ff35f5d64004ed91f8c786f80f16d1cbb35caffc191a475f681619",
+"292c59fd358f4ff7d81d1348944e6e6526d121ad8dd8c1b0ca0d4bc6cc5a4432",
 "size":
 4569356,
 "type":
@@ -5316,16 +5316,16 @@
 "attrs":
 {
 "ctime":
-"2021-03-11T23:55:21.439000+00:00",
+"2021-04-11T22:58:43.007000+00:00",
 "mtime":
-"2021-01-27T17:59:24-05:00",
+"2021-04-09T23:04:40-04:00",
 "size":
 5038432
 },
 "girder":
 {
 "id":
-"604aade902cb75004f0afa7c"
+"60737f2302cb75004f0b2a4c"
 },
 "metadata":
 {
@@ -5338,7 +5338,7 @@
 "institution":
 "janelia research campus",
 "md5":
-"61b4c3f685ad3d3f615d3bf92a377af4",
+"95946c171286f3955dbda958bc3e06be",
 "nwb_version":
 "2.2.5",
 "session_description":
@@ -5348,11 +5348,11 @@
 "sex":
 "unknown",
 "sha1":
-"9fe9e4093b90f4c92196948239443482a745e11a",
+"7b897e0460403084f3d8b2045501f49a089042e2",
 "sha256":
-"a5aecb48808e36e0f1f75c4af518c359cc5e18d8a1472ed22c77a56bed92320f",
+"44d2b5bd9ab2c9f73950c36a3ab32afe182e4e3619833d297e0efe6099026018",
 "sha512":
-"4fd65a8ad5a4a4ab08d555d1686974b9b8347af69314612eefb693bc70d0000f8794dcc6c88379105cceb0fa223c9eafbfb47f274daefd91c45e8139ae8be804",
+"81897017930bd836399a38f0f35709d9b9793bb758af0b8ea92b8c0dd1f743abfe40d8bf7e7935142ca5ff4b030c540c249e3d0bc49b90a4f800a7a383fe9b1e",
 "species":
 "mus musculus",
 "subject_id":
@@ -5360,22 +5360,22 @@
 "uploaded_by":
 "dandi 0.11.0",
 "uploaded_datetime":
-"2021-03-11T18:53:19.639214-05:00",
+"2021-04-11T18:56:22.640683-04:00",
 "uploaded_mtime":
-"2021-01-27T17:59:24-05:00",
+"2021-04-09T23:04:40-04:00",
 "uploaded_nwb_object_id":
-"2e346aa5-c2b3-47b8-84f5-c729795d92ac",
+"169d0342-fec7-4675-bf6a-b58a86805878",
 "uploaded_size":
 5038432
 },
 "modified":
-"2021-01-27 17:59:24-05:00",
+"2021-04-09 23:04:40-04:00",
 "name":
 "sub-365942_ses-20170708_behavior+ecephys+ogen.nwb",
 "path":
 "/sub-365942/sub-365942_ses-20170708_behavior+ecephys+ogen.nwb",
 "sha256":
-"a5aecb48808e36e0f1f75c4af518c359cc5e18d8a1472ed22c77a56bed92320f",
+"44d2b5bd9ab2c9f73950c36a3ab32afe182e4e3619833d297e0efe6099026018",
 "size":
 5038432,
 "type":
@@ -5385,16 +5385,16 @@
 "attrs":
 {
 "ctime":
-"2021-03-11T23:55:29.875000+00:00",
+"2021-04-11T22:58:47.882000+00:00",
 "mtime":
-"2021-01-27T18:05:18-05:00",
+"2021-04-09T23:06:40-04:00",
 "size":
 12402586
 },
 "girder":
 {
 "id":
-"604aadf102cb75004f0afa85"
+"60737f2702cb75004f0b2a63"
 },
 "metadata":
 {
@@ -5407,7 +5407,7 @@
 "institution":
 "janelia research campus",
 "md5":
-"c16ac780ee41e8d4fd0d28d2c43e2c38",
+"91a1a4d413b916d037596972c93a687a",
 "nwb_version":
 "2.2.5",
 "session_description":
@@ -5417,11 +5417,11 @@
 "sex":
 "unknown",
 "sha1":
-"be735b25047eb1fd3f05e56e4fca56aab0b6f9d5",
+"5b69383e3c8ddf6f6a09c70b6c5ec8fc54256d12",
 "sha256":
-"5108068fb9c97062933c1e351abbfeb54bb749167b03a46df07df9c958bcc80d",
+"d3740c119a7791c9a82ead55c1943069163ee5bf778154ec7f422406d93bfc6a",
 "sha512":
-"e918ba4f179067798dc870514c3ebcfcc82cf2e5248c18a3f8b4f9b20fceb2059efd1a8677ee9c12d916c348df85df9f3e5b9dc0a49a6d0f980fc993aa1c5c7e",
+"f273b706b0a9d020188abf3ea9e9e79e4a0ad78c43f4e4751f64a81593a3c37ef1906e791ab0c1091ef9ff631c92163e3d5f39270bb76acd9db9c8e78a31c86d",
 "species":
 "mus musculus",
 "subject_id":
@@ -5429,22 +5429,22 @@
 "uploaded_by":
 "dandi 0.11.0",
 "uploaded_datetime":
-"2021-03-11T18:53:27.475225-05:00",
+"2021-04-11T18:56:27.358127-04:00",
 "uploaded_mtime":
-"2021-01-27T18:05:18-05:00",
+"2021-04-09T23:06:40-04:00",
 "uploaded_nwb_object_id":
-"7127eb34-329d-43a8-b463-29b7e417ff6c",
+"369cd954-45b2-41fd-859e-fb71cf247274",
 "uploaded_size":
 12402586
 },
 "modified":
-"2021-01-27 18:05:18-05:00",
+"2021-04-09 23:06:40-04:00",
 "name":
 "sub-365942_ses-20170709_behavior+ecephys+ogen.nwb",
 "path":
 "/sub-365942/sub-365942_ses-20170709_behavior+ecephys+ogen.nwb",
 "sha256":
-"5108068fb9c97062933c1e351abbfeb54bb749167b03a46df07df9c958bcc80d",
+"d3740c119a7791c9a82ead55c1943069163ee5bf778154ec7f422406d93bfc6a",
 "size":
 12402586,
 "type":
@@ -5454,16 +5454,16 @@
 "attrs":
 {
 "ctime":
-"2021-03-11T23:55:23.003000+00:00",
+"2021-04-11T22:58:48.254000+00:00",
 "mtime":
-"2021-01-27T18:10:16-05:00",
+"2021-04-09T23:08:18-04:00",
 "size":
 18451468
 },
 "girder":
 {
 "id":
-"604aadeb02cb75004f0afa80"
+"60737f2802cb75004f0b2a66"
 },
 "metadata":
 {
@@ -5476,7 +5476,7 @@
 "institution":
 "janelia research campus",
 "md5":
-"6e71b7a1fb7885f240643fe3ce46fe1f",
+"9624ed9878ac8fb28946c2544a9426f7",
 "nwb_version":
 "2.2.5",
 "session_description":
@@ -5486,11 +5486,11 @@
 "sex":
 "unknown",
 "sha1":
-"85ae5b0b88fd6e2ad71f8b04992073a5f11f4c51",
+"1c77ddc78ade5e3afe86790878626bcd788f71e4",
 "sha256":
-"756911d509b21fd0a70177cc8edfb992c3f644ef79ddb26d51cebcbcd585bd29",
+"652e7b50c41c5f56a5311b97dfddac8f31dc514e2d65abd5df78a4c7c9b6af02",
 "sha512":
-"77d56366c6d0c9b1248f604869fdf71e128f624db7af028b8ac6ea3e3778d6604ae28ffee9e5929de6c2b0d65be76527e27342b9a8bdd96f15dc04eaec475501",
+"627ecfbb7ee54c1273e13a9467bdf9e4b9c52e64fbc797bc730f89306452d0aa268474671f05c741dd98e1d5daa0d33c4a3e83969af1cc27064ecb36363cb1c9",
 "species":
 "mus musculus",
 "subject_id":
@@ -5498,22 +5498,22 @@
 "uploaded_by":
 "dandi 0.11.0",
 "uploaded_datetime":
-"2021-03-11T18:53:24.286870-05:00",
+"2021-04-11T18:56:27.639890-04:00",
 "uploaded_mtime":
-"2021-01-27T18:10:16-05:00",
+"2021-04-09T23:08:18-04:00",
 "uploaded_nwb_object_id":
-"c7941e22-a82f-4941-bd3d-261b1f395d82",
+"4eb7b062-8b46-4ae4-aac4-c6418c63d937",
 "uploaded_size":
 18451468
 },
 "modified":
-"2021-01-27 18:10:16-05:00",
+"2021-04-09 23:08:18-04:00",
 "name":
 "sub-365942_ses-20170710_behavior+ecephys+ogen.nwb",
 "path":
 "/sub-365942/sub-365942_ses-20170710_behavior+ecephys+ogen.nwb",
 "sha256":
-"756911d509b21fd0a70177cc8edfb992c3f644ef79ddb26d51cebcbcd585bd29",
+"652e7b50c41c5f56a5311b97dfddac8f31dc514e2d65abd5df78a4c7c9b6af02",
 "size":
 18451468,
 "type":
@@ -5523,16 +5523,16 @@
 "attrs":
 {
 "ctime":
-"2021-03-11T23:55:23.071000+00:00",
+"2021-04-11T22:58:49.742000+00:00",
 "mtime":
-"2021-01-27T18:15:28-05:00",
+"2021-04-09T23:10:06-04:00",
 "size":
 10395712
 },
 "girder":
 {
 "id":
-"604aadeb02cb75004f0afa81"
+"60737f2902cb75004f0b2a69"
 },
 "metadata":
 {
@@ -5545,7 +5545,7 @@
 "institution":
 "janelia research campus",
 "md5":
-"41e7f4fd2246c44ec902e5a834db4a77",
+"f0a7a95e7f4aecfc7ffbb270d2e4232f",
 "nwb_version":
 "2.2.5",
 "session_description":
@@ -5555,11 +5555,11 @@
 "sex":
 "unknown",
 "sha1":
-"f745fc517fcc786206bbfbc45c6483447520ab77",
+"e87b57a4085ce0b4141fcf3df1f265e593b8c2bb",
 "sha256":
-"2ef565106a4ca69d10c0a096fe6384dbac612891e641d0ab96309d584224aae8",
+"d8f6f2f2ee92e7d305e4d1ce6018226bf36716e06c7549fb6b735dac31585c9e",
 "sha512":
-"fa26d67c0d1b1eac81b3b9f4fd2a02e28355f3bee55a98dcdd276cc6875272233a4133d502b80faf0abb2b76d71d26fda9e846456774138ed4fb7cb8270de278",
+"c588abeeb5b1c106f264ccf027f182c79152e890994268cf11fc59e642608f6f128fa915cd20956e7d72678c9e4974ca5f518280a2dc3198dbab2372c416b09f",
 "species":
 "mus musculus",
 "subject_id":
@@ -5567,22 +5567,22 @@
 "uploaded_by":
 "dandi 0.11.0",
 "uploaded_datetime":
-"2021-03-11T18:53:24.293872-05:00",
+"2021-04-11T18:56:34.409622-04:00",
 "uploaded_mtime":
-"2021-01-27T18:15:28-05:00",
+"2021-04-09T23:10:06-04:00",
 "uploaded_nwb_object_id":
-"e9b9da9c-8c0c-43ea-89e3-2a66a340c7ee",
+"acbdc7f6-f4c3-4e37-91bc-d418e2144aa9",
 "uploaded_size":
 10395712
 },
 "modified":
-"2021-01-27 18:15:28-05:00",
+"2021-04-09 23:10:06-04:00",
 "name":
 "sub-365942_ses-20170711_behavior+ecephys+ogen.nwb",
 "path":
 "/sub-365942/sub-365942_ses-20170711_behavior+ecephys+ogen.nwb",
 "sha256":
-"2ef565106a4ca69d10c0a096fe6384dbac612891e641d0ab96309d584224aae8",
+"d8f6f2f2ee92e7d305e4d1ce6018226bf36716e06c7549fb6b735dac31585c9e",
 "size":
 10395712,
 "type":
@@ -5592,16 +5592,16 @@
 "attrs":
 {
 "ctime":
-"2021-03-11T23:55:30.734000+00:00",
+"2021-04-11T22:58:47.949000+00:00",
 "mtime":
-"2021-01-27T18:20:04-05:00",
+"2021-04-09T23:11:36-04:00",
 "size":
 12048891
 },
 "girder":
 {
 "id":
-"604aadf202cb75004f0afa89"
+"60737f2702cb75004f0b2a64"
 },
 "metadata":
 {
@@ -5614,7 +5614,7 @@
 "institution":
 "janelia research campus",
 "md5":
-"fb659a7ef5ce369401b274a1bc614a4e",
+"7110a92169f486bca0f218e92b47de52",
 "nwb_version":
 "2.2.5",
 "session_description":
@@ -5624,11 +5624,11 @@
 "sex":
 "unknown",
 "sha1":
-"7acabedad02b28a3b99bf8acc0c099b228e124b4",
+"8132139b7c26aa4da98b51bc2feaaad69ca06618",
 "sha256":
-"e9e39e17de285412afa5eb102658265782e3ccd37ab7d7ea23ec042474d85192",
+"d4a8ecb534bb0abb0ca2fbf57c9b9c2f4d238671e016c8297d99f9caec95d1d2",
 "sha512":
-"3a062caebfb0a77f5b2b298fc96cded8b89ca212deaf04fd4aa55310f815a67a4d94292a55e33eb4f91678c1990ff4d6c13f460d72cd4b42a3548536f2111a31",
+"ce863d21da0d0c18faf7eb89922cadb45f605d069068ca2ca057200afd9c5245f6f670a1638c0cea66b64c195da62c87b5f1f14bcace61601a5ba57a98d6fa71",
 "species":
 "mus musculus",
 "subject_id":
@@ -5636,22 +5636,22 @@
 "uploaded_by":
 "dandi 0.11.0",
 "uploaded_datetime":
-"2021-03-11T18:53:30.871353-05:00",
+"2021-04-11T18:56:27.429126-04:00",
 "uploaded_mtime":
-"2021-01-27T18:20:04-05:00",
+"2021-04-09T23:11:36-04:00",
 "uploaded_nwb_object_id":
-"cf57aa44-e8d8-4898-9533-22008f9c29ae",
+"40647ca1-c4d7-49aa-84cc-32fdcff0cc12",
 "uploaded_size":
 12048891
 },
 "modified":
-"2021-01-27 18:20:04-05:00",
+"2021-04-09 23:11:36-04:00",
 "name":
 "sub-365942_ses-20170712_behavior+ecephys+ogen.nwb",
 "path":
 "/sub-365942/sub-365942_ses-20170712_behavior+ecephys+ogen.nwb",
 "sha256":
-"e9e39e17de285412afa5eb102658265782e3ccd37ab7d7ea23ec042474d85192",
+"d4a8ecb534bb0abb0ca2fbf57c9b9c2f4d238671e016c8297d99f9caec95d1d2",
 "size":
 12048891,
 "type":
@@ -5661,16 +5661,16 @@
 "attrs":
 {
 "ctime":
-"2021-03-11T23:55:46.327000+00:00",
+"2021-04-11T22:58:48.448000+00:00",
 "mtime":
-"2021-01-27T18:26:28-05:00",
+"2021-04-09T23:13:44-04:00",
 "size":
 29253054
 },
 "girder":
 {
 "id":
-"604aae0202cb75004f0afaa0"
+"60737f2802cb75004f0b2a67"
 },
 "metadata":
 {
@@ -5683,7 +5683,7 @@
 "institution":
 "janelia research campus",
 "md5":
-"8f6aebe02fdbf6c43d20775cb21830ca",
+"c2aa6a4cfc1fb83e6091ef309a6bc7b0",
 "nwb_version":
 "2.2.5",
 "session_description":
@@ -5693,11 +5693,11 @@
 "sex":
 "unknown",
 "sha1":
-"565a9b60e5b7bb3a66c38547e28187842e695a74",
+"1f5a82fa2a414068ad2de91bd54c194467067407",
 "sha256":
-"c08a7a528b5c50a300a31651bb23eca28cceaf826660ff752aae66f5760da4c9",
+"593fc35d5dca0eda993c178548c30ddcf9bd6bd3a00e4f3babaf057c2cce8421",
 "sha512":
-"047db8588c9df1e6964a97d9e60b0164889b272ce2f9736a7f827bf26e2b41b2326a51d1fec8b693533f1094ee703a6fb105598c2cce18b1f883e1f55de02bfe",
+"8794201642fdf6144adc58b8c00fcef2e750841e54fc55b7dd6520550b7598ce52ccd7a7402e02e3b89ca6472a0ad7381f32c2a51810738b9c2b294278b1589f",
 "species":
 "mus musculus",
 "subject_id":
@@ -5705,22 +5705,22 @@
 "uploaded_by":
 "dandi 0.11.0",
 "uploaded_datetime":
-"2021-03-11T18:53:44.946628-05:00",
+"2021-04-11T18:56:27.937891-04:00",
 "uploaded_mtime":
-"2021-01-27T18:26:28-05:00",
+"2021-04-09T23:13:44-04:00",
 "uploaded_nwb_object_id":
-"32fc795c-e974-4f5f-99dd-29a9f48da4d3",
+"7ec63706-a74b-47e7-84fa-4c78bd681189",
 "uploaded_size":
 29253054
 },
 "modified":
-"2021-01-27 18:26:28-05:00",
+"2021-04-09 23:13:44-04:00",
 "name":
 "sub-365942_ses-20170713_behavior+ecephys+ogen.nwb",
 "path":
 "/sub-365942/sub-365942_ses-20170713_behavior+ecephys+ogen.nwb",
 "sha256":
-"c08a7a528b5c50a300a31651bb23eca28cceaf826660ff752aae66f5760da4c9",
+"593fc35d5dca0eda993c178548c30ddcf9bd6bd3a00e4f3babaf057c2cce8421",
 "size":
 29253054,
 "type":
@@ -5730,16 +5730,16 @@
 "attrs":
 {
 "ctime":
-"2021-03-11T23:55:38.850000+00:00",
+"2021-04-11T22:58:59.411000+00:00",
 "mtime":
-"2021-01-27T18:32:44-05:00",
+"2021-04-09T23:15:44-04:00",
 "size":
 18042150
 },
 "girder":
 {
 "id":
-"604aadfa02cb75004f0afa9d"
+"60737f3302cb75004f0b2a6a"
 },
 "metadata":
 {
@@ -5752,7 +5752,7 @@
 "institution":
 "janelia research campus",
 "md5":
-"06e019a4ec6e8d35fc721a077998926f",
+"f86ba65f34249da12c5905f893cb28e4",
 "nwb_version":
 "2.2.5",
 "session_description":
@@ -5762,11 +5762,11 @@
 "sex":
 "unknown",
 "sha1":
-"e5055e4f8a935ac8c6d7a7dc74d0c3c70ac9082c",
+"fb671d30bd5688db9457e0d53400a9a9e7275475",
 "sha256":
-"9f03adf908831446aff94d8f1ac3f9872c645d935716c99266e013d8308d8115",
+"4c0d590d4c5bb67e8ec7cfb6b316d7c4d5ae833cd32c32d32dba224454da8f5d",
 "sha512":
-"704452bb65eea8ef81828b407218626d2b7801704df93616c100597b10c246b84242f5e86da8e8920db07955daa98400d53d84ee005c9478b1f89201c2a544bb",
+"f774fd53272e145b96f92a966c5531950fb5600b398a8e57208e4e5e57080882df166f12ae5879f7ef258aca4a14d8c8966c3d69878d7588614a96bb87574846",
 "species":
 "mus musculus",
 "subject_id":
@@ -5774,22 +5774,22 @@
 "uploaded_by":
 "dandi 0.11.0",
 "uploaded_datetime":
-"2021-03-11T18:53:40.626922-05:00",
+"2021-04-11T18:56:39.233195-04:00",
 "uploaded_mtime":
-"2021-01-27T18:32:44-05:00",
+"2021-04-09T23:15:44-04:00",
 "uploaded_nwb_object_id":
-"b0cae8a4-b6f8-4be2-954b-fa4f2146392b",
+"191334cc-f38a-4709-b586-8c1c241e98b8",
 "uploaded_size":
 18042150
 },
 "modified":
-"2021-01-27 18:32:44-05:00",
+"2021-04-09 23:15:44-04:00",
 "name":
 "sub-365942_ses-20170714_behavior+ecephys+ogen.nwb",
 "path":
 "/sub-365942/sub-365942_ses-20170714_behavior+ecephys+ogen.nwb",
 "sha256":
-"9f03adf908831446aff94d8f1ac3f9872c645d935716c99266e013d8308d8115",
+"4c0d590d4c5bb67e8ec7cfb6b316d7c4d5ae833cd32c32d32dba224454da8f5d",
 "size":
 18042150,
 "type":
@@ -5799,16 +5799,16 @@
 "attrs":
 {
 "ctime":
-"2021-03-11T23:55:39.048000+00:00",
+"2021-04-11T22:58:47.807000+00:00",
 "mtime":
-"2021-01-27T18:38:50-05:00",
+"2021-04-09T23:17:52-04:00",
 "size":
 16776942
 },
 "girder":
 {
 "id":
-"604aadfb02cb75004f0afa9f"
+"60737f2702cb75004f0b2a61"
 },
 "metadata":
 {
@@ -5821,7 +5821,7 @@
 "institution":
 "janelia research campus",
 "md5":
-"62604aae56ab299bf1dbed4eb6524efa",
+"5f069b9de2a9d3133c1086da9aed5b67",
 "nwb_version":
 "2.2.5",
 "session_description":
@@ -5831,11 +5831,11 @@
 "sex":
 "unknown",
 "sha1":
-"50ab30f12c359ce6c1e8ed77a8561bbbfe9f042d",
+"a36037f5f5297175617e005493fa2fe8c91964c8",
 "sha256":
-"bc9ac40a9bb0d89fb173f927ffe964d13b9f97bbc25bd5e64c706e9cbe62824e",
+"753674b6b04748920017ff110aab46abe6aa38af1f8c55fa753d567227c7c48d",
 "sha512":
-"af9c248cbda237371745eeb06e8872320242706dad784cadb8f71d463c37f9438ae861fe32b845f44e86c273d3bbf1e9b735f1a947d338650bdc3422061606ed",
+"6796d0401b5cc95516351e94f4baf88277c0aa20f0bdaa9ef61b5bc8dd281c0a797e37b58b57ca14089ac5ebcb175f21158b3bf30161ef258d0ebbfa60610ae9",
 "species":
 "mus musculus",
 "subject_id":
@@ -5843,22 +5843,22 @@
 "uploaded_by":
 "dandi 0.11.0",
 "uploaded_datetime":
-"2021-03-11T18:53:40.156578-05:00",
+"2021-04-11T18:56:27.193130-04:00",
 "uploaded_mtime":
-"2021-01-27T18:38:50-05:00",
+"2021-04-09T23:17:52-04:00",
 "uploaded_nwb_object_id":
-"9f346da5-9a0e-4aa4-a932-c6772c024e54",
+"ef8519e7-8a2a-4430-9368-8936cb34617c",
 "uploaded_size":
 16776942
 },
 "modified":
-"2021-01-27 18:38:50-05:00",
+"2021-04-09 23:17:52-04:00",
 "name":
 "sub-365942_ses-20170715_behavior+ecephys+ogen.nwb",
 "path":
 "/sub-365942/sub-365942_ses-20170715_behavior+ecephys+ogen.nwb",
 "sha256":
-"bc9ac40a9bb0d89fb173f927ffe964d13b9f97bbc25bd5e64c706e9cbe62824e",
+"753674b6b04748920017ff110aab46abe6aa38af1f8c55fa753d567227c7c48d",
 "size":
 16776942,
 "type":
@@ -5868,16 +5868,16 @@
 "attrs":
 {
 "ctime":
-"2021-03-11T23:55:38.308000+00:00",
+"2021-04-11T22:58:48.764000+00:00",
 "mtime":
-"2021-01-27T18:44:30-05:00",
+"2021-04-09T23:19:50-04:00",
 "size":
 14441900
 },
 "girder":
 {
 "id":
-"604aadfa02cb75004f0afa9a"
+"60737f2802cb75004f0b2a68"
 },
 "metadata":
 {
@@ -5890,7 +5890,7 @@
 "institution":
 "janelia research campus",
 "md5":
-"1fe611dc5cd46b17ce99f3bae6105935",
+"d4d0d8e4bc36426dde6c5237a6292934",
 "nwb_version":
 "2.2.5",
 "session_description":
@@ -5900,11 +5900,11 @@
 "sex":
 "unknown",
 "sha1":
-"17afab2822940de19ae056bad2d3112370e96afe",
+"27c80618f72af858b21ca6b7ed2f0819043e4a6c",
 "sha256":
-"3649efe21d2cd2d7a5099cce4f7199a6350e6495e1c04b39b16cfd7b52b1a248",
+"0136b49197d5b6ac047737dd4ccdc8d83e55355c30a929023803039951c386a5",
 "sha512":
-"fff781cc0d17a6a41a61df8a2565c4ff797d3067b9ce2e70bdda93a41888d2189a43cbacffbf5897e62a431fb72abff5ee641c7194743c6900d504838f7bf7bb",
+"4007f4d0d082dd95f3516958ee205222b92b7887391af61efdf9e5eaa2d3a5835015066796cab33547bb36ff01523c115ac41c8b2f59b5682679fa2b59c3a7ee",
 "species":
 "mus musculus",
 "subject_id":
@@ -5912,22 +5912,22 @@
 "uploaded_by":
 "dandi 0.11.0",
 "uploaded_datetime":
-"2021-03-11T18:53:35.828511-05:00",
+"2021-04-11T18:56:34.142621-04:00",
 "uploaded_mtime":
-"2021-01-27T18:44:30-05:00",
+"2021-04-09T23:19:50-04:00",
 "uploaded_nwb_object_id":
-"ea81eb2c-9e50-4a8c-b75e-297e63c53189",
+"8f373e8f-73ce-40c4-a56c-851ced83dab8",
 "uploaded_size":
 14441900
 },
 "modified":
-"2021-01-27 18:44:30-05:00",
+"2021-04-09 23:19:50-04:00",
 "name":
 "sub-365942_ses-20170717_behavior+ecephys+ogen.nwb",
 "path":
 "/sub-365942/sub-365942_ses-20170717_behavior+ecephys+ogen.nwb",
 "sha256":
-"3649efe21d2cd2d7a5099cce4f7199a6350e6495e1c04b39b16cfd7b52b1a248",
+"0136b49197d5b6ac047737dd4ccdc8d83e55355c30a929023803039951c386a5",
 "size":
 14441900,
 "type":
@@ -5937,16 +5937,16 @@
 "attrs":
 {
 "ctime":
-"2021-03-11T23:55:38.593000+00:00",
+"2021-04-11T22:58:47.885000+00:00",
 "mtime":
-"2021-01-27T18:49:20-05:00",
+"2021-04-09T23:21:32-04:00",
 "size":
 10864218
 },
 "girder":
 {
 "id":
-"604aadfa02cb75004f0afa9b"
+"60737f2702cb75004f0b2a62"
 },
 "metadata":
 {
@@ -5959,7 +5959,7 @@
 "institution":
 "janelia research campus",
 "md5":
-"ff890c4532b9c6d65ca8d00da9eb052f",
+"ab756f04ac85c71ed76ec03b021a99a5",
 "nwb_version":
 "2.2.5",
 "session_description":
@@ -5969,11 +5969,11 @@
 "sex":
 "unknown",
 "sha1":
-"783b61db9928afa6ae94d6fd94a21789aab13f18",
+"b0f415fd429e85516b57ee33153951f8204c54e8",
 "sha256":
-"46e33a0aeba5f31ba3cfac92fb209c361b1fbc829ca778cb8711c3595e6c49cd",
+"82cd78f848bacb20a9f32e0356ccdecc4265ffd11e9032d8fb6e2b51b0983d2d",
 "sha512":
-"b8d6b3349200be33a05119bce427a79a7ab68b342c307f3a8e9ac33fae8ec676f7edeae23e49380dafaac654b2fb22fffc2ac0d857a7b94ad99ac368567238a3",
+"8ab5919b85b2fe342d8647f32d6fe8017c82b74cf07e57c7f8dd05c650f339621b0d13b8c1a5c3b5efb71f459f58453aa09f6f6ccf9f0e482392a31e617010c2",
 "species":
 "mus musculus",
 "subject_id":
@@ -5981,22 +5981,22 @@
 "uploaded_by":
 "dandi 0.11.0",
 "uploaded_datetime":
-"2021-03-11T18:53:38.830042-05:00",
+"2021-04-11T18:56:27.321128-04:00",
 "uploaded_mtime":
-"2021-01-27T18:49:20-05:00",
+"2021-04-09T23:21:32-04:00",
 "uploaded_nwb_object_id":
-"2feb9f91-d6d1-44e3-a1e8-1b0933ffec31",
+"b322df8b-a0b2-4807-96ba-079a1f559c11",
 "uploaded_size":
 10864218
 },
 "modified":
-"2021-01-27 18:49:20-05:00",
+"2021-04-09 23:21:32-04:00",
 "name":
 "sub-365942_ses-20170718_behavior+ecephys+ogen.nwb",
 "path":
 "/sub-365942/sub-365942_ses-20170718_behavior+ecephys+ogen.nwb",
 "sha256":
-"46e33a0aeba5f31ba3cfac92fb209c361b1fbc829ca778cb8711c3595e6c49cd",
+"82cd78f848bacb20a9f32e0356ccdecc4265ffd11e9032d8fb6e2b51b0983d2d",
 "size":
 10864218,
 "type":
@@ -6006,16 +6006,16 @@
 "attrs":
 {
 "ctime":
-"2021-03-11T23:55:38.006000+00:00",
+"2021-04-11T22:58:48.098000+00:00",
 "mtime":
-"2021-01-27T18:54:18-05:00",
+"2021-04-09T23:23:16-04:00",
 "size":
 9418650
 },
 "girder":
 {
 "id":
-"604aadfa02cb75004f0afa98"
+"60737f2802cb75004f0b2a65"
 },
 "metadata":
 {
@@ -6028,7 +6028,7 @@
 "institution":
 "janelia research campus",
 "md5":
-"efa8ed8ef91fd947a5ea5bc66a06a4e7",
+"6a71bf0e9d08cd74f95ccf4c97ef73cf",
 "nwb_version":
 "2.2.5",
 "session_description":
@@ -6038,11 +6038,11 @@
 "sex":
 "unknown",
 "sha1":
-"f602f1248bc5db3374c10127e6df700b3c5ead52",
+"76a872c6354dd012fa04d8d2d67330b2e5fd4562",
 "sha256":
-"6fbad77394481d9c07061d12e4eefee2f3ffa12f5ee4e46227aacfa67c6a16d5",
+"4407cd448a09a9f21b8ffbef46463605e3dccbd6d48f25f15ca3ddb39d8742cb",
 "sha512":
-"63998d03aec7d1b20bec8eecbe91925de4afb2963d44e089dd7085bd95112faf4af5bb527cd8e009e2f1e91c6422cd6842e2209368c569f1f6f66f6f4fa63231",
+"1a97850aa732480d134b7d5985481538c02e1b1bddb725c9e7e2f50c9c7f26f6615494773147215cdf3511338a3ad479802943e0a84eafbf7e63176370398128",
 "species":
 "mus musculus",
 "subject_id":
@@ -6050,22 +6050,22 @@
 "uploaded_by":
 "dandi 0.11.0",
 "uploaded_datetime":
-"2021-03-11T18:53:35.549511-05:00",
+"2021-04-11T18:56:27.491126-04:00",
 "uploaded_mtime":
-"2021-01-27T18:54:18-05:00",
+"2021-04-09T23:23:16-04:00",
 "uploaded_nwb_object_id":
-"1ff7019b-2e48-4021-bc2b-a0b33997860b",
+"3b62cae1-7b6a-4664-a304-329b05e275c5",
 "uploaded_size":
 9418650
 },
 "modified":
-"2021-01-27 18:54:18-05:00",
+"2021-04-09 23:23:16-04:00",
 "name":
 "sub-365942_ses-20170719_behavior+ecephys+ogen.nwb",
 "path":
 "/sub-365942/sub-365942_ses-20170719_behavior+ecephys+ogen.nwb",
 "sha256":
-"6fbad77394481d9c07061d12e4eefee2f3ffa12f5ee4e46227aacfa67c6a16d5",
+"4407cd448a09a9f21b8ffbef46463605e3dccbd6d48f25f15ca3ddb39d8742cb",
 "size":
 9418650,
 "type":
@@ -6075,16 +6075,16 @@
 "attrs":
 {
 "ctime":
-"2021-03-11T23:55:37.774000+00:00",
+"2021-04-11T22:59:07.593000+00:00",
 "mtime":
-"2021-01-27T18:58:30-05:00",
+"2021-04-09T23:24:50-04:00",
 "size":
 1976904
 },
 "girder":
 {
 "id":
-"604aadf902cb75004f0afa97"
+"60737f3b02cb75004f0b2a70"
 },
 "metadata":
 {
@@ -6097,7 +6097,7 @@
 "institution":
 "janelia research campus",
 "md5":
-"e59a6960efe1abbf68a72af29c1094a6",
+"03716239d8503cf1a68063f419eea87f",
 "nwb_version":
 "2.2.5",
 "session_description":
@@ -6107,11 +6107,11 @@
 "sex":
 "unknown",
 "sha1":
-"cd641e43d77e7153c82f03c107f41a6c3011d88d",
+"4a406120553acd2fe4722758655e41995d38c2c9",
 "sha256":
-"93faa21e75661814bb4816f5af0d229b564e4d48585f592290ea6b7339ea4314",
+"9d8208dde39fc54cc61ddaaedf53a23f428370c6b660e1de6364942c2ae6c28f",
 "sha512":
-"003eee7734a25e0ab6f26786412c871415291cfcd945b0821c45c941a5fcb1a74826749828dafc1872422289ed2cb6e1006e73a8367ec08bd01af511ef5cc72d",
+"e342cbbfcfcf6c3996b93cb7a2c8c666f654c56d975789765235613d7bb6ab282aa93b9344d5f7e08dffc1041ced952805b9d4f66052a03302e8681e1373cf76",
 "species":
 "mus musculus",
 "subject_id":
@@ -6119,22 +6119,22 @@
 "uploaded_by":
 "dandi 0.11.0",
 "uploaded_datetime":
-"2021-03-11T18:53:35.322445-05:00",
+"2021-04-11T18:56:47.157584-04:00",
 "uploaded_mtime":
-"2021-01-27T18:58:30-05:00",
+"2021-04-09T23:24:50-04:00",
 "uploaded_nwb_object_id":
-"efb33942-5ea6-4fc0-afd8-a128608ffb85",
+"233f4ad9-c979-43d0-8bc4-b24363647e51",
 "uploaded_size":
 1976904
 },
 "modified":
-"2021-01-27 18:58:30-05:00",
+"2021-04-09 23:24:50-04:00",
 "name":
 "sub-365942_ses-20170720_behavior+ecephys+ogen.nwb",
 "path":
 "/sub-365942/sub-365942_ses-20170720_behavior+ecephys+ogen.nwb",
 "sha256":
-"93faa21e75661814bb4816f5af0d229b564e4d48585f592290ea6b7339ea4314",
+"9d8208dde39fc54cc61ddaaedf53a23f428370c6b660e1de6364942c2ae6c28f",
 "size":
 1976904,
 "type":
@@ -6144,16 +6144,16 @@
 "attrs":
 {
 "ctime":
-"2021-03-11T23:55:38.682000+00:00",
+"2021-04-11T22:59:10.038000+00:00",
 "mtime":
-"2021-01-27T19:02:04-05:00",
+"2021-04-09T23:26:14-04:00",
 "size":
-9890376
+9891160
 },
 "girder":
 {
 "id":
-"604aadfa02cb75004f0afa9c"
+"60737f3e02cb75004f0b2a78"
 },
 "metadata":
 {
@@ -6166,7 +6166,7 @@
 "institution":
 "janelia research campus",
 "md5":
-"3c458ca2bf3907a884d72879b47d096d",
+"fb497d5b1f4d9213d51b3c83923a2797",
 "nwb_version":
 "2.2.5",
 "session_description":
@@ -6176,11 +6176,11 @@
 "sex":
 "unknown",
 "sha1":
-"6bc584129e470a24100bd062b24fcfaa87d3ccb0",
+"57a7315dcb3ecbc89979a1419de64642020136c9",
 "sha256":
-"d9aea512f7319826d52209e68c73dadb7a802042a1ce927670ba7b5ce4309eaa",
+"5e5dd81ea832a2575574fe1f100673895e3e93cd32063ff4558cb3386eb1c23c",
 "sha512":
-"0030258fd8ba9fa640b7f55d35395adec582e8e9794ac78fd41f845e192a6a144f37b54ee2c124dea9b30a1799208364bee30d72da0d5d3dc410216a067c53b0",
+"34b951ba944d595c84050df8343e1071575a6a111c1b922922c51e27dfcc236707d5cc2b3bd9a3333a327b289d31b66f03c439330bfeefcb7543941d1f2384ad",
 "species":
 "mus musculus",
 "subject_id":
@@ -6188,24 +6188,24 @@
 "uploaded_by":
 "dandi 0.11.0",
 "uploaded_datetime":
-"2021-03-11T18:53:38.910272-05:00",
+"2021-04-11T18:56:49.514786-04:00",
 "uploaded_mtime":
-"2021-01-27T19:02:04-05:00",
+"2021-04-09T23:26:14-04:00",
 "uploaded_nwb_object_id":
-"51bd4c59-d2bc-4be0-b392-22d379f7b79d",
+"a66478d8-3a7e-45e0-8b63-c2ebd94fe488",
 "uploaded_size":
-9890376
+9891160
 },
 "modified":
-"2021-01-27 19:02:04-05:00",
+"2021-04-09 23:26:14-04:00",
 "name":
 "sub-365942_ses-20170724_behavior+ecephys+ogen.nwb",
 "path":
 "/sub-365942/sub-365942_ses-20170724_behavior+ecephys+ogen.nwb",
 "sha256":
-"d9aea512f7319826d52209e68c73dadb7a802042a1ce927670ba7b5ce4309eaa",
+"5e5dd81ea832a2575574fe1f100673895e3e93cd32063ff4558cb3386eb1c23c",
 "size":
-9890376,
+9891160,
 "type":
 "file"
 },
@@ -6213,16 +6213,16 @@
 "attrs":
 {
 "ctime":
-"2021-03-11T23:55:38.045000+00:00",
+"2021-04-11T22:59:07.618000+00:00",
 "mtime":
-"2021-01-27T19:04:58-05:00",
+"2021-04-09T23:27:20-04:00",
 "size":
 3204320
 },
 "girder":
 {
 "id":
-"604aadfa02cb75004f0afa99"
+"60737f3b02cb75004f0b2a71"
 },
 "metadata":
 {
@@ -6235,7 +6235,7 @@
 "institution":
 "janelia research campus",
 "md5":
-"922a4f47bd51f043df4bb5399616c7fe",
+"60856a243317d2d76bf820c3e5916571",
 "nwb_version":
 "2.2.5",
 "session_description":
@@ -6245,11 +6245,11 @@
 "sex":
 "unknown",
 "sha1":
-"67932cb43d699ba908450b1e85be0a5c7090ef41",
+"5088f0040b696015b320e9f17bf056d7006a7de4",
 "sha256":
-"ca8c3e906f36bc38640a10c0e634a90419492fae81f3c937b74a6b96a9f8b2dd",
+"f17c6eeb841fc051c73f06e95bf6f8167e1ef1e91ff15eee870fc11307e557a0",
 "sha512":
-"0a7c5d976aabcaf0ecc5d29999d50b1cd8a651e38051d1870f946b49d17d63f6b178f43db77160a825123f0f604db4c47af464786fa6207a418e2d4eef941b46",
+"0fdd014ef9b813c59ee73b215bdc22de2499abe2e78c815dfb00055ff5d4422c9424c3e1820d0f61e7abe451c5e49bf2ad247b030d2bceb9d7d756f34b0b1bf8",
 "species":
 "mus musculus",
 "subject_id":
@@ -6257,22 +6257,22 @@
 "uploaded_by":
 "dandi 0.11.0",
 "uploaded_datetime":
-"2021-03-11T18:53:35.568516-05:00",
+"2021-04-11T18:56:47.125582-04:00",
 "uploaded_mtime":
-"2021-01-27T19:04:58-05:00",
+"2021-04-09T23:27:20-04:00",
 "uploaded_nwb_object_id":
-"fc88ce66-2899-4f80-9566-16ab18a088b5",
+"53e87ce8-6db6-4c1a-a554-56261d83d6a6",
 "uploaded_size":
 3204320
 },
 "modified":
-"2021-01-27 19:04:58-05:00",
+"2021-04-09 23:27:20-04:00",
 "name":
 "sub-365942_ses-20170725_behavior+ecephys+ogen.nwb",
 "path":
 "/sub-365942/sub-365942_ses-20170725_behavior+ecephys+ogen.nwb",
 "sha256":
-"ca8c3e906f36bc38640a10c0e634a90419492fae81f3c937b74a6b96a9f8b2dd",
+"f17c6eeb841fc051c73f06e95bf6f8167e1ef1e91ff15eee870fc11307e557a0",
 "size":
 3204320,
 "type":
@@ -6282,16 +6282,16 @@
 "attrs":
 {
 "ctime":
-"2021-03-11T23:55:38.866000+00:00",
+"2021-04-11T22:59:11.662000+00:00",
 "mtime":
-"2021-01-27T19:09:44-05:00",
+"2021-04-09T23:29:06-04:00",
 "size":
 10220086
 },
 "girder":
 {
 "id":
-"604aadfa02cb75004f0afa9e"
+"60737f3f02cb75004f0b2a87"
 },
 "metadata":
 {
@@ -6304,7 +6304,7 @@
 "institution":
 "janelia research campus",
 "md5":
-"80289a5e46a630bff43c3e68eeda0bc8",
+"64528e692e8f5d2612777af7d908139d",
 "nwb_version":
 "2.2.5",
 "session_description":
@@ -6314,11 +6314,11 @@
 "sex":
 "unknown",
 "sha1":
-"b5ed97714cba12650cdb198af4895cd0574167c3",
+"f18bfa5b362b8364363009359ff9b3e23b0e4417",
 "sha256":
-"3520444fb9a8635ce62e7305cb7c3a66d72ac16c8c036ca47f294c67f7c179dc",
+"e799977efa38c2ac5a457bcddda571c9497db0ffc649ab44f359ed338addec53",
 "sha512":
-"7cfda83897cfe25d7da8ca0f516a9ee932d01d4f694068ad3f6c55f81fc7c3c3b87793a27431572f4520945a4b2d565f729ab3e19737d01854beea1dd1223936",
+"c651dbab5725c223681c2b1f7e555cd10db587f11c7a5b9c7c4f992fddff29cb233e16d3f91f508e605d2148d6d7b7b705df6633753535d3cd5f662c8639748d",
 "species":
 "mus musculus",
 "subject_id":
@@ -6326,22 +6326,22 @@
 "uploaded_by":
 "dandi 0.11.0",
 "uploaded_datetime":
-"2021-03-11T18:53:40.181816-05:00",
+"2021-04-11T18:56:50.883496-04:00",
 "uploaded_mtime":
-"2021-01-27T19:09:44-05:00",
+"2021-04-09T23:29:06-04:00",
 "uploaded_nwb_object_id":
-"98aaab18-c92d-42d1-8d03-fb94e73b12cd",
+"a839623d-3471-4dc5-914a-3f185d729c0f",
 "uploaded_size":
 10220086
 },
 "modified":
-"2021-01-27 19:09:44-05:00",
+"2021-04-09 23:29:06-04:00",
 "name":
 "sub-365942_ses-20170726_behavior+ecephys+ogen.nwb",
 "path":
 "/sub-365942/sub-365942_ses-20170726_behavior+ecephys+ogen.nwb",
 "sha256":
-"3520444fb9a8635ce62e7305cb7c3a66d72ac16c8c036ca47f294c67f7c179dc",
+"e799977efa38c2ac5a457bcddda571c9497db0ffc649ab44f359ed338addec53",
 "size":
 10220086,
 "type":
@@ -6351,16 +6351,16 @@
 "attrs":
 {
 "ctime":
-"2021-03-11T23:55:52.343000+00:00",
+"2021-04-11T22:59:11.609000+00:00",
 "mtime":
-"2021-01-27T19:14:08-05:00",
+"2021-04-09T23:30:36-04:00",
 "size":
 5742612
 },
 "girder":
 {
 "id":
-"604aae0802cb75004f0afaad"
+"60737f3f02cb75004f0b2a86"
 },
 "metadata":
 {
@@ -6373,7 +6373,7 @@
 "institution":
 "janelia research campus",
 "md5":
-"bfddd80d1cd76f0720adcfde278bddbc",
+"32261b615c0adbef33768bdebcf1d9e4",
 "nwb_version":
 "2.2.5",
 "session_description":
@@ -6383,11 +6383,11 @@
 "sex":
 "unknown",
 "sha1":
-"3e115e1d866361dada71b600b48d70e1eab9b48d",
+"c3d14854f3c1d171e3567d305f356d19f21156bb",
 "sha256":
-"14745ad735bdee46b4480e4cead140f1984d868449f891d646649041e21624d1",
+"32ae4ad073358db50cf6b1bf56cc9f72d1bd26bbb42b58545fd614e151e11560",
 "sha512":
-"593cecc35e31266ded0ebade091351fc64dd0e92b7dee1dd7798e0506c20388ab67d783f93f0aabf238fa0515431d731cc2c9df18430a114d21353ea099b2a07",
+"820166d62f515d6a521a1d29078e49e4730baf19ba12a240b18b2c74895938a26df5beaed94afabd07435452c5b5d08240ff61908b6cbc7a1ad537fef3fbbdd6",
 "species":
 "mus musculus",
 "subject_id":
@@ -6395,22 +6395,22 @@
 "uploaded_by":
 "dandi 0.11.0",
 "uploaded_datetime":
-"2021-03-11T18:53:49.850846-05:00",
+"2021-04-11T18:56:50.911496-04:00",
 "uploaded_mtime":
-"2021-01-27T19:14:08-05:00",
+"2021-04-09T23:30:36-04:00",
 "uploaded_nwb_object_id":
-"13c43dd0-707e-4b2c-a3d0-a54e209057ab",
+"382d9821-92d6-4622-a1c7-fb18977e5194",
 "uploaded_size":
 5742612
 },
 "modified":
-"2021-01-27 19:14:08-05:00",
+"2021-04-09 23:30:36-04:00",
 "name":
 "sub-365943_ses-20170708_behavior+ecephys+ogen.nwb",
 "path":
 "/sub-365943/sub-365943_ses-20170708_behavior+ecephys+ogen.nwb",
 "sha256":
-"14745ad735bdee46b4480e4cead140f1984d868449f891d646649041e21624d1",
+"32ae4ad073358db50cf6b1bf56cc9f72d1bd26bbb42b58545fd614e151e11560",
 "size":
 5742612,
 "type":
@@ -6420,16 +6420,16 @@
 "attrs":
 {
 "ctime":
-"2021-03-11T23:55:52.675000+00:00",
+"2021-04-11T22:59:11.006000+00:00",
 "mtime":
-"2021-01-27T19:17:32-05:00",
+"2021-04-09T23:31:40-04:00",
 "size":
 3063232
 },
 "girder":
 {
 "id":
-"604aae0802cb75004f0afab1"
+"60737f3f02cb75004f0b2a82"
 },
 "metadata":
 {
@@ -6442,7 +6442,7 @@
 "institution":
 "janelia research campus",
 "md5":
-"84b29ff8f7336d309d7a7f03f8e21c87",
+"930b483b191a19fd51bd993464ac65af",
 "nwb_version":
 "2.2.5",
 "session_description":
@@ -6452,11 +6452,11 @@
 "sex":
 "unknown",
 "sha1":
-"8e552ff684dcbdc0f5d220c88c779c96c5a69e99",
+"fba4ba29d35fe9bd459b695f9ec833f0efb7c581",
 "sha256":
-"69b4036a324b4dbe602258c35359c88bc1499a0d389fae897c178f56ec2ce7c8",
+"2200918c71ba7c7d366bcee7baffa890c600bcedfed32cc0e68ec77c38ff062d",
 "sha512":
-"55cfecf5a5610b89b0420b65a71c8ac8825cafbc8055324b8823805f140c572aa5e720b55ba2f3727f0a7a8e18f97e361bbdbfc7f445d7117609ff849cd62be4",
+"5b904b250277a0e3d8dfddba6d3a1bd67cc557ec23a2c92253de5aad9e458b7aa2a71b4eb83907fd5dda77cd7fa20bc365c12aaf301f3c35e4dafdf782c4a543",
 "species":
 "mus musculus",
 "subject_id":
@@ -6464,22 +6464,22 @@
 "uploaded_by":
 "dandi 0.11.0",
 "uploaded_datetime":
-"2021-03-11T18:53:50.164039-05:00",
+"2021-04-11T18:56:50.323735-04:00",
 "uploaded_mtime":
-"2021-01-27T19:17:32-05:00",
+"2021-04-09T23:31:40-04:00",
 "uploaded_nwb_object_id":
-"9997a295-71df-449f-9085-84920143626e",
+"1fa05594-3c8d-416d-a114-9971a2867fb9",
 "uploaded_size":
 3063232
 },
 "modified":
-"2021-01-27 19:17:32-05:00",
+"2021-04-09 23:31:40-04:00",
 "name":
 "sub-365943_ses-20170711_behavior+ecephys+ogen.nwb",
 "path":
 "/sub-365943/sub-365943_ses-20170711_behavior+ecephys+ogen.nwb",
 "sha256":
-"69b4036a324b4dbe602258c35359c88bc1499a0d389fae897c178f56ec2ce7c8",
+"2200918c71ba7c7d366bcee7baffa890c600bcedfed32cc0e68ec77c38ff062d",
 "size":
 3063232,
 "type":
@@ -6489,16 +6489,16 @@
 "attrs":
 {
 "ctime":
-"2021-03-11T23:55:52.541000+00:00",
+"2021-04-11T22:59:10.456000+00:00",
 "mtime":
-"2021-01-27T19:21:12-05:00",
+"2021-04-09T23:32:54-04:00",
 "size":
 3399332
 },
 "girder":
 {
 "id":
-"604aae0802cb75004f0afaaf"
+"60737f3e02cb75004f0b2a7e"
 },
 "metadata":
 {
@@ -6511,7 +6511,7 @@
 "institution":
 "janelia research campus",
 "md5":
-"c83069db4fee63fa71c59a4a2e11056c",
+"58d06e3e66149f8f047053bf9a1d0df9",
 "nwb_version":
 "2.2.5",
 "session_description":
@@ -6521,11 +6521,11 @@
 "sex":
 "unknown",
 "sha1":
-"b6ff63ddf3d4f8766a620971b1417d7ad4a94828",
+"f392c641f8753ecddc4ff397255f15668f2027ec",
 "sha256":
-"2162bb103c80f5bb974d0fb0b56201c010f5a3a6f41d8eca9be275c54cdbc5d6",
+"2012408c73d6ca81d7e550988edaef456a2f308fdb5f452583830e66456c0c84",
 "sha512":
-"be3ef9b5b5af8e10ebc806c4e1595fa1de44ad9f440ec73a51491484ae4172440a0d95e10f38d83106850e50daff11dd5aac6e0c4945c9eb8991c3478d06f88d",
+"7fda476a4ef031c70b7fc15808700a7ed3ae8b9d8909c504f5ffd0a84b7e0e05a9804f870bc26f123a47296c508cb8c94a484afa688c6195892c3a1a70f23b9d",
 "species":
 "mus musculus",
 "subject_id":
@@ -6533,22 +6533,22 @@
 "uploaded_by":
 "dandi 0.11.0",
 "uploaded_datetime":
-"2021-03-11T18:53:50.002037-05:00",
+"2021-04-11T18:56:49.982282-04:00",
 "uploaded_mtime":
-"2021-01-27T19:21:12-05:00",
+"2021-04-09T23:32:54-04:00",
 "uploaded_nwb_object_id":
-"71c289e1-7155-4651-8325-8b3ffca844b6",
+"6fe15ed5-cb49-48ea-b6d4-cb5994ad60ea",
 "uploaded_size":
 3399332
 },
 "modified":
-"2021-01-27 19:21:12-05:00",
+"2021-04-09 23:32:54-04:00",
 "name":
 "sub-365943_ses-20170712_behavior+ecephys+ogen.nwb",
 "path":
 "/sub-365943/sub-365943_ses-20170712_behavior+ecephys+ogen.nwb",
 "sha256":
-"2162bb103c80f5bb974d0fb0b56201c010f5a3a6f41d8eca9be275c54cdbc5d6",
+"2012408c73d6ca81d7e550988edaef456a2f308fdb5f452583830e66456c0c84",
 "size":
 3399332,
 "type":
@@ -6558,16 +6558,16 @@
 "attrs":
 {
 "ctime":
-"2021-03-11T23:55:52.646000+00:00",
+"2021-04-11T22:59:11.014000+00:00",
 "mtime":
-"2021-01-27T19:23:34-05:00",
+"2021-04-09T23:33:42-04:00",
 "size":
-1089244
+1089268
 },
 "girder":
 {
 "id":
-"604aae0802cb75004f0afab0"
+"60737f3f02cb75004f0b2a83"
 },
 "metadata":
 {
@@ -6580,7 +6580,7 @@
 "institution":
 "janelia research campus",
 "md5":
-"2a86a88f591968e5c0f6e5fe1673ed13",
+"efc76340138a50c07556276e10a9b64b",
 "nwb_version":
 "2.2.5",
 "session_description":
@@ -6590,11 +6590,11 @@
 "sex":
 "unknown",
 "sha1":
-"30d08d853cd1c27bb54fcb36578df149faf58789",
+"658c7da8e3615994e83e683a4e34c1ddc96a02bd",
 "sha256":
-"f57c752c99eb5e122786aa8935a816ba63fa36d93fb23c1e96872198f0ec484e",
+"fa63332b8ce875bb98d47e6a5b83e8f1a1ed77cdddc85228a92a4f9325a1fa6c",
 "sha512":
-"323572ef90f6412d9582b5709c1a3e52d365ebb3d54b74dadb1f5f01b287c6bac9429b618b9affcdd6e3e141445ac79b75d90ba4d927a6408d44211476100fb3",
+"9b1917a71dabd959dc1ff3d7ac44afaa0a4b52a4eaeec1ee652257576f0a5072fd2749fb021b17f47bf43f190ab79a8ef37e97615685c1e965844f33596aa016",
 "species":
 "mus musculus",
 "subject_id":
@@ -6602,24 +6602,24 @@
 "uploaded_by":
 "dandi 0.11.0",
 "uploaded_datetime":
-"2021-03-11T18:53:50.147038-05:00",
+"2021-04-11T18:56:50.303735-04:00",
 "uploaded_mtime":
-"2021-01-27T19:23:34-05:00",
+"2021-04-09T23:33:42-04:00",
 "uploaded_nwb_object_id":
-"abc3bbc5-4626-40b7-b3f8-903d2d91ae51",
+"6eba9cb8-4be1-431e-84d8-f633c5f1f441",
 "uploaded_size":
-1089244
+1089268
 },
 "modified":
-"2021-01-27 19:23:34-05:00",
+"2021-04-09 23:33:42-04:00",
 "name":
 "sub-365943_ses-20170713_behavior+ecephys+ogen.nwb",
 "path":
 "/sub-365943/sub-365943_ses-20170713_behavior+ecephys+ogen.nwb",
 "sha256":
-"f57c752c99eb5e122786aa8935a816ba63fa36d93fb23c1e96872198f0ec484e",
+"fa63332b8ce875bb98d47e6a5b83e8f1a1ed77cdddc85228a92a4f9325a1fa6c",
 "size":
-1089244,
+1089268,
 "type":
 "file"
 },
@@ -6627,16 +6627,16 @@
 "attrs":
 {
 "ctime":
-"2021-03-11T23:55:53.211000+00:00",
+"2021-04-11T22:59:12.112000+00:00",
 "mtime":
-"2021-01-27T19:29:06-05:00",
+"2021-04-09T23:35:34-04:00",
 "size":
 14105180
 },
 "girder":
 {
 "id":
-"604aae0902cb75004f0afab3"
+"60737f4002cb75004f0b2a89"
 },
 "metadata":
 {
@@ -6649,7 +6649,7 @@
 "institution":
 "janelia research campus",
 "md5":
-"736bef02dbee567425e77f5fab81a042",
+"de3e486f7a48a0b1eadd1d40a57fb55a",
 "nwb_version":
 "2.2.5",
 "session_description":
@@ -6659,11 +6659,11 @@
 "sex":
 "unknown",
 "sha1":
-"6cedf286d2d8298ef311ccfe4fde928d3d450514",
+"f4eb2ea2fbc06fc79b0def88db9eab95fdbb27fb",
 "sha256":
-"7e005f570ee6c69d747028726b6ab4e115dfe6224254ad5a8fa3396a6ab97cb3",
+"21e8322664c1cf7d8a94805755a89b309594e2d9ef862288289c5d0adb10c993",
 "sha512":
-"67f7e53afa7ec8afd2ece9a0b50fe684106c30fc744a9a18565c0f6c58bb945fee1dda33dd41ef084cf7fd79a623ba3b9b873459a907fd283a036e30db5a8e4a",
+"7ed423f3e112fe2313a251a937272c581cc9ba8b5997f66c5744aa2205d039752e826d6511631d801f0d6086ba23dd46954d2aeb39da8135de78105d29b66a6a",
 "species":
 "mus musculus",
 "subject_id":
@@ -6671,22 +6671,22 @@
 "uploaded_by":
 "dandi 0.11.0",
 "uploaded_datetime":
-"2021-03-11T18:53:50.622412-05:00",
+"2021-04-11T18:56:51.429844-04:00",
 "uploaded_mtime":
-"2021-01-27T19:29:06-05:00",
+"2021-04-09T23:35:34-04:00",
 "uploaded_nwb_object_id":
-"d7226e4a-2b0c-4866-a1e3-ea8ddd5f6d6f",
+"97a7a3fc-e1ff-4d30-869a-1e6bb698493c",
 "uploaded_size":
 14105180
 },
 "modified":
-"2021-01-27 19:29:06-05:00",
+"2021-04-09 23:35:34-04:00",
 "name":
 "sub-365943_ses-20170719_behavior+ecephys+ogen.nwb",
 "path":
 "/sub-365943/sub-365943_ses-20170719_behavior+ecephys+ogen.nwb",
 "sha256":
-"7e005f570ee6c69d747028726b6ab4e115dfe6224254ad5a8fa3396a6ab97cb3",
+"21e8322664c1cf7d8a94805755a89b309594e2d9ef862288289c5d0adb10c993",
 "size":
 14105180,
 "type":
@@ -6696,16 +6696,16 @@
 "attrs":
 {
 "ctime":
-"2021-03-11T23:55:53.046000+00:00",
+"2021-04-11T22:59:11.707000+00:00",
 "mtime":
-"2021-01-27T19:33:06-05:00",
+"2021-04-09T23:36:56-04:00",
 "size":
 5153960
 },
 "girder":
 {
 "id":
-"604aae0902cb75004f0afab2"
+"60737f3f02cb75004f0b2a88"
 },
 "metadata":
 {
@@ -6718,7 +6718,7 @@
 "institution":
 "janelia research campus",
 "md5":
-"228a6fa5e2961927e17fb8178b3f60e6",
+"5cb6867e6d8ede59529ef87e3e44726b",
 "nwb_version":
 "2.2.5",
 "session_description":
@@ -6728,11 +6728,11 @@
 "sex":
 "unknown",
 "sha1":
-"97295ac8a4349c33ad0db443f4e63fb8c00b5def",
+"62789225b1eb053411534982841fa8f33de1e9e3",
 "sha256":
-"38abb59bff63f73a5f4105e234e0309728f18b36120c919bb2715390edfc76a3",
+"a399c2894ec037525b213f8a172a134d166795692e831e631c59f8c171642786",
 "sha512":
-"0d0a9fbdecf1a305fc7abe73d6465049f102bbc31264b51cac1e822b6be2c9d5a4c3756030b75ff0fe57125910a3e8a4f661391f2776322a3789388613ef5107",
+"5c4f293a14ad74f3dc607c1e706b8b6dcdd286a67a48a9fc65a75457a3b7874652fcc88a128227253a20fe26784095e2a04550e259f9c1f3883a28e83b4a9371",
 "species":
 "mus musculus",
 "subject_id":
@@ -6740,22 +6740,22 @@
 "uploaded_by":
 "dandi 0.11.0",
 "uploaded_datetime":
-"2021-03-11T18:53:50.444864-05:00",
+"2021-04-11T18:56:51.006496-04:00",
 "uploaded_mtime":
-"2021-01-27T19:33:06-05:00",
+"2021-04-09T23:36:56-04:00",
 "uploaded_nwb_object_id":
-"52e77791-4a49-4411-9420-b13bce37e0bb",
+"ebf74a45-4ccf-4756-abfe-d9bc0769bfe6",
 "uploaded_size":
 5153960
 },
 "modified":
-"2021-01-27 19:33:06-05:00",
+"2021-04-09 23:36:56-04:00",
 "name":
 "sub-365943_ses-20170720_behavior+ecephys+ogen.nwb",
 "path":
 "/sub-365943/sub-365943_ses-20170720_behavior+ecephys+ogen.nwb",
 "sha256":
-"38abb59bff63f73a5f4105e234e0309728f18b36120c919bb2715390edfc76a3",
+"a399c2894ec037525b213f8a172a134d166795692e831e631c59f8c171642786",
 "size":
 5153960,
 "type":
