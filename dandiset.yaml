@@ -5,21 +5,8 @@
 access:
 - status: dandi:OpenAccess
 assetsSummary:
-  approach: []
-  dataStandard:
-  - identifier: RRID:SCR_015242
-    name: Neurodata Without Borders (NWB)
-    schemaKey: StandardsType
-  measurementTechnique: []
-  numberOfBytes: 1009087545
-  numberOfFiles: 98
-  numberOfSubjects: 9
-  schemaKey: AssetsSummary
-  species:
-  - identifier: http://purl.obolibrary.org/obo/NCBITaxon_10090
-    name: House mouse
-    schemaKey: SpeciesType
-  variableMeasured: []
+  numberOfBytes: 0
+  numberOfFiles: 0
 citation: Finkelstein, Arseny; Svoboda, Karel (2021) Dataset for Finkelstein, Fontolan
   et al. "Attractor dynamics gate cortical information flow during decision-making"
   (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000060/draft
