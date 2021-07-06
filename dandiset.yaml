@@ -5,8 +5,31 @@
 access:
 - status: dandi:OpenAccess
 assetsSummary:
-  numberOfBytes: 0
-  numberOfFiles: 0
+  approach:
+  - name: electrophysiological approach
+    schemaKey: ApproachType
+  - name: behavioral approach
+    schemaKey: ApproachType
+  dataStandard:
+  - identifier: RRID:SCR_015242
+    name: Neurodata Without Borders (NWB)
+    schemaKey: StandardsType
+  measurementTechnique:
+  - name: behavioral technique
+    schemaKey: MeasurementTechniqueType
+  - name: spike sorting technique
+    schemaKey: MeasurementTechniqueType
+  numberOfBytes: 1009087545
+  numberOfFiles: 98
+  numberOfSubjects: 9
+  schemaKey: AssetsSummary
+  species:
+  - identifier: http://purl.obolibrary.org/obo/NCBITaxon_10090
+    name: House mouse
+    schemaKey: SpeciesType
+  variableMeasured:
+  - Units
+  - BehavioralEvents
 citation: Finkelstein, Arseny; Svoboda, Karel (2021) Dataset for Finkelstein, Fontolan
   et al. "Attractor dynamics gate cortical information flow during decision-making"
   (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000060/draft
