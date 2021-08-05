@@ -69,7 +69,8 @@ keywords:
 - decision-making
 - attractor
 - optogenetic stimulation
-manifestLocation: []
+manifestLocation:
+- https://api.dandiarchive.org/api/dandisets/000060/versions/draft/assets/
 name: Dataset for Finkelstein, Fontolan et al. "Attractor dynamics gate cortical information
   flow during decision-making"
 repository: https://dandiarchive.org/
