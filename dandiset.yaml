@@ -32,13 +32,12 @@ assetsSummary:
   variableMeasured:
   - Units
   - BehavioralEvents
-citation: Finkelstein, Arseny; Svoboda, Karel (2022) Dataset for Finkelstein, Fontolan
+citation: Finkelstein, Arseny; Svoboda, Karel (2025) Dataset for Finkelstein, Fontolan
   et al. "Attractor dynamics gate cortical information flow during decision-making"
-  (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000060/draft
+  (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/000060/draft
 contributor:
 - affiliation:
-  - includeInCitation: false
-    name: Janelia Research Campus, Howard Hughes Medical Institute
+  - name: Janelia Research Campus, Howard Hughes Medical Institute
     schemaKey: Affiliation
   email: arsenyf@gmail.com
   identifier: 0000-0003-1480-5670
@@ -49,8 +48,7 @@ contributor:
   - dcite:ContactPerson
   schemaKey: Person
 - affiliation:
-  - includeInCitation: false
-    name: Janelia Research Campus, Howard Hughes Medical Institute
+  - name: Janelia Research Campus, Howard Hughes Medical Institute
     schemaKey: Affiliation
   email: svobodak@janelia.hhmi.org
   includeInCitation: true
@@ -76,7 +74,7 @@ manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/000060/versions/draft/assets/
 name: Dataset for Finkelstein, Fontolan et al. "Attractor dynamics gate cortical information
   flow during decision-making"
-repository: https://dandiarchive.org/
+repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.0
 url: https://dandiarchive.org/dandiset/000060/draft
